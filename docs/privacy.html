@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隐私政策 - 唠嗑小馆</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+            background: #FFF9F0;
+            color: #333;
+            line-height: 1.7;
+        }
+        a { text-decoration: none; color: inherit; }
+
+        nav {
+            background: #D42A20;
+            padding: 0 20px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 12px rgba(212,42,32,0.3);
+        }
+        nav .nav-inner {
+            max-width: 900px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 56px;
+        }
+        nav .logo { font-size: 20px; font-weight: 700; color: #FFF; letter-spacing: 1px; }
+        nav .logo span { color: #D4A017; }
+        nav .nav-links { display: flex; gap: 24px; }
+        nav .nav-links a {
+            color: rgba(255,255,255,0.9);
+            font-size: 14px;
+            font-weight: 500;
+            padding: 6px 0;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+        nav .nav-links a:hover, nav .nav-links a.active {
+            color: #FFF;
+            border-bottom-color: #D4A017;
+        }
+
+        .page-header {
+            background: linear-gradient(135deg, #D42A20 0%, #B71C1C 100%);
+            color: #FFF;
+            text-align: center;
+            padding: 48px 20px 40px;
+        }
+        .page-header h1 { font-size: 32px; font-weight: 800; margin-bottom: 8px; }
+        .page-header .date { font-size: 14px; opacity: 0.8; }
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px 60px;
+        }
+        .section {
+            background: #FFF;
+            border-radius: 12px;
+            padding: 28px 28px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 10px rgba(0,0,0,0.04);
+            border-left: 4px solid #D42A20;
+        }
+        .section h2 {
+            font-size: 18px;
+            color: #D42A20;
+            margin-bottom: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .section h2 .icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px; height: 28px;
+            background: #FFF0F0;
+            border-radius: 8px;
+            font-size: 14px;
+            flex-shrink: 0;
+        }
+        .section p {
+            font-size: 14px;
+            color: #555;
+            line-height: 1.8;
+            margin-bottom: 10px;
+        }
+        .section p:last-child { margin-bottom: 0; }
+        .section .email-link {
+            color: #D42A20;
+            font-weight: 600;
+        }
+
+        footer {
+            background: #2C2C2C;
+            color: rgba(255,255,255,0.5);
+            text-align: center;
+            padding: 24px 20px;
+            font-size: 13px;
+        }
+        footer .links { margin-bottom: 10px; }
+        footer .links a {
+            color: rgba(255,255,255,0.7);
+            margin: 0 12px;
+            font-size: 13px;
+            transition: color 0.2s;
+        }
+        footer .links a:hover { color: #D4A017; }
+
+        @media (max-width: 600px) {
+            nav .nav-inner { height: 50px; }
+            nav .logo { font-size: 17px; }
+            nav .nav-links { gap: 16px; }
+            nav .nav-links a { font-size: 13px; }
+            .page-header { padding: 36px 16px 32px; }
+            .page-header h1 { font-size: 26px; }
+            .section { padding: 20px 18px; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="nav-inner">
+            <div class="logo">唠嗑<span>小馆</span></div>
+            <div class="nav-links">
+                <a href="index.html">首页</a>
+                <a href="privacy.html" class="active">隐私政策</a>
+                <a href="terms.html">用户协议</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="page-header">
+        <h1>隐私政策</h1>
+        <p class="date">更新日期：2026年4月25日</p>
+    </section>
+
+    <div class="content">
+        <div class="section">
+            <h2><span class="icon">📋</span>一、引言</h2>
+            <p>欢迎使用「唠嗑小馆」（以下简称「本应用」）。我们非常重视您的隐私保护。本隐私政策旨在向您说明我们如何收集、使用和保护您的个人信息。请您在使用本应用前仔细阅读本政策。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">📦</span>二、我们收集的信息</h2>
+            <p>本应用默认仅在您的设备本地存储以下信息：</p>
+            <p>1. <strong>昵称</strong>：您在首次使用时输入的昵称，仅用于应用内显示。iOS 端存储于 UserDefaults；Android 端存储于 DataStore。</p>
+            <p>2. <strong>学习进度</strong>：包括词汇学习记录、测验成绩、连续学习天数、打卡记录等。iOS 端默认存储于本地文件，Android 端默认存储于本地数据库（Room）。</p>
+            <p>本应用不要求您提供真实姓名、身份证号、邮箱地址或电话号码等法定身份信息。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">🔐</span>三、设备权限使用</h2>
+            <p>本应用可能请求以下设备权限（按需申请，拒绝后不会影响其他无关功能）：</p>
+            <p>1. <strong>麦克风权限</strong>：用于「跟读练习」录制语音进行发音评测。</p>
+            <p>2. <strong>定位权限</strong>：用于风景打卡时验证您是否位于景点附近。</p>
+            <p>3. <strong>相机权限</strong>：用于「风景打卡」拍摄照片（可选）。</p>
+            <p>4. <strong>相册权限</strong>：用于「风景打卡」从系统相册选择照片（可选）。</p>
+            <p>我们不会在首次启动时一次性申请全部权限，仅在您触发相关功能时弹窗申请。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">🛡️</span>四、数据存储与安全</h2>
+            <p>核心学习数据默认存储在您的设备本地。</p>
+            <p>当您主动启用可选联网功能（如 AI 对话、云端语音评测）时，您输入的文本或语音内容可能会发送至对应服务提供商处理。</p>
+            <p>Android 版本可能集成以下第三方 SDK：高德地图 SDK（定位/地图）、讯飞语音评测 SDK（口语评测）、崩溃分析 SDK（稳定性保障，按需启用）。我们会在应用内和商店页面同步披露 SDK 名称、用途与收集字段。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">🤝</span>五、数据共享</h2>
+            <p>我们不会将您的数据出售给第三方，不会用于广告投放或跨应用跟踪。</p>
+            <p>仅在您主动使用可选联网功能时，相关请求数据会传输给对应的服务提供商，用于完成该次功能请求。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">🗑️</span>六、数据删除</h2>
+            <p>您可以随时通过以下方式删除您的数据：</p>
+            <p>1. 在应用内清空学习记录与打卡数据（若版本提供该入口）；</p>
+            <p>2. 直接卸载本应用，所有本地数据将被完全删除。</p>
+            <p>由于本应用无强制注册账号体系，默认不保存可识别实名身份的信息。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">👶</span>七、儿童隐私</h2>
+            <p>本应用不会故意收集13岁以下儿童的个人信息。本应用的内容适合所有年龄段用户使用。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">🔄</span>八、隐私政策的变更</h2>
+            <p>我们可能会不时更新本隐私政策。更新后的政策将在应用内展示，请您定期查看。继续使用本应用即表示您同意更新后的隐私政策。</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="icon">📧</span>九、联系我们</h2>
+            <p>如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：</p>
+            <p>邮箱：<span class="email-link">laotie.app@outlook.com</span></p>
+        </div>
+    </div>
+
+    <footer>
+        <div class="links">
+            <a href="index.html">首页</a>
+            <a href="privacy.html">隐私政策</a>
+            <a href="terms.html">用户协议</a>
+        </div>
+        <p>&copy; 2026 唠嗑小馆 All Rights Reserved</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Android
+*.iml
+.gradle/
+local.properties
+captures/
+.idea/
+
+# Build
+build/
+**/build/
+build_output/
+
+# Local workspace config
+.qoder/
+
+# Signing
+keystore.properties
+*.jks
+*.keystore
+
+# Kotlin
+*.kotlin_module

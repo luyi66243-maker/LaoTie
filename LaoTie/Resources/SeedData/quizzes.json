@@ -1,0 +1,6830 @@
+[
+  {
+    "id": "level_1",
+    "levelNumber": 1,
+    "title": "长春关",
+    "subtitle": "吉林·长春 - 入门5词",
+    "passingScore": 60,
+    "rewardXP": 100,
+    "questions": [
+      {
+        "id": "l1q1",
+        "type": "multiple_choice",
+        "prompt": "\"嘎哈\"是什么意思？",
+        "options": [
+          "好兄弟",
+          "喜欢/稀奇",
+          "特别脆",
+          "干什么"
+        ],
+        "correctAnswer": "干什么",
+        "explanation": "\"嘎哈\"就是\"干什么\"的意思。做什么、干什么的意思，是东北话中最常用的口语表达之一"
+      },
+      {
+        "id": "l1q2",
+        "type": "multiple_choice",
+        "prompt": "\"整\"是什么意思？",
+        "options": [
+          "是的/对的",
+          "做/弄/搞",
+          "非常/很",
+          "非常好/特别棒"
+        ],
+        "correctAnswer": "做/弄/搞",
+        "explanation": "\"整\"就是\"做/弄/搞\"的意思。万能动词，可以替代几乎所有动词，表示做、弄、搞定等意思"
+      },
+      {
+        "id": "l1q3",
+        "type": "multiple_choice",
+        "prompt": "\"贼\"是什么意思？",
+        "options": [
+          "算了吧",
+          "散步/闲逛",
+          "特别脆",
+          "非常/很"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "\"贼\"就是\"非常/很\"的意思。程度副词，表示非常、特别的意思"
+      },
+      {
+        "id": "l1q4",
+        "type": "multiple_choice",
+        "prompt": "\"老铁\"是什么意思？",
+        "options": [
+          "吃",
+          "好朋友/好兄弟",
+          "特别脆",
+          "干什么"
+        ],
+        "correctAnswer": "好朋友/好兄弟",
+        "explanation": "\"老铁\"就是\"好朋友/好兄弟\"的意思。对关系特别好的朋友的称呼，铁表示关系铁、坚固"
+      },
+      {
+        "id": "l1q5",
+        "type": "multiple_choice",
+        "prompt": "\"咋整\"是什么意思？",
+        "options": [
+          "怎么办",
+          "特别脆",
+          "做/弄/搞",
+          "吃"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "\"咋整\"就是\"怎么办\"的意思。怎么办、怎么处理的意思"
+      }
+    ],
+    "province": "吉林",
+    "city": "长春"
+  },
+  {
+    "id": "level_2",
+    "levelNumber": 2,
+    "title": "长春关(2)",
+    "subtitle": "吉林·长春 - 基础10词",
+    "passingScore": 60,
+    "rewardXP": 200,
+    "questions": [
+      {
+        "id": "l2q1",
+        "type": "multiple_choice",
+        "prompt": "\"嘎哈\"是什么意思？",
+        "options": [
+          "散步/闲逛",
+          "非常好/特别棒",
+          "聊天",
+          "干什么"
+        ],
+        "correctAnswer": "干什么",
+        "explanation": "\"嘎哈\"就是\"干什么\"的意思。做什么、干什么的意思，是东北话中最常用的口语表达之一"
+      },
+      {
+        "id": "l2q2",
+        "type": "multiple_choice",
+        "prompt": "\"整\"是什么意思？",
+        "options": [
+          "吃",
+          "做/弄/搞",
+          "算了吧",
+          "聊天"
+        ],
+        "correctAnswer": "做/弄/搞",
+        "explanation": "\"整\"就是\"做/弄/搞\"的意思。万能动词，可以替代几乎所有动词，表示做、弄、搞定等意思"
+      },
+      {
+        "id": "l2q3",
+        "type": "multiple_choice",
+        "prompt": "\"贼\"是什么意思？",
+        "options": [
+          "散步/闲逛",
+          "非常/很",
+          "是的/对的",
+          "聊天"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "\"贼\"就是\"非常/很\"的意思。程度副词，表示非常、特别的意思"
+      },
+      {
+        "id": "l2q4",
+        "type": "multiple_choice",
+        "prompt": "\"老铁\"是什么意思？",
+        "options": [
+          "非常/很",
+          "好兄弟",
+          "好朋友/好兄弟",
+          "散步/闲逛"
+        ],
+        "correctAnswer": "好朋友/好兄弟",
+        "explanation": "\"老铁\"就是\"好朋友/好兄弟\"的意思。对关系特别好的朋友的称呼，铁表示关系铁、坚固"
+      },
+      {
+        "id": "l2q5",
+        "type": "multiple_choice",
+        "prompt": "\"咋整\"是什么意思？",
+        "options": [
+          "好兄弟",
+          "干什么",
+          "是的/对的",
+          "怎么办"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "\"咋整\"就是\"怎么办\"的意思。怎么办、怎么处理的意思"
+      },
+      {
+        "id": "l2q6",
+        "type": "multiple_choice",
+        "prompt": "\"唠嗑\"是什么意思？",
+        "options": [
+          "非常/很",
+          "非常好/特别棒",
+          "聊天",
+          "怎么办"
+        ],
+        "correctAnswer": "聊天",
+        "explanation": "\"唠嗑\"就是\"聊天\"的意思。聊天、闲谈的意思"
+      },
+      {
+        "id": "l2q7",
+        "type": "multiple_choice",
+        "prompt": "\"喜欢/稀奇\"用东北话怎么说？",
+        "options": [
+          "稀罕",
+          "嘎嘣脆",
+          "唠嗑",
+          "造"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"喜欢/稀奇\"的东北话说法是\"稀罕\"！"
+      },
+      {
+        "id": "l2q8",
+        "type": "multiple_choice",
+        "prompt": "\"好兄弟\"用东北话怎么说？",
+        "options": [
+          "铁子",
+          "整",
+          "老铁",
+          "贼"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "\"好兄弟\"的东北话说法是\"铁子\"！"
+      },
+      {
+        "id": "l2q9",
+        "type": "multiple_choice",
+        "prompt": "\"非常好/特别棒\"用东北话怎么说？",
+        "options": [
+          "唠嗑",
+          "杠杠的",
+          "嘎哈",
+          "老铁"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "\"非常好/特别棒\"的东北话说法是\"杠杠的\"！"
+      },
+      {
+        "id": "l2q10",
+        "type": "multiple_choice",
+        "prompt": "\"是的/对的\"用东北话怎么说？",
+        "options": [
+          "造",
+          "杠杠的",
+          "嗯哪",
+          "稀罕"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "\"是的/对的\"的东北话说法是\"嗯哪\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "长春"
+  },
+  {
+    "id": "level_3",
+    "levelNumber": 3,
+    "title": "长春关(3)",
+    "subtitle": "吉林·长春 - 进阶20题",
+    "passingScore": 65,
+    "rewardXP": 400,
+    "rewardTitle": "东北通行证",
+    "questions": [
+      {
+        "id": "l3q1",
+        "type": "multiple_choice",
+        "prompt": "\"得瑟\"是什么意思？",
+        "options": [
+          "炫耀/显摆",
+          "特别脆",
+          "是的/对的",
+          "好朋友/好兄弟"
+        ],
+        "correctAnswer": "炫耀/显摆",
+        "explanation": "\"得瑟\"就是\"炫耀/显摆\"的意思。形容一个人爱炫耀、显摆、不低调"
+      },
+      {
+        "id": "l3q2",
+        "type": "multiple_choice",
+        "prompt": "\"磕碜\"是什么意思？",
+        "options": [
+          "干什么",
+          "非常好/特别棒",
+          "算了吧",
+          "丢人/难看"
+        ],
+        "correctAnswer": "丢人/难看",
+        "explanation": "\"磕碜\"就是\"丢人/难看\"的意思。形容丢人现眼、不好意思，或者形容长得不好看"
+      },
+      {
+        "id": "l3q3",
+        "type": "multiple_choice",
+        "prompt": "\"埋汰\"是什么意思？",
+        "options": [
+          "痒",
+          "脏/不干净",
+          "是的/对的",
+          "说谎/胡说"
+        ],
+        "correctAnswer": "脏/不干净",
+        "explanation": "\"埋汰\"就是\"脏/不干净\"的意思。形容东西脏、不干净，也可以形容说话难听"
+      },
+      {
+        "id": "l3q4",
+        "type": "multiple_choice",
+        "prompt": "\"秃噜\"是什么意思？",
+        "options": [
+          "是的/对的",
+          "傻/愣",
+          "好朋友/好兄弟",
+          "滑落/搞砸"
+        ],
+        "correctAnswer": "滑落/搞砸",
+        "explanation": "\"秃噜\"就是\"滑落/搞砸\"的意思。形容东西滑落、或者把事情搞砸了"
+      },
+      {
+        "id": "l3q5",
+        "type": "multiple_choice",
+        "prompt": "\"嘚嘚\"是什么意思？",
+        "options": [
+          "啰嗦/话多",
+          "傻/愣",
+          "干什么",
+          "喜欢/稀奇"
+        ],
+        "correctAnswer": "啰嗦/话多",
+        "explanation": "\"嘚嘚\"就是\"啰嗦/话多\"的意思。形容一个人话特别多、很啰嗦"
+      },
+      {
+        "id": "l3q6",
+        "type": "multiple_choice",
+        "prompt": "\"彪\"是什么意思？",
+        "options": [
+          "傻/愣",
+          "特别脆",
+          "做/弄/搞",
+          "干什么"
+        ],
+        "correctAnswer": "傻/愣",
+        "explanation": "\"彪\"就是\"傻/愣\"的意思。形容一个人傻、做事不经大脑"
+      },
+      {
+        "id": "l3q7",
+        "type": "multiple_choice",
+        "prompt": "\"聊天\"用东北话怎么说？",
+        "options": [
+          "铁子",
+          "唠嗑",
+          "杠杠的",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "唠嗑",
+        "explanation": "\"聊天\"的东北话说法是\"唠嗑\"！"
+      },
+      {
+        "id": "l3q8",
+        "type": "multiple_choice",
+        "prompt": "\"喜欢/稀奇\"用东北话怎么说？",
+        "options": [
+          "嗯哪",
+          "老铁",
+          "嘎哈",
+          "稀罕"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"喜欢/稀奇\"的东北话说法是\"稀罕\"！"
+      },
+      {
+        "id": "l3q9",
+        "type": "multiple_choice",
+        "prompt": "\"好兄弟\"用东北话怎么说？",
+        "options": [
+          "咋整",
+          "铁子",
+          "唠嗑",
+          "彪"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "\"好兄弟\"的东北话说法是\"铁子\"！"
+      },
+      {
+        "id": "l3q10",
+        "type": "multiple_choice",
+        "prompt": "\"非常好/特别棒\"用东北话怎么说？",
+        "options": [
+          "咋整",
+          "杠杠的",
+          "咯应",
+          "嗯哪"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "\"非常好/特别棒\"的东北话说法是\"杠杠的\"！"
+      },
+      {
+        "id": "l3q11",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你别老_____了行不？",
+        "options": [
+          "膈应",
+          "得瑟",
+          "老铁",
+          "彪"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "正确答案是\"得瑟\"（炫耀/显摆）。带有轻微贬义，但朋友之间用是调侃"
+      },
+      {
+        "id": "l3q12",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：多_____啊这事儿！",
+        "options": [
+          "包圆儿",
+          "磕碜",
+          "上赶着",
+          "装犊子"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "正确答案是\"磕碜\"（丢人/难看）。语气根据场景可轻可重"
+      },
+      {
+        "id": "l3q13",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你看你手_____的！",
+        "options": [
+          "拉倒吧",
+          "磕碜",
+          "贼",
+          "埋汰"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "正确答案是\"埋汰\"（脏/不干净）。妈妈训孩子时高频使用"
+      },
+      {
+        "id": "l3q14",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：手一_____碗就掉了",
+        "options": [
+          "磕碜",
+          "得瑟",
+          "秃噜",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "正确答案是\"秃噜\"（滑落/搞砸）。既可以形容物理上的滑落也可以比喻事情出错"
+      },
+      {
+        "id": "l3q15",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你还想跑步？拉倒吧你！」",
+        "options": [
+          "你还想跑步？算了吧你！",
+          "使劲吃！别客气！",
+          "你别啰嗦了行不行？",
+          "你小子还挺有骨气！"
+        ],
+        "correctAnswer": "你还想跑步？算了吧你！",
+        "explanation": "「你还想跑步？拉倒吧你！」的意思是「你还想跑步？算了吧你！」"
+      },
+      {
+        "id": "l3q16",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「这黄瓜嘎嘣脆！」",
+        "options": [
+          "你别老是炫耀了行不行？",
+          "这黄瓜特别脆！",
+          "是的，就是这样！",
+          "来两瓶雪花啤酒！"
+        ],
+        "correctAnswer": "这黄瓜特别脆！",
+        "explanation": "「这黄瓜嘎嘣脆！」的意思是「这黄瓜特别脆！」"
+      },
+      {
+        "id": "l3q17",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「可劲儿造！别客气！」",
+        "options": [
+          "使劲吃！别客气！",
+          "你别啰嗦了行不行？",
+          "主动凑上去的不叫好生意！",
+          "你要去干什么？"
+        ],
+        "correctAnswer": "使劲吃！别客气！",
+        "explanation": "「可劲儿造！别客气！」的意思是「使劲吃！别客气！」"
+      },
+      {
+        "id": "l3q18",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v001",
+        "options": [
+          "干什么",
+          "怎么办",
+          "雪花啤酒",
+          "吃"
+        ],
+        "correctAnswer": "干什么",
+        "explanation": "你听到的是\"嘎哈\"，意思是\"干什么\"！"
+      },
+      {
+        "id": "l3q19",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v002",
+        "options": [
+          "特别脆",
+          "做/弄/搞",
+          "雪花啤酒",
+          "算了吧"
+        ],
+        "correctAnswer": "做/弄/搞",
+        "explanation": "你听到的是\"整\"，意思是\"做/弄/搞\"！"
+      },
+      {
+        "id": "l3q20",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v003",
+        "options": [
+          "非常/很",
+          "装模作样",
+          "傻/愣",
+          "丢人/难看"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "你听到的是\"贼\"，意思是\"非常/很\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "长春"
+  },
+  {
+    "id": "level_4",
+    "levelNumber": 4,
+    "title": "雾凇关",
+    "subtitle": "吉林·吉林市 - 混合40题",
+    "passingScore": 70,
+    "rewardXP": 800,
+    "rewardTitle": "东北话达人",
+    "questions": [
+      {
+        "id": "l4q1",
+        "type": "multiple_choice",
+        "prompt": "\"嘎哈\"是什么意思？",
+        "options": [
+          "非常好/特别棒",
+          "吃",
+          "干什么",
+          "膝盖"
+        ],
+        "correctAnswer": "干什么",
+        "explanation": "\"嘎哈\"就是\"干什么\"的意思。做什么、干什么的意思，是东北话中最常用的口语表达之一"
+      },
+      {
+        "id": "l4q2",
+        "type": "multiple_choice",
+        "prompt": "\"整\"是什么意思？",
+        "options": [
+          "做/弄/搞",
+          "啰嗦/话多",
+          "痒",
+          "吃"
+        ],
+        "correctAnswer": "做/弄/搞",
+        "explanation": "\"整\"就是\"做/弄/搞\"的意思。万能动词，可以替代几乎所有动词，表示做、弄、搞定等意思"
+      },
+      {
+        "id": "l4q3",
+        "type": "multiple_choice",
+        "prompt": "\"贼\"是什么意思？",
+        "options": [
+          "炫耀/显摆",
+          "啰嗦/话多",
+          "非常/很",
+          "干什么"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "\"贼\"就是\"非常/很\"的意思。程度副词，表示非常、特别的意思"
+      },
+      {
+        "id": "l4q4",
+        "type": "multiple_choice",
+        "prompt": "\"老铁\"是什么意思？",
+        "options": [
+          "恶心/讨厌",
+          "好朋友/好兄弟",
+          "吃",
+          "啰嗦/话多"
+        ],
+        "correctAnswer": "好朋友/好兄弟",
+        "explanation": "\"老铁\"就是\"好朋友/好兄弟\"的意思。对关系特别好的朋友的称呼，铁表示关系铁、坚固"
+      },
+      {
+        "id": "l4q5",
+        "type": "multiple_choice",
+        "prompt": "\"得瑟\"是什么意思？",
+        "options": [
+          "干什么",
+          "膝盖",
+          "做/弄/搞",
+          "炫耀/显摆"
+        ],
+        "correctAnswer": "炫耀/显摆",
+        "explanation": "\"得瑟\"就是\"炫耀/显摆\"的意思。形容一个人爱炫耀、显摆、不低调"
+      },
+      {
+        "id": "l4q6",
+        "type": "multiple_choice",
+        "prompt": "\"咋整\"是什么意思？",
+        "options": [
+          "非常好/特别棒",
+          "怎么办",
+          "做/弄/搞",
+          "有骨气/厉害"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "\"咋整\"就是\"怎么办\"的意思。怎么办、怎么处理的意思"
+      },
+      {
+        "id": "l4q7",
+        "type": "multiple_choice",
+        "prompt": "\"磕碜\"是什么意思？",
+        "options": [
+          "傻/愣",
+          "好朋友/好兄弟",
+          "丢人/难看",
+          "特别脆"
+        ],
+        "correctAnswer": "丢人/难看",
+        "explanation": "\"磕碜\"就是\"丢人/难看\"的意思。形容丢人现眼、不好意思，或者形容长得不好看"
+      },
+      {
+        "id": "l4q8",
+        "type": "multiple_choice",
+        "prompt": "\"唠嗑\"是什么意思？",
+        "options": [
+          "干什么",
+          "聊天",
+          "恶心/讨厌",
+          "好朋友/好兄弟"
+        ],
+        "correctAnswer": "聊天",
+        "explanation": "\"唠嗑\"就是\"聊天\"的意思。聊天、闲谈的意思"
+      },
+      {
+        "id": "l4q9",
+        "type": "multiple_choice",
+        "prompt": "\"脏/不干净\"用东北话怎么说？",
+        "options": [
+          "得瑟",
+          "溜达",
+          "老铁",
+          "埋汰"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "\"脏/不干净\"的东北话说法是\"埋汰\"！"
+      },
+      {
+        "id": "l4q10",
+        "type": "multiple_choice",
+        "prompt": "\"喜欢/稀奇\"用东北话怎么说？",
+        "options": [
+          "唠嗑",
+          "磕碜",
+          "埋汰",
+          "稀罕"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"喜欢/稀奇\"的东北话说法是\"稀罕\"！"
+      },
+      {
+        "id": "l4q11",
+        "type": "multiple_choice",
+        "prompt": "\"滑落/搞砸\"用东北话怎么说？",
+        "options": [
+          "嗯哪",
+          "秃噜",
+          "溜达",
+          "嘎哈"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "\"滑落/搞砸\"的东北话说法是\"秃噜\"！"
+      },
+      {
+        "id": "l4q12",
+        "type": "multiple_choice",
+        "prompt": "\"啰嗦/话多\"用东北话怎么说？",
+        "options": [
+          "整",
+          "咋整",
+          "嘚嘚",
+          "削你"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "\"啰嗦/话多\"的东北话说法是\"嘚嘚\"！"
+      },
+      {
+        "id": "l4q13",
+        "type": "multiple_choice",
+        "prompt": "\"傻/愣\"用东北话怎么说？",
+        "options": [
+          "嘎嘣脆",
+          "咯应",
+          "稀罕",
+          "彪"
+        ],
+        "correctAnswer": "彪",
+        "explanation": "\"傻/愣\"的东北话说法是\"彪\"！"
+      },
+      {
+        "id": "l4q14",
+        "type": "multiple_choice",
+        "prompt": "\"雪花啤酒\"用东北话怎么说？",
+        "options": [
+          "尿性",
+          "大绿棒子",
+          "咯应",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "大绿棒子",
+        "explanation": "\"雪花啤酒\"的东北话说法是\"大绿棒子\"！"
+      },
+      {
+        "id": "l4q15",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：_____，走一个！",
+        "options": [
+          "稀罕",
+          "彪",
+          "唠嗑",
+          "铁子"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "正确答案是\"铁子\"（好兄弟）。喝酒时的劝酒词常用"
+      },
+      {
+        "id": "l4q16",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：再嘚嘚信不信_____？",
+        "options": [
+          "磕碜",
+          "削你",
+          "嘎嘣脆",
+          "秃噜"
+        ],
+        "correctAnswer": "削你",
+        "explanation": "正确答案是\"削你\"（打你）。虽然听起来凶，但朋友之间多是玩笑"
+      },
+      {
+        "id": "l4q17",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：这菜味道_____！",
+        "options": [
+          "杠杠的",
+          "溜达",
+          "嘎嘣脆",
+          "贼"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "正确答案是\"杠杠的\"（非常好/特别棒）。夸赞任何事物都可以用"
+      },
+      {
+        "id": "l4q18",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你这人真_____人！",
+        "options": [
+          "稀罕",
+          "造",
+          "咋整",
+          "膈应"
+        ],
+        "correctAnswer": "膈应",
+        "explanation": "正确答案是\"膈应\"（恶心/讨厌）。表达反感时使用"
+      },
+      {
+        "id": "l4q19",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：_____，就是这么回事儿！",
+        "options": [
+          "削你",
+          "老铁",
+          "嘚嘚",
+          "嗯哪"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "正确答案是\"嗯哪\"（是的/对的）。日常对话中非常高频"
+      },
+      {
+        "id": "l4q20",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你别挠我，_____死了！",
+        "options": [
+          "膈应",
+          "溜达",
+          "咯应",
+          "尿性"
+        ],
+        "correctAnswer": "咯应",
+        "explanation": "正确答案是\"咯应\"（痒）。注意和'膈应'区分，发音相近但意思不同"
+      },
+      {
+        "id": "l4q21",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v006",
+        "options": [
+          "傻/愣",
+          "痒",
+          "喜欢/稀奇",
+          "怎么办"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "你听到的是\"咋整\"，意思是\"怎么办\"！"
+      },
+      {
+        "id": "l4q22",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v007",
+        "options": [
+          "特别脆",
+          "非常/很",
+          "干什么",
+          "丢人/难看"
+        ],
+        "correctAnswer": "丢人/难看",
+        "explanation": "你听到的是\"磕碜\"，意思是\"丢人/难看\"！"
+      },
+      {
+        "id": "l4q23",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v008",
+        "options": [
+          "聊天",
+          "说谎/胡说",
+          "打你",
+          "痒"
+        ],
+        "correctAnswer": "聊天",
+        "explanation": "你听到的是\"唠嗑\"，意思是\"聊天\"！"
+      },
+      {
+        "id": "l4q24",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v009",
+        "options": [
+          "说谎/胡说",
+          "脏/不干净",
+          "全部包下",
+          "炫耀/显摆"
+        ],
+        "correctAnswer": "脏/不干净",
+        "explanation": "你听到的是\"埋汰\"，意思是\"脏/不干净\"！"
+      },
+      {
+        "id": "l4q25",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v010",
+        "options": [
+          "痒",
+          "雪花啤酒",
+          "喜欢/稀奇",
+          "主动凑上去"
+        ],
+        "correctAnswer": "喜欢/稀奇",
+        "explanation": "你听到的是\"稀罕\"，意思是\"喜欢/稀奇\"！"
+      },
+      {
+        "id": "l4q26",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v011",
+        "options": [
+          "痒",
+          "主动凑上去",
+          "滑落/搞砸",
+          "傻/愣"
+        ],
+        "correctAnswer": "滑落/搞砸",
+        "explanation": "你听到的是\"秃噜\"，意思是\"滑落/搞砸\"！"
+      },
+      {
+        "id": "l4q27",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你还想跑步？拉倒吧你！」",
+        "options": [
+          "你要去干什么？",
+          "你还想跑步？算了吧你！",
+          "来来来，咱俩聊聊天！",
+          "来两瓶雪花啤酒！"
+        ],
+        "correctAnswer": "你还想跑步？算了吧你！",
+        "explanation": "「你还想跑步？拉倒吧你！」的意思是「你还想跑步？算了吧你！」"
+      },
+      {
+        "id": "l4q28",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「今天这顿我包圆儿了！」",
+        "options": [
+          "你别老是炫耀了行不行？",
+          "你别挠我，痒死了！",
+          "今天这顿我全请了！",
+          "这件事多丢人啊！"
+        ],
+        "correctAnswer": "今天这顿我全请了！",
+        "explanation": "「今天这顿我包圆儿了！」的意思是「今天这顿我全请了！」"
+      },
+      {
+        "id": "l4q29",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「这黄瓜嘎嘣脆！」",
+        "options": [
+          "来来来，咱俩聊聊天！",
+          "来两瓶雪花啤酒！",
+          "这黄瓜特别脆！",
+          "你还想跑步？算了吧你！"
+        ],
+        "correctAnswer": "这黄瓜特别脆！",
+        "explanation": "「这黄瓜嘎嘣脆！」的意思是「这黄瓜特别脆！」"
+      },
+      {
+        "id": "l4q30",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你小子还挺有尿性！」",
+        "options": [
+          "咱们弄点什么吃的吧？",
+          "这菜味道非常好！",
+          "你小子还挺有骨气！",
+          "你别啰嗦了行不行？"
+        ],
+        "correctAnswer": "你小子还挺有骨气！",
+        "explanation": "「你小子还挺有尿性！」的意思是「你小子还挺有骨气！」"
+      },
+      {
+        "id": "l4q31",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你别扒瞎了！」",
+        "options": [
+          "你要去干什么？",
+          "你别胡说了！",
+          "今天这顿我全请了！",
+          "你别挠我，痒死了！"
+        ],
+        "correctAnswer": "你别胡说了！",
+        "explanation": "「你别扒瞎了！」的意思是「你别胡说了！」"
+      },
+      {
+        "id": "l4q32",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你别跟我装犊子！」",
+        "options": [
+          "我可喜欢你了！",
+          "你别跟我装模作样！",
+          "这件事多丢人啊！",
+          "你别挠我，痒死了！"
+        ],
+        "correctAnswer": "你别跟我装模作样！",
+        "explanation": "「你别跟我装犊子！」的意思是「你别跟我装模作样！」"
+      },
+      {
+        "id": "l4q33",
+        "type": "multiple_choice",
+        "prompt": "读音\"dè se\"对应的东北话词是？",
+        "options": [
+          "杠杠的",
+          "埋汰",
+          "得瑟",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"dè se\"读的是\"得瑟\"，意思是\"炫耀/显摆\"！"
+      },
+      {
+        "id": "l4q34",
+        "type": "multiple_choice",
+        "prompt": "读音\"kē chen\"对应的东北话词是？",
+        "options": [
+          "得瑟",
+          "嘚嘚",
+          "包圆儿",
+          "磕碜"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"kē chen\"读的是\"磕碜\"，意思是\"丢人/难看\"！"
+      },
+      {
+        "id": "l4q35",
+        "type": "multiple_choice",
+        "prompt": "读音\"mái tai\"对应的东北话词是？",
+        "options": [
+          "波棱盖儿",
+          "整",
+          "埋汰",
+          "尿性"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "\"mái tai\"读的是\"埋汰\"，意思是\"脏/不干净\"！"
+      },
+      {
+        "id": "l4q36",
+        "type": "multiple_choice",
+        "prompt": "读音\"tū lu\"对应的东北话词是？",
+        "options": [
+          "得瑟",
+          "大绿棒子",
+          "秃噜",
+          "杠杠的"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "\"tū lu\"读的是\"秃噜\"，意思是\"滑落/搞砸\"！"
+      },
+      {
+        "id": "l4q37",
+        "type": "multiple_choice",
+        "prompt": "\"削你\"是什么意思？",
+        "options": [
+          "喜欢/稀奇",
+          "打你",
+          "算了吧",
+          "怎么办"
+        ],
+        "correctAnswer": "打你",
+        "explanation": "\"削你\"就是\"打你\"的意思。打你、揍你的意思，东北话中威胁用语"
+      },
+      {
+        "id": "l4q38",
+        "type": "multiple_choice",
+        "prompt": "\"膈应\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "特别脆",
+          "啰嗦/话多",
+          "恶心/讨厌"
+        ],
+        "correctAnswer": "恶心/讨厌",
+        "explanation": "\"膈应\"就是\"恶心/讨厌\"的意思。让人觉得不舒服、恶心、讨厌"
+      },
+      {
+        "id": "l4q39",
+        "type": "multiple_choice",
+        "prompt": "\"包圆儿\"是什么意思？",
+        "options": [
+          "全部包下",
+          "干什么",
+          "做/弄/搞",
+          "装模作样"
+        ],
+        "correctAnswer": "全部包下",
+        "explanation": "\"包圆儿\"就是\"全部包下\"的意思。把所有的都包下来、全部承担"
+      },
+      {
+        "id": "l4q40",
+        "type": "multiple_choice",
+        "prompt": "\"尿性\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "干什么",
+          "说谎/胡说",
+          "雪花啤酒"
+        ],
+        "correctAnswer": "有骨气/厉害",
+        "explanation": "\"尿性\"就是\"有骨气/厉害\"的意思。形容一个人有骨气、有能力、够厉害"
+      }
+    ],
+    "province": "吉林",
+    "city": "吉林市"
+  },
+  {
+    "id": "level_5",
+    "levelNumber": 5,
+    "title": "雾凇关(2)",
+    "subtitle": "吉林·吉林市 - 终极80题",
+    "passingScore": 75,
+    "rewardXP": 1600,
+    "rewardTitle": "地道老铁",
+    "questions": [
+      {
+        "id": "l5q1",
+        "type": "multiple_choice",
+        "prompt": "\"嘎哈\"是什么意思？",
+        "options": [
+          "傻/愣",
+          "干什么",
+          "好兄弟",
+          "是的/对的"
+        ],
+        "correctAnswer": "干什么",
+        "explanation": "\"嘎哈\"就是\"干什么\"的意思。做什么、干什么的意思，是东北话中最常用的口语表达之一"
+      },
+      {
+        "id": "l5q2",
+        "type": "multiple_choice",
+        "prompt": "\"整\"是什么意思？",
+        "options": [
+          "脏/不干净",
+          "好朋友/好兄弟",
+          "做/弄/搞",
+          "丢人/难看"
+        ],
+        "correctAnswer": "做/弄/搞",
+        "explanation": "\"整\"就是\"做/弄/搞\"的意思。万能动词，可以替代几乎所有动词，表示做、弄、搞定等意思"
+      },
+      {
+        "id": "l5q3",
+        "type": "multiple_choice",
+        "prompt": "\"贼\"是什么意思？",
+        "options": [
+          "算了吧",
+          "做/弄/搞",
+          "膝盖",
+          "非常/很"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "\"贼\"就是\"非常/很\"的意思。程度副词，表示非常、特别的意思"
+      },
+      {
+        "id": "l5q4",
+        "type": "multiple_choice",
+        "prompt": "\"老铁\"是什么意思？",
+        "options": [
+          "是的/对的",
+          "全部包下",
+          "装模作样",
+          "好朋友/好兄弟"
+        ],
+        "correctAnswer": "好朋友/好兄弟",
+        "explanation": "\"老铁\"就是\"好朋友/好兄弟\"的意思。对关系特别好的朋友的称呼，铁表示关系铁、坚固"
+      },
+      {
+        "id": "l5q5",
+        "type": "multiple_choice",
+        "prompt": "\"得瑟\"是什么意思？",
+        "options": [
+          "怎么办",
+          "痒",
+          "说谎/胡说",
+          "炫耀/显摆"
+        ],
+        "correctAnswer": "炫耀/显摆",
+        "explanation": "\"得瑟\"就是\"炫耀/显摆\"的意思。形容一个人爱炫耀、显摆、不低调"
+      },
+      {
+        "id": "l5q6",
+        "type": "multiple_choice",
+        "prompt": "\"咋整\"是什么意思？",
+        "options": [
+          "怎么办",
+          "啰嗦/话多",
+          "打你",
+          "算了吧"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "\"咋整\"就是\"怎么办\"的意思。怎么办、怎么处理的意思"
+      },
+      {
+        "id": "l5q7",
+        "type": "multiple_choice",
+        "prompt": "\"磕碜\"是什么意思？",
+        "options": [
+          "散步/闲逛",
+          "痒",
+          "说谎/胡说",
+          "丢人/难看"
+        ],
+        "correctAnswer": "丢人/难看",
+        "explanation": "\"磕碜\"就是\"丢人/难看\"的意思。形容丢人现眼、不好意思，或者形容长得不好看"
+      },
+      {
+        "id": "l5q8",
+        "type": "multiple_choice",
+        "prompt": "\"唠嗑\"是什么意思？",
+        "options": [
+          "好朋友/好兄弟",
+          "聊天",
+          "好兄弟",
+          "痒"
+        ],
+        "correctAnswer": "聊天",
+        "explanation": "\"唠嗑\"就是\"聊天\"的意思。聊天、闲谈的意思"
+      },
+      {
+        "id": "l5q9",
+        "type": "multiple_choice",
+        "prompt": "\"埋汰\"是什么意思？",
+        "options": [
+          "脏/不干净",
+          "非常/很",
+          "膝盖",
+          "丢人/难看"
+        ],
+        "correctAnswer": "脏/不干净",
+        "explanation": "\"埋汰\"就是\"脏/不干净\"的意思。形容东西脏、不干净，也可以形容说话难听"
+      },
+      {
+        "id": "l5q10",
+        "type": "multiple_choice",
+        "prompt": "\"稀罕\"是什么意思？",
+        "options": [
+          "算了吧",
+          "喜欢/稀奇",
+          "丢人/难看",
+          "说谎/胡说"
+        ],
+        "correctAnswer": "喜欢/稀奇",
+        "explanation": "\"稀罕\"就是\"喜欢/稀奇\"的意思。表示喜欢、喜爱，或者觉得稀奇"
+      },
+      {
+        "id": "l5q11",
+        "type": "multiple_choice",
+        "prompt": "\"秃噜\"是什么意思？",
+        "options": [
+          "干什么",
+          "滑落/搞砸",
+          "做/弄/搞",
+          "啰嗦/话多"
+        ],
+        "correctAnswer": "滑落/搞砸",
+        "explanation": "\"秃噜\"就是\"滑落/搞砸\"的意思。形容东西滑落、或者把事情搞砸了"
+      },
+      {
+        "id": "l5q12",
+        "type": "multiple_choice",
+        "prompt": "\"嘚嘚\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "散步/闲逛",
+          "丢人/难看",
+          "啰嗦/话多"
+        ],
+        "correctAnswer": "啰嗦/话多",
+        "explanation": "\"嘚嘚\"就是\"啰嗦/话多\"的意思。形容一个人话特别多、很啰嗦"
+      },
+      {
+        "id": "l5q13",
+        "type": "multiple_choice",
+        "prompt": "\"彪\"是什么意思？",
+        "options": [
+          "聊天",
+          "脏/不干净",
+          "痒",
+          "傻/愣"
+        ],
+        "correctAnswer": "傻/愣",
+        "explanation": "\"彪\"就是\"傻/愣\"的意思。形容一个人傻、做事不经大脑"
+      },
+      {
+        "id": "l5q14",
+        "type": "multiple_choice",
+        "prompt": "\"大绿棒子\"是什么意思？",
+        "options": [
+          "雪花啤酒",
+          "特别脆",
+          "傻/愣",
+          "非常/很"
+        ],
+        "correctAnswer": "雪花啤酒",
+        "explanation": "\"大绿棒子\"就是\"雪花啤酒\"的意思。特指绿色玻璃瓶装的雪花啤酒，东北烧烤标配"
+      },
+      {
+        "id": "l5q15",
+        "type": "multiple_choice",
+        "prompt": "\"铁子\"是什么意思？",
+        "options": [
+          "吃",
+          "痒",
+          "好兄弟",
+          "非常好/特别棒"
+        ],
+        "correctAnswer": "好兄弟",
+        "explanation": "\"铁子\"就是\"好兄弟\"的意思。和老铁类似，指关系特别好的朋友"
+      },
+      {
+        "id": "l5q16",
+        "type": "multiple_choice",
+        "prompt": "\"削你\"是什么意思？",
+        "options": [
+          "喜欢/稀奇",
+          "有骨气/厉害",
+          "怎么办",
+          "打你"
+        ],
+        "correctAnswer": "打你",
+        "explanation": "\"削你\"就是\"打你\"的意思。打你、揍你的意思，东北话中威胁用语"
+      },
+      {
+        "id": "l5q17",
+        "type": "multiple_choice",
+        "prompt": "\"杠杠的\"是什么意思？",
+        "options": [
+          "喜欢/稀奇",
+          "非常好/特别棒",
+          "好朋友/好兄弟",
+          "丢人/难看"
+        ],
+        "correctAnswer": "非常好/特别棒",
+        "explanation": "\"杠杠的\"就是\"非常好/特别棒\"的意思。形容非常好、非常厉害、杠杠硬"
+      },
+      {
+        "id": "l5q18",
+        "type": "multiple_choice",
+        "prompt": "\"膈应\"是什么意思？",
+        "options": [
+          "恶心/讨厌",
+          "非常/很",
+          "丢人/难看",
+          "主动凑上去"
+        ],
+        "correctAnswer": "恶心/讨厌",
+        "explanation": "\"膈应\"就是\"恶心/讨厌\"的意思。让人觉得不舒服、恶心、讨厌"
+      },
+      {
+        "id": "l5q19",
+        "type": "multiple_choice",
+        "prompt": "\"嗯哪\"是什么意思？",
+        "options": [
+          "恶心/讨厌",
+          "怎么办",
+          "是的/对的",
+          "脏/不干净"
+        ],
+        "correctAnswer": "是的/对的",
+        "explanation": "\"嗯哪\"就是\"是的/对的\"的意思。表示肯定、同意的语气词"
+      },
+      {
+        "id": "l5q20",
+        "type": "multiple_choice",
+        "prompt": "\"咯应\"是什么意思？",
+        "options": [
+          "滑落/搞砸",
+          "怎么办",
+          "痒",
+          "有骨气/厉害"
+        ],
+        "correctAnswer": "痒",
+        "explanation": "\"咯应\"就是\"痒\"的意思。痒的意思，特指皮肤痒"
+      },
+      {
+        "id": "l5q21",
+        "type": "multiple_choice",
+        "prompt": "\"拉倒吧\"是什么意思？",
+        "options": [
+          "非常好/特别棒",
+          "算了吧",
+          "是的/对的",
+          "炫耀/显摆"
+        ],
+        "correctAnswer": "算了吧",
+        "explanation": "\"拉倒吧\"就是\"算了吧\"的意思。表示算了、不用了、放弃的意思"
+      },
+      {
+        "id": "l5q22",
+        "type": "multiple_choice",
+        "prompt": "\"包圆儿\"是什么意思？",
+        "options": [
+          "痒",
+          "非常/很",
+          "全部包下",
+          "打你"
+        ],
+        "correctAnswer": "全部包下",
+        "explanation": "\"包圆儿\"就是\"全部包下\"的意思。把所有的都包下来、全部承担"
+      },
+      {
+        "id": "l5q23",
+        "type": "multiple_choice",
+        "prompt": "\"嘎嘣脆\"是什么意思？",
+        "options": [
+          "吃",
+          "特别脆",
+          "全部包下",
+          "喜欢/稀奇"
+        ],
+        "correctAnswer": "特别脆",
+        "explanation": "\"嘎嘣脆\"就是\"特别脆\"的意思。形容食物口感特别脆，咬一口嘎嘣响"
+      },
+      {
+        "id": "l5q24",
+        "type": "multiple_choice",
+        "prompt": "\"尿性\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "装模作样",
+          "好兄弟",
+          "打你"
+        ],
+        "correctAnswer": "有骨气/厉害",
+        "explanation": "\"尿性\"就是\"有骨气/厉害\"的意思。形容一个人有骨气、有能力、够厉害"
+      },
+      {
+        "id": "l5q25",
+        "type": "multiple_choice",
+        "prompt": "\"扒瞎\"是什么意思？",
+        "options": [
+          "干什么",
+          "说谎/胡说",
+          "脏/不干净",
+          "膝盖"
+        ],
+        "correctAnswer": "说谎/胡说",
+        "explanation": "\"扒瞎\"就是\"说谎/胡说\"的意思。说谎、胡说八道的意思"
+      },
+      {
+        "id": "l5q26",
+        "type": "multiple_choice",
+        "prompt": "\"装犊子\"是什么意思？",
+        "options": [
+          "特别脆",
+          "说谎/胡说",
+          "装模作样",
+          "痒"
+        ],
+        "correctAnswer": "装模作样",
+        "explanation": "\"装犊子\"就是\"装模作样\"的意思。装模作样、故作姿态"
+      },
+      {
+        "id": "l5q27",
+        "type": "multiple_choice",
+        "prompt": "\"上赶着\"是什么意思？",
+        "options": [
+          "恶心/讨厌",
+          "主动凑上去",
+          "特别脆",
+          "怎么办"
+        ],
+        "correctAnswer": "主动凑上去",
+        "explanation": "\"上赶着\"就是\"主动凑上去\"的意思。主动巴结、主动凑上去的意思"
+      },
+      {
+        "id": "l5q28",
+        "type": "multiple_choice",
+        "prompt": "\"造\"是什么意思？",
+        "options": [
+          "怎么办",
+          "吃",
+          "好兄弟",
+          "傻/愣"
+        ],
+        "correctAnswer": "吃",
+        "explanation": "\"造\"就是\"吃\"的意思。吃的意思，特别指大口吃、猛吃"
+      },
+      {
+        "id": "l5q29",
+        "type": "multiple_choice",
+        "prompt": "\"波棱盖儿\"是什么意思？",
+        "options": [
+          "膝盖",
+          "全部包下",
+          "有骨气/厉害",
+          "滑落/搞砸"
+        ],
+        "correctAnswer": "膝盖",
+        "explanation": "\"波棱盖儿\"就是\"膝盖\"的意思。膝盖的东北方言说法"
+      },
+      {
+        "id": "l5q30",
+        "type": "multiple_choice",
+        "prompt": "\"溜达\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "是的/对的",
+          "散步/闲逛",
+          "雪花啤酒"
+        ],
+        "correctAnswer": "散步/闲逛",
+        "explanation": "\"溜达\"就是\"散步/闲逛\"的意思。散步、闲逛的意思"
+      },
+      {
+        "id": "l5q31",
+        "type": "multiple_choice",
+        "prompt": "\"干什么\"用东北话怎么说？",
+        "options": [
+          "秃噜",
+          "嘎哈",
+          "埋汰",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "嘎哈",
+        "explanation": "\"干什么\"的东北话说法是\"嘎哈\"！"
+      },
+      {
+        "id": "l5q32",
+        "type": "multiple_choice",
+        "prompt": "\"做/弄/搞\"用东北话怎么说？",
+        "options": [
+          "秃噜",
+          "大绿棒子",
+          "整",
+          "铁子"
+        ],
+        "correctAnswer": "整",
+        "explanation": "\"做/弄/搞\"的东北话说法是\"整\"！"
+      },
+      {
+        "id": "l5q33",
+        "type": "multiple_choice",
+        "prompt": "\"非常/很\"用东北话怎么说？",
+        "options": [
+          "咯应",
+          "嘎哈",
+          "贼",
+          "磕碜"
+        ],
+        "correctAnswer": "贼",
+        "explanation": "\"非常/很\"的东北话说法是\"贼\"！"
+      },
+      {
+        "id": "l5q34",
+        "type": "multiple_choice",
+        "prompt": "\"好朋友/好兄弟\"用东北话怎么说？",
+        "options": [
+          "磕碜",
+          "老铁",
+          "嘚嘚",
+          "稀罕"
+        ],
+        "correctAnswer": "老铁",
+        "explanation": "\"好朋友/好兄弟\"的东北话说法是\"老铁\"！"
+      },
+      {
+        "id": "l5q35",
+        "type": "multiple_choice",
+        "prompt": "\"炫耀/显摆\"用东北话怎么说？",
+        "options": [
+          "贼",
+          "上赶着",
+          "埋汰",
+          "得瑟"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"炫耀/显摆\"的东北话说法是\"得瑟\"！"
+      },
+      {
+        "id": "l5q36",
+        "type": "multiple_choice",
+        "prompt": "\"怎么办\"用东北话怎么说？",
+        "options": [
+          "包圆儿",
+          "得瑟",
+          "咋整",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "咋整",
+        "explanation": "\"怎么办\"的东北话说法是\"咋整\"！"
+      },
+      {
+        "id": "l5q37",
+        "type": "multiple_choice",
+        "prompt": "\"丢人/难看\"用东北话怎么说？",
+        "options": [
+          "磕碜",
+          "咋整",
+          "削你",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"丢人/难看\"的东北话说法是\"磕碜\"！"
+      },
+      {
+        "id": "l5q38",
+        "type": "multiple_choice",
+        "prompt": "\"聊天\"用东北话怎么说？",
+        "options": [
+          "铁子",
+          "削你",
+          "嘎哈",
+          "唠嗑"
+        ],
+        "correctAnswer": "唠嗑",
+        "explanation": "\"聊天\"的东北话说法是\"唠嗑\"！"
+      },
+      {
+        "id": "l5q39",
+        "type": "multiple_choice",
+        "prompt": "\"脏/不干净\"用东北话怎么说？",
+        "options": [
+          "嗯哪",
+          "削你",
+          "咋整",
+          "埋汰"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "\"脏/不干净\"的东北话说法是\"埋汰\"！"
+      },
+      {
+        "id": "l5q40",
+        "type": "multiple_choice",
+        "prompt": "\"喜欢/稀奇\"用东北话怎么说？",
+        "options": [
+          "包圆儿",
+          "稀罕",
+          "唠嗑",
+          "削你"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"喜欢/稀奇\"的东北话说法是\"稀罕\"！"
+      },
+      {
+        "id": "l5q41",
+        "type": "multiple_choice",
+        "prompt": "\"滑落/搞砸\"用东北话怎么说？",
+        "options": [
+          "铁子",
+          "拉倒吧",
+          "秃噜",
+          "尿性"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "\"滑落/搞砸\"的东北话说法是\"秃噜\"！"
+      },
+      {
+        "id": "l5q42",
+        "type": "multiple_choice",
+        "prompt": "\"啰嗦/话多\"用东北话怎么说？",
+        "options": [
+          "包圆儿",
+          "嘚嘚",
+          "杠杠的",
+          "拉倒吧"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "\"啰嗦/话多\"的东北话说法是\"嘚嘚\"！"
+      },
+      {
+        "id": "l5q43",
+        "type": "multiple_choice",
+        "prompt": "\"傻/愣\"用东北话怎么说？",
+        "options": [
+          "装犊子",
+          "溜达",
+          "嗯哪",
+          "彪"
+        ],
+        "correctAnswer": "彪",
+        "explanation": "\"傻/愣\"的东北话说法是\"彪\"！"
+      },
+      {
+        "id": "l5q44",
+        "type": "multiple_choice",
+        "prompt": "\"雪花啤酒\"用东北话怎么说？",
+        "options": [
+          "溜达",
+          "埋汰",
+          "彪",
+          "大绿棒子"
+        ],
+        "correctAnswer": "大绿棒子",
+        "explanation": "\"雪花啤酒\"的东北话说法是\"大绿棒子\"！"
+      },
+      {
+        "id": "l5q45",
+        "type": "multiple_choice",
+        "prompt": "\"好兄弟\"用东北话怎么说？",
+        "options": [
+          "大绿棒子",
+          "铁子",
+          "嘎嘣脆",
+          "嘎哈"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "\"好兄弟\"的东北话说法是\"铁子\"！"
+      },
+      {
+        "id": "l5q46",
+        "type": "multiple_choice",
+        "prompt": "\"打你\"用东北话怎么说？",
+        "options": [
+          "稀罕",
+          "整",
+          "削你",
+          "秃噜"
+        ],
+        "correctAnswer": "削你",
+        "explanation": "\"打你\"的东北话说法是\"削你\"！"
+      },
+      {
+        "id": "l5q47",
+        "type": "multiple_choice",
+        "prompt": "\"非常好/特别棒\"用东北话怎么说？",
+        "options": [
+          "溜达",
+          "彪",
+          "杠杠的",
+          "咋整"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "\"非常好/特别棒\"的东北话说法是\"杠杠的\"！"
+      },
+      {
+        "id": "l5q48",
+        "type": "multiple_choice",
+        "prompt": "\"恶心/讨厌\"用东北话怎么说？",
+        "options": [
+          "削你",
+          "膈应",
+          "铁子",
+          "嘚嘚"
+        ],
+        "correctAnswer": "膈应",
+        "explanation": "\"恶心/讨厌\"的东北话说法是\"膈应\"！"
+      },
+      {
+        "id": "l5q49",
+        "type": "multiple_choice",
+        "prompt": "\"是的/对的\"用东北话怎么说？",
+        "options": [
+          "得瑟",
+          "埋汰",
+          "嗯哪",
+          "铁子"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "\"是的/对的\"的东北话说法是\"嗯哪\"！"
+      },
+      {
+        "id": "l5q50",
+        "type": "multiple_choice",
+        "prompt": "\"痒\"用东北话怎么说？",
+        "options": [
+          "咯应",
+          "嗯哪",
+          "杠杠的",
+          "削你"
+        ],
+        "correctAnswer": "咯应",
+        "explanation": "\"痒\"的东北话说法是\"咯应\"！"
+      },
+      {
+        "id": "l5q51",
+        "type": "multiple_choice",
+        "prompt": "\"算了吧\"用东北话怎么说？",
+        "options": [
+          "埋汰",
+          "拉倒吧",
+          "嘎嘣脆",
+          "溜达"
+        ],
+        "correctAnswer": "拉倒吧",
+        "explanation": "\"算了吧\"的东北话说法是\"拉倒吧\"！"
+      },
+      {
+        "id": "l5q52",
+        "type": "multiple_choice",
+        "prompt": "\"全部包下\"用东北话怎么说？",
+        "options": [
+          "稀罕",
+          "包圆儿",
+          "波棱盖儿",
+          "扒瞎"
+        ],
+        "correctAnswer": "包圆儿",
+        "explanation": "\"全部包下\"的东北话说法是\"包圆儿\"！"
+      },
+      {
+        "id": "l5q53",
+        "type": "multiple_choice",
+        "prompt": "\"特别脆\"用东北话怎么说？",
+        "options": [
+          "咋整",
+          "彪",
+          "老铁",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "嘎嘣脆",
+        "explanation": "\"特别脆\"的东北话说法是\"嘎嘣脆\"！"
+      },
+      {
+        "id": "l5q54",
+        "type": "multiple_choice",
+        "prompt": "\"有骨气/厉害\"用东北话怎么说？",
+        "options": [
+          "尿性",
+          "削你",
+          "贼",
+          "上赶着"
+        ],
+        "correctAnswer": "尿性",
+        "explanation": "\"有骨气/厉害\"的东北话说法是\"尿性\"！"
+      },
+      {
+        "id": "l5q55",
+        "type": "multiple_choice",
+        "prompt": "\"说谎/胡说\"用东北话怎么说？",
+        "options": [
+          "扒瞎",
+          "溜达",
+          "咯应",
+          "埋汰"
+        ],
+        "correctAnswer": "扒瞎",
+        "explanation": "\"说谎/胡说\"的东北话说法是\"扒瞎\"！"
+      },
+      {
+        "id": "l5q56",
+        "type": "multiple_choice",
+        "prompt": "\"装模作样\"用东北话怎么说？",
+        "options": [
+          "装犊子",
+          "尿性",
+          "嘎嘣脆",
+          "整"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "\"装模作样\"的东北话说法是\"装犊子\"！"
+      },
+      {
+        "id": "l5q57",
+        "type": "multiple_choice",
+        "prompt": "\"主动凑上去\"用东北话怎么说？",
+        "options": [
+          "嘎哈",
+          "整",
+          "磕碜",
+          "上赶着"
+        ],
+        "correctAnswer": "上赶着",
+        "explanation": "\"主动凑上去\"的东北话说法是\"上赶着\"！"
+      },
+      {
+        "id": "l5q58",
+        "type": "multiple_choice",
+        "prompt": "\"吃\"用东北话怎么说？",
+        "options": [
+          "彪",
+          "嘎哈",
+          "造",
+          "大绿棒子"
+        ],
+        "correctAnswer": "造",
+        "explanation": "\"吃\"的东北话说法是\"造\"！"
+      },
+      {
+        "id": "l5q59",
+        "type": "multiple_choice",
+        "prompt": "\"膝盖\"用东北话怎么说？",
+        "options": [
+          "波棱盖儿",
+          "嘎哈",
+          "磕碜",
+          "稀罕"
+        ],
+        "correctAnswer": "波棱盖儿",
+        "explanation": "\"膝盖\"的东北话说法是\"波棱盖儿\"！"
+      },
+      {
+        "id": "l5q60",
+        "type": "multiple_choice",
+        "prompt": "\"散步/闲逛\"用东北话怎么说？",
+        "options": [
+          "拉倒吧",
+          "溜达",
+          "上赶着",
+          "嘎哈"
+        ],
+        "correctAnswer": "溜达",
+        "explanation": "\"散步/闲逛\"的东北话说法是\"溜达\"！"
+      },
+      {
+        "id": "l5q61",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你_____去啊？",
+        "options": [
+          "贼",
+          "膈应",
+          "嘎哈",
+          "磕碜"
+        ],
+        "correctAnswer": "嘎哈",
+        "explanation": "正确答案是\"嘎哈\"（干什么）。朋友之间打招呼时非常常用"
+      },
+      {
+        "id": "l5q62",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：_____，没毛病！",
+        "options": [
+          "秃噜",
+          "老铁",
+          "拉倒吧",
+          "整"
+        ],
+        "correctAnswer": "老铁",
+        "explanation": "正确答案是\"老铁\"（好朋友/好兄弟）。网络走红后全国都在用，但东北是发源地"
+      },
+      {
+        "id": "l5q63",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：多_____啊这事儿！",
+        "options": [
+          "杠杠的",
+          "膈应",
+          "大绿棒子",
+          "磕碜"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "正确答案是\"磕碜\"（丢人/难看）。语气根据场景可轻可重"
+      },
+      {
+        "id": "l5q64",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：我可_____你了！",
+        "options": [
+          "造",
+          "削你",
+          "稀罕",
+          "老铁"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "正确答案是\"稀罕\"（喜欢/稀奇）。表达喜爱之情时用，很有东北特色"
+      },
+      {
+        "id": "l5q65",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你_____啊？这都能信？",
+        "options": [
+          "造",
+          "彪",
+          "大绿棒子",
+          "咯应"
+        ],
+        "correctAnswer": "彪",
+        "explanation": "正确答案是\"彪\"（傻/愣）。语气根据关系可轻可重，好朋友之间常用"
+      },
+      {
+        "id": "l5q66",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：再嘚嘚信不信_____？",
+        "options": [
+          "装犊子",
+          "尿性",
+          "贼",
+          "削你"
+        ],
+        "correctAnswer": "削你",
+        "explanation": "正确答案是\"削你\"（打你）。虽然听起来凶，但朋友之间多是玩笑"
+      },
+      {
+        "id": "l5q67",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：_____，就是这么回事儿！",
+        "options": [
+          "拉倒吧",
+          "造",
+          "嗯哪",
+          "老铁"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "正确答案是\"嗯哪\"（是的/对的）。日常对话中非常高频"
+      },
+      {
+        "id": "l5q68",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：今天这顿我_____了！",
+        "options": [
+          "包圆儿",
+          "嗯哪",
+          "咯应",
+          "上赶着"
+        ],
+        "correctAnswer": "包圆儿",
+        "explanation": "正确答案是\"包圆儿\"（全部包下）。请客时显得特别大方"
+      },
+      {
+        "id": "l5q69",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你别_____了！",
+        "options": [
+          "尿性",
+          "咋整",
+          "扒瞎",
+          "溜达"
+        ],
+        "correctAnswer": "扒瞎",
+        "explanation": "正确答案是\"扒瞎\"（说谎/胡说）。揭穿别人谎话时使用"
+      },
+      {
+        "id": "l5q70",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：可劲儿_____！别客气！",
+        "options": [
+          "稀罕",
+          "扒瞎",
+          "包圆儿",
+          "造"
+        ],
+        "correctAnswer": "造",
+        "explanation": "正确答案是\"造\"（吃）。吃饭时东北人热情劝吃的用语"
+      },
+      {
+        "id": "l5q71",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v001",
+        "options": [
+          "啰嗦/话多",
+          "做/弄/搞",
+          "膝盖",
+          "干什么"
+        ],
+        "correctAnswer": "干什么",
+        "explanation": "你听到的是\"嘎哈\"，意思是\"干什么\"！"
+      },
+      {
+        "id": "l5q72",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v004",
+        "options": [
+          "恶心/讨厌",
+          "全部包下",
+          "好朋友/好兄弟",
+          "炫耀/显摆"
+        ],
+        "correctAnswer": "好朋友/好兄弟",
+        "explanation": "你听到的是\"老铁\"，意思是\"好朋友/好兄弟\"！"
+      },
+      {
+        "id": "l5q73",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v007",
+        "options": [
+          "非常/很",
+          "丢人/难看",
+          "喜欢/稀奇",
+          "怎么办"
+        ],
+        "correctAnswer": "丢人/难看",
+        "explanation": "你听到的是\"磕碜\"，意思是\"丢人/难看\"！"
+      },
+      {
+        "id": "l5q74",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v010",
+        "options": [
+          "喜欢/稀奇",
+          "装模作样",
+          "吃",
+          "雪花啤酒"
+        ],
+        "correctAnswer": "喜欢/稀奇",
+        "explanation": "你听到的是\"稀罕\"，意思是\"喜欢/稀奇\"！"
+      },
+      {
+        "id": "l5q75",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v013",
+        "options": [
+          "傻/愣",
+          "有骨气/厉害",
+          "丢人/难看",
+          "全部包下"
+        ],
+        "correctAnswer": "傻/愣",
+        "explanation": "你听到的是\"彪\"，意思是\"傻/愣\"！"
+      },
+      {
+        "id": "l5q76",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v016",
+        "options": [
+          "打你",
+          "散步/闲逛",
+          "吃",
+          "好朋友/好兄弟"
+        ],
+        "correctAnswer": "打你",
+        "explanation": "你听到的是\"削你\"，意思是\"打你\"！"
+      },
+      {
+        "id": "l5q77",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v019",
+        "options": [
+          "是的/对的",
+          "全部包下",
+          "雪花啤酒",
+          "特别脆"
+        ],
+        "correctAnswer": "是的/对的",
+        "explanation": "你听到的是\"嗯哪\"，意思是\"是的/对的\"！"
+      },
+      {
+        "id": "l5q78",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v022",
+        "options": [
+          "散步/闲逛",
+          "全部包下",
+          "聊天",
+          "好兄弟"
+        ],
+        "correctAnswer": "全部包下",
+        "explanation": "你听到的是\"包圆儿\"，意思是\"全部包下\"！"
+      },
+      {
+        "id": "l5q79",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v025",
+        "options": [
+          "啰嗦/话多",
+          "说谎/胡说",
+          "怎么办",
+          "是的/对的"
+        ],
+        "correctAnswer": "说谎/胡说",
+        "explanation": "你听到的是\"扒瞎\"，意思是\"说谎/胡说\"！"
+      },
+      {
+        "id": "l5q80",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v028",
+        "options": [
+          "非常好/特别棒",
+          "散步/闲逛",
+          "吃",
+          "做/弄/搞"
+        ],
+        "correctAnswer": "吃",
+        "explanation": "你听到的是\"造\"，意思是\"吃\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "吉林市"
+  },
+  {
+    "id": "level_6",
+    "levelNumber": 6,
+    "title": "四平关",
+    "subtitle": "吉林·四平 - 看情境选词",
+    "passingScore": 65,
+    "rewardXP": 500,
+    "rewardTitle": "场景达人",
+    "questions": [
+      {
+        "id": "l6q1",
+        "type": "multiple_choice",
+        "prompt": "朋友买了新车，天天发朋友圈炫耀，你会用哪个词形容他？",
+        "options": [
+          "得瑟",
+          "尿性",
+          "彪",
+          "磕碜"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "朋友爱炫耀、爱显摆，就是\"得瑟\"！"
+      },
+      {
+        "id": "l6q2",
+        "type": "multiple_choice",
+        "prompt": "看到小孩玩泥巴，手上全是泥，妈妈会说手怎么了？",
+        "options": [
+          "膈应",
+          "磕碜",
+          "埋汰",
+          "秃噜"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "手脏了就是\"埋汰\"！妈妈训孩子高频用词"
+      },
+      {
+        "id": "l6q3",
+        "type": "multiple_choice",
+        "prompt": "晚上没事想约朋友出来聊聊天，你会说\"出来___呗\"？",
+        "options": [
+          "嘚嘚",
+          "唠嗑",
+          "扒瞎",
+          "溜达"
+        ],
+        "correctAnswer": "唠嗑",
+        "explanation": "约朋友聊天就是\"唠嗑\"！"
+      },
+      {
+        "id": "l6q4",
+        "type": "multiple_choice",
+        "prompt": "朋友在公共场合做了一件特别丢人的事，你会说这事真___？",
+        "options": [
+          "彪",
+          "磕碜",
+          "膈应",
+          "埋汰"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "丢人的事就是\"磕碜\"！"
+      },
+      {
+        "id": "l6q5",
+        "type": "multiple_choice",
+        "prompt": "吃到一道特别好吃的菜，你想夸赞这道菜，会说味道怎么样？",
+        "options": [
+          "嘎嘣脆",
+          "杠杠的",
+          "贼",
+          "尿性"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "夸东西好就说\"杠杠的\"！"
+      },
+      {
+        "id": "l6q6",
+        "type": "multiple_choice",
+        "prompt": "朋友说要冬天去游泳，你觉得不靠谱，会说什么？",
+        "options": [
+          "咋整",
+          "嘎哈",
+          "拉倒吧",
+          "嗯哪"
+        ],
+        "correctAnswer": "拉倒吧",
+        "explanation": "觉得不靠谱就说\"拉倒吧\"！算了吧的意思"
+      },
+      {
+        "id": "l6q7",
+        "type": "multiple_choice",
+        "prompt": "在东北烧烤摊，你想点啤酒，会跟老板说\"来两瓶___\"？",
+        "options": [
+          "杠杠的",
+          "波棱盖儿",
+          "大绿棒子",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "大绿棒子",
+        "explanation": "东北烧烤标配——\"大绿棒子\"（雪花啤酒）！"
+      },
+      {
+        "id": "l6q8",
+        "type": "multiple_choice",
+        "prompt": "朋友问你\"明天一起吃火锅？\"，你表示同意，会说什么？",
+        "options": [
+          "咋整",
+          "拉倒吧",
+          "嗯哪",
+          "嘎哈"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "表示同意就说\"嗯哪\"！是的、对的意思"
+      },
+      {
+        "id": "l6q9",
+        "type": "multiple_choice",
+        "prompt": "吃完饭想出去走走消消食，你会约朋友出去___？",
+        "options": [
+          "造",
+          "唠嗑",
+          "溜达",
+          "整"
+        ],
+        "correctAnswer": "溜达",
+        "explanation": "饭后散步就是\"溜达\"！"
+      },
+      {
+        "id": "l6q10",
+        "type": "multiple_choice",
+        "prompt": "做东请客吃饭，桌上菜很多，你劝朋友多吃会说\"可劲儿___\"？",
+        "options": [
+          "整",
+          "造",
+          "嘎哈",
+          "包圆儿"
+        ],
+        "correctAnswer": "造",
+        "explanation": "劝人使劲吃就说\"可劲儿造\"！造就是大口吃的意思"
+      }
+    ],
+    "province": "吉林",
+    "city": "四平"
+  },
+  {
+    "id": "level_7",
+    "levelNumber": 7,
+    "title": "四平关(2)",
+    "subtitle": "吉林·四平 - 易混词辨析",
+    "passingScore": 70,
+    "rewardXP": 600,
+    "questions": [
+      {
+        "id": "l7q1",
+        "type": "multiple_choice",
+        "prompt": "\"膈应\"和\"咯应\"发音相近，哪个表示\"痒\"？",
+        "options": [
+          "咯应",
+          "膈应",
+          "两个都是",
+          "两个都不是"
+        ],
+        "correctAnswer": "咯应",
+        "explanation": "\"咯应\"是痒，\"膈应\"是恶心/讨厌，发音相近但意思完全不同！"
+      },
+      {
+        "id": "l7q2",
+        "type": "multiple_choice",
+        "prompt": "\"老铁\"和\"铁子\"有什么区别？",
+        "options": [
+          "老铁更正式，铁子更亲切",
+          "老铁是骂人，铁子是夸人",
+          "没有区别，完全一样",
+          "老铁指长辈，铁子指同辈"
+        ],
+        "correctAnswer": "老铁更正式，铁子更亲切",
+        "explanation": "\"老铁\"和\"铁子\"都是好朋友的意思，但铁子比老铁更亲切随意！"
+      },
+      {
+        "id": "l7q3",
+        "type": "multiple_choice",
+        "prompt": "\"得瑟\"和\"装犊子\"都带贬义，哪个更接近\"虚伪\"？",
+        "options": [
+          "得瑟",
+          "装犊子",
+          "两个一样",
+          "两个都不接近"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "\"得瑟\"是炫耀/显摆，\"装犊子\"是装模作样，装犊子更接近虚伪！"
+      },
+      {
+        "id": "l7q4",
+        "type": "multiple_choice",
+        "prompt": "\"彪\"和\"磕碜\"，哪个形容人傻？",
+        "options": [
+          "磕碜",
+          "彪",
+          "两个都是",
+          "两个都不是"
+        ],
+        "correctAnswer": "彪",
+        "explanation": "\"彪\"是傻/愣，\"磕碜\"是丢人/难看，完全不同！"
+      },
+      {
+        "id": "l7q5",
+        "type": "multiple_choice",
+        "prompt": "\"嘎哈\"和\"咋整\"都是疑问词，哪个问的是\"干什么\"？",
+        "options": [
+          "咋整",
+          "嘎哈",
+          "两个都是",
+          "两个都不是"
+        ],
+        "correctAnswer": "嘎哈",
+        "explanation": "\"嘎哈\"是干什么，\"咋整\"是怎么办，一个问行为一个问方法！"
+      },
+      {
+        "id": "l7q6",
+        "type": "multiple_choice",
+        "prompt": "\"造\"和\"整\"都跟吃有关，哪个专门指\"大口吃\"？",
+        "options": [
+          "整",
+          "造",
+          "两个都是",
+          "两个都不是"
+        ],
+        "correctAnswer": "造",
+        "explanation": "\"造\"专门指吃（大口吃），\"整\"是万能动词，做什么都行！"
+      },
+      {
+        "id": "l7q7",
+        "type": "multiple_choice",
+        "prompt": "\"扒瞎\"和\"嘚嘚\"，哪个指\"说谎\"？",
+        "options": [
+          "嘚嘚",
+          "扒瞎",
+          "两个都是",
+          "两个都不是"
+        ],
+        "correctAnswer": "扒瞎",
+        "explanation": "\"扒瞎\"是说谎/胡说，\"嘚嘚\"是啰嗦/话多，一个是说假话一个是话太多！"
+      },
+      {
+        "id": "l7q8",
+        "type": "multiple_choice",
+        "prompt": "\"秃噜\"和\"溜达\"都有\"滑\"的感觉，哪个是贬义？",
+        "options": [
+          "溜达",
+          "秃噜",
+          "两个都是",
+          "两个都不是"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "\"秃噜\"是滑落/搞砸（贬义），\"溜达\"是散步/闲逛（中性）！"
+      },
+      {
+        "id": "l7q9",
+        "type": "multiple_choice",
+        "prompt": "\"尿性\"听起来像骂人，但实际上是？",
+        "options": [
+          "骂人没骨气",
+          "夸人有骨气/厉害",
+          "形容人懒",
+          "形容人傻"
+        ],
+        "correctAnswer": "夸人有骨气/厉害",
+        "explanation": "\"尿性\"虽然听起来不雅，但其实是夸人有骨气、厉害！"
+      },
+      {
+        "id": "l7q10",
+        "type": "multiple_choice",
+        "prompt": "下面哪组词意思最接近？",
+        "options": [
+          "老铁 和 铁子",
+          "膈应 和 咯应",
+          "得瑟 和 嘚嘚",
+          "彪 和 尿性"
+        ],
+        "correctAnswer": "老铁 和 铁子",
+        "explanation": "\"老铁\"和\"铁子\"都是好朋友/好兄弟的意思，是最接近的一组！"
+      }
+    ],
+    "province": "吉林",
+    "city": "四平"
+  },
+  {
+    "id": "level_8",
+    "levelNumber": 8,
+    "title": "辽源关",
+    "subtitle": "吉林·辽源 - 对话补全",
+    "passingScore": 70,
+    "rewardXP": 700,
+    "rewardTitle": "唠嗑高手",
+    "questions": [
+      {
+        "id": "l8q1",
+        "type": "fill_in_blank",
+        "prompt": "A：今天___去啊？\nB：逛街呗！",
+        "options": [
+          "咋整",
+          "嘎哈",
+          "溜达",
+          "唠嗑"
+        ],
+        "correctAnswer": "嘎哈",
+        "explanation": "问别人去干什么，用\"嘎哈\"！"
+      },
+      {
+        "id": "l8q2",
+        "type": "fill_in_blank",
+        "prompt": "A：这事儿___啊？\nB：找老王帮忙呗！",
+        "options": [
+          "嘎哈",
+          "咋整",
+          "拉倒吧",
+          "嗯哪"
+        ],
+        "correctAnswer": "咋整",
+        "explanation": "遇到事情问怎么办，用\"咋整\"！"
+      },
+      {
+        "id": "l8q3",
+        "type": "fill_in_blank",
+        "prompt": "A：你看他又开始___了！\nB：别理他，显摆惯了！",
+        "options": [
+          "扒瞎",
+          "嘚嘚",
+          "得瑟",
+          "装犊子"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "形容人爱炫耀，用\"得瑟\"！"
+      },
+      {
+        "id": "l8q4",
+        "type": "fill_in_blank",
+        "prompt": "A：来来来，___！\nB：好嘞，说啥？",
+        "options": [
+          "嘚嘚",
+          "溜达",
+          "造",
+          "唠嗑"
+        ],
+        "correctAnswer": "唠嗑",
+        "explanation": "叫人来聊天，用\"唠嗑\"！"
+      },
+      {
+        "id": "l8q5",
+        "type": "fill_in_blank",
+        "prompt": "A：别___了，快干活！\nB：好好好，我不说了！",
+        "options": [
+          "得瑟",
+          "嘚嘚",
+          "扒瞎",
+          "彪"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "嫌人话多啰嗦，用\"嘚嘚\"！"
+      },
+      {
+        "id": "l8q6",
+        "type": "fill_in_blank",
+        "prompt": "A：你___啊？信这种话！\nB：我哪知道是假的！",
+        "options": [
+          "磕碜",
+          "膈应",
+          "彪",
+          "秃噜"
+        ],
+        "correctAnswer": "彪",
+        "explanation": "说人傻才会信，用\"彪\"！"
+      },
+      {
+        "id": "l8q7",
+        "type": "fill_in_blank",
+        "prompt": "A：这菜好吃不？\nB：___！你尝尝！",
+        "options": [
+          "嘎嘣脆",
+          "杠杠的",
+          "贼",
+          "嗯哪"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "夸菜好吃，说\"杠杠的\"！"
+      },
+      {
+        "id": "l8q8",
+        "type": "fill_in_blank",
+        "prompt": "A：走，出去___去！\nB：行，散散步消消食！",
+        "options": [
+          "唠嗑",
+          "造",
+          "溜达",
+          "整"
+        ],
+        "correctAnswer": "溜达",
+        "explanation": "出去散步，用\"溜达\"！"
+      },
+      {
+        "id": "l8q9",
+        "type": "fill_in_blank",
+        "prompt": "A：___，咱干一个！\nB：走一个！",
+        "options": [
+          "老铁",
+          "铁子",
+          "嗯哪",
+          "杠杠的"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "喝酒劝酒时叫好兄弟，用\"铁子\"！"
+      },
+      {
+        "id": "l8q10",
+        "type": "fill_in_blank",
+        "prompt": "A：你别跟我___！\nB：我真没装，是真的！",
+        "options": [
+          "扒瞎",
+          "嘚嘚",
+          "装犊子",
+          "得瑟"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "说人装模作样，用\"装犊子\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "辽源"
+  },
+  {
+    "id": "level_9",
+    "levelNumber": 9,
+    "title": "通化关",
+    "subtitle": "吉林·通化 - 文化常识",
+    "passingScore": 70,
+    "rewardXP": 900,
+    "rewardTitle": "文化通",
+    "questions": [
+      {
+        "id": "l9q1",
+        "type": "multiple_choice",
+        "prompt": "在东北烧烤摊，标配的啤酒被亲切地称为？",
+        "options": [
+          "波棱盖儿",
+          "嘎嘣脆",
+          "大绿棒子",
+          "杠杠的"
+        ],
+        "correctAnswer": "大绿棒子",
+        "explanation": "绿色玻璃瓶装的雪花啤酒被东北人叫做\"大绿棒子\"，撸串必备！"
+      },
+      {
+        "id": "l9q2",
+        "type": "multiple_choice",
+        "prompt": "\"波棱盖儿卡秃噜皮了\"这句经典东北话中，\"波棱盖儿\"指的是？",
+        "options": [
+          "胳膊肘",
+          "脚后跟",
+          "膝盖",
+          "后脑勺"
+        ],
+        "correctAnswer": "膝盖",
+        "explanation": "\"波棱盖儿\"就是膝盖！这句经典绕口令完整意思是\"膝盖磕破皮了\"。"
+      },
+      {
+        "id": "l9q3",
+        "type": "multiple_choice",
+        "prompt": "东北话中的\"万能动词\"是哪个字？几乎可以替代所有动词。",
+        "options": [
+          "造",
+          "贼",
+          "整",
+          "削"
+        ],
+        "correctAnswer": "整",
+        "explanation": "\"整\"是东北话第一万能词！整点吃的、整个活、整明白...万物皆可整！"
+      },
+      {
+        "id": "l9q4",
+        "type": "multiple_choice",
+        "prompt": "东北俗语\"上赶着不是买卖\"表达的哲理是？",
+        "options": [
+          "做生意要积极主动",
+          "太主动反而不好",
+          "做事要趁热打铁",
+          "做人不能太懒"
+        ],
+        "correctAnswer": "太主动反而不好",
+        "explanation": "\"上赶着不是买卖\"意思是太主动巴结别人反而不被看重，要矜持！"
+      },
+      {
+        "id": "l9q5",
+        "type": "multiple_choice",
+        "prompt": "东北话中的\"贼\"不是指小偷，在日常口语中它表示？",
+        "options": [
+          "坏人",
+          "聪明",
+          "非常/很",
+          "偷偷地"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "\"贼\"在东北话中是程度副词，贼好=非常好，贼冷=非常冷！"
+      },
+      {
+        "id": "l9q6",
+        "type": "multiple_choice",
+        "prompt": "下面哪个东北话词语听起来像骂人，但其实是夸人？",
+        "options": [
+          "彪",
+          "尿性",
+          "膈应",
+          "磕碜"
+        ],
+        "correctAnswer": "尿性",
+        "explanation": "\"尿性\"虽然听起来不雅，其实是夸人有骨气、够厉害！"
+      },
+      {
+        "id": "l9q7",
+        "type": "fill_in_blank",
+        "prompt": "东北经典劝酒词：\"___，没毛病！\"",
+        "options": [
+          "铁子",
+          "老铁",
+          "嗯哪",
+          "杠杠的"
+        ],
+        "correctAnswer": "老铁",
+        "explanation": "\"老铁，没毛病\"是风靡全国的东北经典名句！"
+      },
+      {
+        "id": "l9q8",
+        "type": "fill_in_blank",
+        "prompt": "东北人夸美食的万能句式：\"这菜___！\"",
+        "options": [
+          "嘎嘣脆",
+          "杠杠的",
+          "贼好",
+          "大绿棒子"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "夸东西好，说\"杠杠的\"，配合竖大拇指效果更佳！"
+      },
+      {
+        "id": "l9q9",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v005",
+        "options": [
+          "装模作样",
+          "炫耀/显摆",
+          "啰嗦/话多",
+          "说谎/胡说"
+        ],
+        "correctAnswer": "炫耀/显摆",
+        "explanation": "你听到的是\"得瑟\"，意思是\"炫耀/显摆\"！"
+      },
+      {
+        "id": "l9q10",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v012",
+        "options": [
+          "说谎/胡说",
+          "炫耀/显摆",
+          "啰嗦/话多",
+          "装模作样"
+        ],
+        "correctAnswer": "啰嗦/话多",
+        "explanation": "你听到的是\"嘚嘚\"，意思是\"啰嗦/话多\"！"
+      },
+      {
+        "id": "l9q11",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v014",
+        "options": [
+          "膝盖",
+          "特别脆",
+          "雪花啤酒",
+          "全部包下"
+        ],
+        "correctAnswer": "雪花啤酒",
+        "explanation": "你听到的是\"大绿棒子\"，意思是\"雪花啤酒\"！"
+      },
+      {
+        "id": "l9q12",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v024",
+        "options": [
+          "装模作样",
+          "主动凑上去",
+          "有骨气/厉害",
+          "说谎/胡说"
+        ],
+        "correctAnswer": "有骨气/厉害",
+        "explanation": "你听到的是\"尿性\"，意思是\"有骨气/厉害\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "通化"
+  },
+  {
+    "id": "level_10",
+    "levelNumber": 10,
+    "title": "通化关(2)",
+    "subtitle": "吉林·通化 - 东北话宗师",
+    "passingScore": 75,
+    "rewardXP": 2000,
+    "rewardTitle": "东北话宗师",
+    "questions": [
+      {
+        "id": "l10q1",
+        "type": "multiple_choice",
+        "prompt": "翻译这段东北话：\n「铁子，别得瑟了，可劲儿造吧！」",
+        "options": [
+          "兄弟，别炫耀了，使劲吃吧！",
+          "朋友，别啰嗦了，赶紧走吧！",
+          "老弟，别装了，赶紧干活！",
+          "哥们，别胡说了，快睡觉吧！"
+        ],
+        "correctAnswer": "兄弟，别炫耀了，使劲吃吧！",
+        "explanation": "铁子=兄弟，得瑟=炫耀，造=吃，合起来就是\"兄弟别炫耀了，使劲吃吧\"！"
+      },
+      {
+        "id": "l10q2",
+        "type": "multiple_choice",
+        "prompt": "翻译这段东北话：\n「你嘎哈去？别瞎溜达了，回来唠嗑！」",
+        "options": [
+          "你怎么办？别乱说了，回来吃饭！",
+          "你干什么去？别瞎逛了，回来聊天！",
+          "你傻啊？别装了，回来干活！",
+          "你谁啊？别啰嗦了，回来睡觉！"
+        ],
+        "correctAnswer": "你干什么去？别瞎逛了，回来聊天！",
+        "explanation": "嘎哈=干什么，溜达=闲逛，唠嗑=聊天！"
+      },
+      {
+        "id": "l10q3",
+        "type": "multiple_choice",
+        "prompt": "翻译这段东北话：\n「这事贼磕碜，你咋整的？」",
+        "options": [
+          "这事非常丢人，你怎么搞的？",
+          "这事特别难，你做的不错！",
+          "这事很恶心，你吃的什么？",
+          "这事太搞笑了，你说的什么？"
+        ],
+        "correctAnswer": "这事非常丢人，你怎么搞的？",
+        "explanation": "贼=非常，磕碜=丢人，咋整=怎么办/怎么搞的！"
+      },
+      {
+        "id": "l10q4",
+        "type": "multiple_choice",
+        "prompt": "翻译这段东北话：\n「老铁，你别扒瞎了，嗯哪？」",
+        "options": [
+          "朋友，你别炫耀了，好吗？",
+          "兄弟，你别装了，行吗？",
+          "好友，你别胡说了，好吗？",
+          "哥们，你别啰嗦了，对吧？"
+        ],
+        "correctAnswer": "好友，你别胡说了，好吗？",
+        "explanation": "老铁=好友，扒瞎=胡说/说谎，嗯哪=是的/好吗！"
+      },
+      {
+        "id": "l10q5",
+        "type": "multiple_choice",
+        "prompt": "翻译这段东北话：\n「他整天装犊子，贼膈应人！」",
+        "options": [
+          "他整天装模作样，非常讨厌！",
+          "他整天说谎话，特别傻！",
+          "他整天炫耀，特别丢人！",
+          "他整天乱说，非常啰嗦！"
+        ],
+        "correctAnswer": "他整天装模作样，非常讨厌！",
+        "explanation": "装犊子=装模作样，贼=非常，膈应=讨厌！"
+      },
+      {
+        "id": "l10q6",
+        "type": "fill_in_blank",
+        "prompt": "完成对话：\nA：你看他那个样子，又开始___了。\nB：拉倒吧，别理他，咱___去！",
+        "options": [
+          "得瑟...溜达",
+          "嘚嘚...造",
+          "扒瞎...整",
+          "彪...唠嗑"
+        ],
+        "correctAnswer": "得瑟...溜达",
+        "explanation": "他炫耀=得瑟，咱散步去=溜达去！"
+      },
+      {
+        "id": "l10q7",
+        "type": "fill_in_blank",
+        "prompt": "完成对话：\nA：___，今晚的菜我___了！\nB：行，那可得___的啊！",
+        "options": [
+          "铁子...包圆儿...杠杠",
+          "老铁...整...嘎嘣脆",
+          "铁子...造...贼好",
+          "老铁...削...尿性"
+        ],
+        "correctAnswer": "铁子...包圆儿...杠杠",
+        "explanation": "铁子=好兄弟，包圆儿=全部包下/请客，杠杠的=非常好！"
+      },
+      {
+        "id": "l10q8",
+        "type": "multiple_choice",
+        "prompt": "以下哪句话是在劝人别说假话？",
+        "options": [
+          "你别嘚嘚了！",
+          "你别扒瞎了！",
+          "你别得瑟了！",
+          "你别装犊子了！"
+        ],
+        "correctAnswer": "你别扒瞎了！",
+        "explanation": "扒瞎=说谎/胡说，\"你别扒瞎了\"就是劝人别说假话！"
+      },
+      {
+        "id": "l10q9",
+        "type": "multiple_choice",
+        "prompt": "以下哪句话是在夸人？",
+        "options": [
+          "你真彪！",
+          "你真膈应人！",
+          "你真有尿性！",
+          "你真磕碜！"
+        ],
+        "correctAnswer": "你真有尿性！",
+        "explanation": "尿性=有骨气/厉害，是唯一的夸人词，其他都是贬义！"
+      },
+      {
+        "id": "l10q10",
+        "type": "multiple_choice",
+        "prompt": "东北人说\"我波棱盖儿卡马路牙子上秃噜皮了\"是什么意思？",
+        "options": [
+          "我的膝盖磕到路边石上蹭破皮了",
+          "我的胳膊被门夹了一下",
+          "我的脚被石头绊了一下",
+          "我从楼梯上滑下来了"
+        ],
+        "correctAnswer": "我的膝盖磕到路边石上蹭破皮了",
+        "explanation": "波棱盖儿=膝盖，秃噜=滑落/蹭破，合起来就是膝盖磕到路边石上蹭破皮了！"
+      },
+      {
+        "id": "l10q11",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v015",
+        "options": [
+          "好朋友/好兄弟",
+          "好兄弟",
+          "打你",
+          "有骨气/厉害"
+        ],
+        "correctAnswer": "好兄弟",
+        "explanation": "你听到的是\"铁子\"，意思是\"好兄弟\"！"
+      },
+      {
+        "id": "l10q12",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v018",
+        "options": [
+          "痒",
+          "丢人/难看",
+          "恶心/讨厌",
+          "炫耀/显摆"
+        ],
+        "correctAnswer": "恶心/讨厌",
+        "explanation": "你听到的是\"膈应\"，意思是\"恶心/讨厌\"！"
+      },
+      {
+        "id": "l10q13",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v026",
+        "options": [
+          "炫耀/显摆",
+          "说谎/胡说",
+          "装模作样",
+          "主动凑上去"
+        ],
+        "correctAnswer": "装模作样",
+        "explanation": "你听到的是\"装犊子\"，意思是\"装模作样\"！"
+      },
+      {
+        "id": "l10q14",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v029",
+        "options": [
+          "散步/闲逛",
+          "特别脆",
+          "膝盖",
+          "全部包下"
+        ],
+        "correctAnswer": "膝盖",
+        "explanation": "你听到的是\"波棱盖儿\"，意思是\"膝盖\"！"
+      },
+      {
+        "id": "l10q15",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v027",
+        "options": [
+          "算了吧",
+          "全部包下",
+          "装模作样",
+          "主动凑上去"
+        ],
+        "correctAnswer": "主动凑上去",
+        "explanation": "你听到的是\"上赶着\"，意思是\"主动凑上去\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "通化"
+  },
+  {
+    "id": "level_11",
+    "levelNumber": 11,
+    "title": "白山关",
+    "subtitle": "吉林·白山 - 日常打招呼和寒暄用词",
+    "passingScore": 60,
+    "rewardXP": 100,
+    "questions": [
+      {
+        "id": "l11q1",
+        "type": "multiple_choice",
+        "prompt": "\"溜达\"是什么意思？",
+        "options": [
+          "散步/闲逛",
+          "雪花啤酒",
+          "有骨气/厉害",
+          "傻/愣"
+        ],
+        "correctAnswer": "散步/闲逛",
+        "explanation": "\"溜达\"就是\"散步/闲逛\"的意思。饭后常用语"
+      },
+      {
+        "id": "l11q2",
+        "type": "multiple_choice",
+        "prompt": "\"咋整\"是什么意思？",
+        "options": [
+          "啰嗦/话多",
+          "怎么办",
+          "装模作样",
+          "吃"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "\"咋整\"就是\"怎么办\"的意思。遇到困难或需要商量时使用"
+      },
+      {
+        "id": "l11q3",
+        "type": "multiple_choice",
+        "prompt": "\"嗯哪\"是什么意思？",
+        "options": [
+          "啰嗦/话多",
+          "是的/对的",
+          "装模作样",
+          "吃"
+        ],
+        "correctAnswer": "是的/对的",
+        "explanation": "\"嗯哪\"就是\"是的/对的\"的意思。日常对话中非常高频"
+      },
+      {
+        "id": "l11q4",
+        "type": "multiple_choice",
+        "prompt": "\"唠嗑\"是什么意思？",
+        "options": [
+          "聊天",
+          "主动凑上去",
+          "打你",
+          "丢人/难看"
+        ],
+        "correctAnswer": "聊天",
+        "explanation": "\"唠嗑\"就是\"聊天\"的意思。非常日常的表达"
+      },
+      {
+        "id": "l11q5",
+        "type": "multiple_choice",
+        "prompt": "\"咯应\"是什么意思？",
+        "options": [
+          "傻/愣",
+          "痒",
+          "膝盖",
+          "丢人/难看"
+        ],
+        "correctAnswer": "痒",
+        "explanation": "\"咯应\"就是\"痒\"的意思。和膈应区分"
+      }
+    ],
+    "province": "吉林",
+    "city": "白山"
+  },
+  {
+    "id": "level_12",
+    "levelNumber": 12,
+    "title": "白山关(2)",
+    "subtitle": "吉林·白山 - 吃喝相关的东北话",
+    "passingScore": 60,
+    "rewardXP": 150,
+    "questions": [
+      {
+        "id": "l12q1",
+        "type": "multiple_choice",
+        "prompt": "\"包圆儿\"是什么意思？",
+        "options": [
+          "干什么",
+          "炫耀/显摆",
+          "傻/愣",
+          "全部包下"
+        ],
+        "correctAnswer": "全部包下",
+        "explanation": "\"包圆儿\"就是\"全部包下\"的意思。请客时显得特别大方"
+      },
+      {
+        "id": "l12q2",
+        "type": "multiple_choice",
+        "prompt": "\"杠杠的\"是什么意思？",
+        "options": [
+          "好朋友/好兄弟",
+          "特别脆",
+          "非常好/特别棒",
+          "喜欢/稀奇"
+        ],
+        "correctAnswer": "非常好/特别棒",
+        "explanation": "\"杠杠的\"就是\"非常好/特别棒\"的意思。夸赞任何事物都可以用"
+      },
+      {
+        "id": "l12q3",
+        "type": "multiple_choice",
+        "prompt": "\"大绿棒子\"是什么意思？",
+        "options": [
+          "脏/不干净",
+          "有骨气/厉害",
+          "雪花啤酒",
+          "滑落/搞砸"
+        ],
+        "correctAnswer": "雪花啤酒",
+        "explanation": "\"大绿棒子\"就是\"雪花啤酒\"的意思。撸串时必点"
+      },
+      {
+        "id": "l12q4",
+        "type": "multiple_choice",
+        "prompt": "\"嘎嘣脆\"是什么意思？",
+        "options": [
+          "打你",
+          "特别脆",
+          "痒",
+          "主动凑上去"
+        ],
+        "correctAnswer": "特别脆",
+        "explanation": "\"嘎嘣脆\"就是\"特别脆\"的意思。形容食物时很生动"
+      },
+      {
+        "id": "l12q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：今天这顿我___了！",
+        "options": [
+          "咯应",
+          "铁子",
+          "包圆儿",
+          "装犊子"
+        ],
+        "correctAnswer": "包圆儿",
+        "explanation": "正确答案是\"包圆儿\"（全部包下）。请客时显得特别大方"
+      }
+    ],
+    "province": "吉林",
+    "city": "白山"
+  },
+  {
+    "id": "level_13",
+    "levelNumber": 13,
+    "title": "松原关",
+    "subtitle": "吉林·松原 - 不带脏字但杀伤力十足",
+    "passingScore": 60,
+    "rewardXP": 200,
+    "questions": [
+      {
+        "id": "l13q1",
+        "type": "multiple_choice",
+        "prompt": "\"削你\"是什么意思？",
+        "options": [
+          "全部包下",
+          "非常好/特别棒",
+          "打你",
+          "主动凑上去"
+        ],
+        "correctAnswer": "打你",
+        "explanation": "\"削你\"就是\"打你\"的意思。朋友之间多是玩笑"
+      },
+      {
+        "id": "l13q2",
+        "type": "multiple_choice",
+        "prompt": "\"膈应\"是什么意思？",
+        "options": [
+          "好朋友/好兄弟",
+          "特别脆",
+          "雪花啤酒",
+          "恶心/讨厌"
+        ],
+        "correctAnswer": "恶心/讨厌",
+        "explanation": "\"膈应\"就是\"恶心/讨厌\"的意思。表达反感时使用"
+      },
+      {
+        "id": "l13q3",
+        "type": "multiple_choice",
+        "prompt": "\"扒瞎\"是什么意思？",
+        "options": [
+          "说谎/胡说",
+          "特别脆",
+          "喜欢/稀奇",
+          "聊天"
+        ],
+        "correctAnswer": "说谎/胡说",
+        "explanation": "\"扒瞎\"就是\"说谎/胡说\"的意思。揭穿别人谎话时使用"
+      },
+      {
+        "id": "l13q4",
+        "type": "multiple_choice",
+        "prompt": "\"装犊子\"是什么意思？",
+        "options": [
+          "非常/很",
+          "装模作样",
+          "吃",
+          "打你"
+        ],
+        "correctAnswer": "装模作样",
+        "explanation": "\"装犊子\"就是\"装模作样\"的意思。比较直接的批评"
+      },
+      {
+        "id": "l13q5",
+        "type": "multiple_choice",
+        "prompt": "\"彪\"是什么意思？",
+        "options": [
+          "膝盖",
+          "有骨气/厉害",
+          "怎么办",
+          "傻/愣"
+        ],
+        "correctAnswer": "傻/愣",
+        "explanation": "\"彪\"就是\"傻/愣\"的意思。好朋友之间常用"
+      }
+    ],
+    "province": "吉林",
+    "city": "松原"
+  },
+  {
+    "id": "level_14",
+    "levelNumber": 14,
+    "title": "松原关(2)",
+    "subtitle": "吉林·松原 - 人际关系中的东北表达",
+    "passingScore": 60,
+    "rewardXP": 250,
+    "questions": [
+      {
+        "id": "l14q1",
+        "type": "multiple_choice",
+        "prompt": "\"主动凑上去\"用东北话怎么说？",
+        "options": [
+          "上赶着",
+          "尿性",
+          "嘎哈",
+          "咋整"
+        ],
+        "correctAnswer": "上赶着",
+        "explanation": "\"主动凑上去\"的东北话说法是\"上赶着\"！"
+      },
+      {
+        "id": "l14q2",
+        "type": "multiple_choice",
+        "prompt": "\"丢人/难看\"用东北话怎么说？",
+        "options": [
+          "削你",
+          "上赶着",
+          "整",
+          "磕碜"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"丢人/难看\"的东北话说法是\"磕碜\"！"
+      },
+      {
+        "id": "l14q3",
+        "type": "multiple_choice",
+        "prompt": "\"好朋友/好兄弟\"用东北话怎么说？",
+        "options": [
+          "包圆儿",
+          "彪",
+          "老铁",
+          "整"
+        ],
+        "correctAnswer": "老铁",
+        "explanation": "\"好朋友/好兄弟\"的东北话说法是\"老铁\"！"
+      },
+      {
+        "id": "l14q4",
+        "type": "multiple_choice",
+        "prompt": "\"喜欢/稀奇\"用东北话怎么说？",
+        "options": [
+          "得瑟",
+          "嗯哪",
+          "稀罕",
+          "尿性"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"喜欢/稀奇\"的东北话说法是\"稀罕\"！"
+      },
+      {
+        "id": "l14q5",
+        "type": "multiple_choice",
+        "prompt": "\"好兄弟\"用东北话怎么说？",
+        "options": [
+          "造",
+          "上赶着",
+          "唠嗑",
+          "铁子"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "\"好兄弟\"的东北话说法是\"铁子\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "松原"
+  },
+  {
+    "id": "level_15",
+    "levelNumber": 15,
+    "title": "白城关",
+    "subtitle": "吉林·白城 - 搞笑有趣的东北用语",
+    "passingScore": 60,
+    "rewardXP": 300,
+    "questions": [
+      {
+        "id": "l15q1",
+        "type": "multiple_choice",
+        "prompt": "\"波棱盖儿\"是什么意思？",
+        "options": [
+          "膝盖",
+          "说谎/胡说",
+          "是的/对的",
+          "滑落/搞砸"
+        ],
+        "correctAnswer": "膝盖",
+        "explanation": "\"波棱盖儿\"就是\"膝盖\"的意思。东北经典搞笑句式"
+      },
+      {
+        "id": "l15q2",
+        "type": "multiple_choice",
+        "prompt": "\"拉倒吧\"是什么意思？",
+        "options": [
+          "非常好/特别棒",
+          "好兄弟",
+          "算了吧",
+          "非常/很"
+        ],
+        "correctAnswer": "算了吧",
+        "explanation": "\"拉倒吧\"就是\"算了吧\"的意思。带有调侃和不信任的语气"
+      },
+      {
+        "id": "l15q3",
+        "type": "multiple_choice",
+        "prompt": "\"尿性\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "丢人/难看",
+          "装模作样",
+          "怎么办"
+        ],
+        "correctAnswer": "有骨气/厉害",
+        "explanation": "\"尿性\"就是\"有骨气/厉害\"的意思。是夸人的意思"
+      },
+      {
+        "id": "l15q4",
+        "type": "multiple_choice",
+        "prompt": "\"秃噜\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "打你",
+          "滑落/搞砸",
+          "特别脆"
+        ],
+        "correctAnswer": "滑落/搞砸",
+        "explanation": "\"秃噜\"就是\"滑落/搞砸\"的意思。形容物理上的滑落或事情出错"
+      },
+      {
+        "id": "l15q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：我___卡马路牙子上了！",
+        "options": [
+          "波棱盖儿",
+          "大绿棒子",
+          "嘎哈",
+          "膈应"
+        ],
+        "correctAnswer": "波棱盖儿",
+        "explanation": "正确答案是\"波棱盖儿\"（膝盖）。东北经典搞笑句式"
+      }
+    ],
+    "rewardTitle": "入门毕业",
+    "province": "吉林",
+    "city": "白城"
+  },
+  {
+    "id": "level_16",
+    "levelNumber": 16,
+    "title": "白城关(2)",
+    "subtitle": "吉林·白城 - 听音频猜意思",
+    "passingScore": 65,
+    "rewardXP": 350,
+    "questions": [
+      {
+        "id": "l16q1",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v022",
+        "options": [
+          "散步/闲逛",
+          "是的/对的",
+          "脏/不干净",
+          "全部包下"
+        ],
+        "correctAnswer": "全部包下",
+        "explanation": "你听到的是\"包圆儿\"，意思是\"全部包下\"！"
+      },
+      {
+        "id": "l16q2",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v003",
+        "options": [
+          "装模作样",
+          "特别脆",
+          "好朋友/好兄弟",
+          "非常/很"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "你听到的是\"贼\"，意思是\"非常/很\"！"
+      },
+      {
+        "id": "l16q3",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v006",
+        "options": [
+          "怎么办",
+          "雪花啤酒",
+          "是的/对的",
+          "滑落/搞砸"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "你听到的是\"咋整\"，意思是\"怎么办\"！"
+      },
+      {
+        "id": "l16q4",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v008",
+        "options": [
+          "痒",
+          "聊天",
+          "滑落/搞砸",
+          "算了吧"
+        ],
+        "correctAnswer": "聊天",
+        "explanation": "你听到的是\"唠嗑\"，意思是\"聊天\"！"
+      },
+      {
+        "id": "l16q5",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v018",
+        "options": [
+          "恶心/讨厌",
+          "啰嗦/话多",
+          "痒",
+          "干什么"
+        ],
+        "correctAnswer": "恶心/讨厌",
+        "explanation": "你听到的是\"膈应\"，意思是\"恶心/讨厌\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "白城"
+  },
+  {
+    "id": "level_17",
+    "levelNumber": 17,
+    "title": "延边关",
+    "subtitle": "吉林·延边 - 在语境中选择正确用词",
+    "passingScore": 65,
+    "rewardXP": 400,
+    "questions": [
+      {
+        "id": "l17q1",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：___不是买卖！",
+        "options": [
+          "整",
+          "上赶着",
+          "唠嗑",
+          "咋整"
+        ],
+        "correctAnswer": "上赶着",
+        "explanation": "正确答案是\"上赶着\"（主动凑上去）。形容太主动反而不好"
+      },
+      {
+        "id": "l17q2",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你___去啊？",
+        "options": [
+          "包圆儿",
+          "拉倒吧",
+          "埋汰",
+          "嘎哈"
+        ],
+        "correctAnswer": "嘎哈",
+        "explanation": "正确答案是\"嘎哈\"（干什么）。朋友之间打招呼时非常常用"
+      },
+      {
+        "id": "l17q3",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：我可___你了！",
+        "options": [
+          "稀罕",
+          "埋汰",
+          "杠杠的",
+          "造"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "正确答案是\"稀罕\"（喜欢/稀奇）。表达喜爱之情时用"
+      },
+      {
+        "id": "l17q4",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你小子还挺有___！",
+        "options": [
+          "大绿棒子",
+          "扒瞎",
+          "咯应",
+          "尿性"
+        ],
+        "correctAnswer": "尿性",
+        "explanation": "正确答案是\"尿性\"（有骨气/厉害）。是夸人的意思"
+      },
+      {
+        "id": "l17q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：___，就是这么回事儿！",
+        "options": [
+          "嗯哪",
+          "扒瞎",
+          "大绿棒子",
+          "咋整"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "正确答案是\"嗯哪\"（是的/对的）。日常对话中非常高频"
+      }
+    ],
+    "province": "吉林",
+    "city": "延边"
+  },
+  {
+    "id": "level_18",
+    "levelNumber": 18,
+    "title": "延边关(2)",
+    "subtitle": "吉林·延边 - 从普通话找东北话",
+    "passingScore": 65,
+    "rewardXP": 450,
+    "questions": [
+      {
+        "id": "l18q1",
+        "type": "multiple_choice",
+        "prompt": "\"怎么办\"用东北话怎么说？",
+        "options": [
+          "埋汰",
+          "整",
+          "嘎嘣脆",
+          "咋整"
+        ],
+        "correctAnswer": "咋整",
+        "explanation": "\"怎么办\"的东北话说法是\"咋整\"！"
+      },
+      {
+        "id": "l18q2",
+        "type": "multiple_choice",
+        "prompt": "\"丢人/难看\"用东北话怎么说？",
+        "options": [
+          "秃噜",
+          "大绿棒子",
+          "咋整",
+          "磕碜"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"丢人/难看\"的东北话说法是\"磕碜\"！"
+      },
+      {
+        "id": "l18q3",
+        "type": "multiple_choice",
+        "prompt": "\"炫耀/显摆\"用东北话怎么说？",
+        "options": [
+          "嘚嘚",
+          "得瑟",
+          "嘎哈",
+          "秃噜"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"炫耀/显摆\"的东北话说法是\"得瑟\"！"
+      },
+      {
+        "id": "l18q4",
+        "type": "multiple_choice",
+        "prompt": "\"装模作样\"用东北话怎么说？",
+        "options": [
+          "装犊子",
+          "埋汰",
+          "彪",
+          "尿性"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "\"装模作样\"的东北话说法是\"装犊子\"！"
+      },
+      {
+        "id": "l18q5",
+        "type": "multiple_choice",
+        "prompt": "\"恶心/讨厌\"用东北话怎么说？",
+        "options": [
+          "削你",
+          "嘚嘚",
+          "膈应",
+          "嗯哪"
+        ],
+        "correctAnswer": "膈应",
+        "explanation": "\"恶心/讨厌\"的东北话说法是\"膈应\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "延边"
+  },
+  {
+    "id": "level_19",
+    "levelNumber": 19,
+    "title": "延边关(3)",
+    "subtitle": "吉林·延边 - 通过上下文推断词义",
+    "passingScore": 65,
+    "rewardXP": 500,
+    "questions": [
+      {
+        "id": "l19q1",
+        "type": "fill_in_blank",
+        "prompt": "看人不顺眼，觉得他特别让人___。",
+        "options": [
+          "整",
+          "嘎哈",
+          "杠杠的",
+          "膈应"
+        ],
+        "correctAnswer": "膈应",
+        "explanation": "讨厌就是\"膈应\"！"
+      },
+      {
+        "id": "l19q2",
+        "type": "fill_in_blank",
+        "prompt": "烧烤摊老板问你喝什么，你说\"来两瓶___！\"",
+        "options": [
+          "尿性",
+          "稀罕",
+          "咯应",
+          "大绿棒子"
+        ],
+        "correctAnswer": "大绿棒子",
+        "explanation": "东北烧烤标配——\"大绿棒子\"！"
+      },
+      {
+        "id": "l19q3",
+        "type": "fill_in_blank",
+        "prompt": "朋友又在吹牛，你说\"你又开始___了！\"",
+        "options": [
+          "铁子",
+          "波棱盖儿",
+          "秃噜",
+          "扒瞎"
+        ],
+        "correctAnswer": "扒瞎",
+        "explanation": "说假话就是\"扒瞎\"！"
+      },
+      {
+        "id": "l19q4",
+        "type": "fill_in_blank",
+        "prompt": "嫌弟弟话多烦人，说\"再___信不信削你？\"",
+        "options": [
+          "老铁",
+          "稀罕",
+          "彪",
+          "嘚嘚"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "啰嗦就是\"嘚嘚\"！"
+      },
+      {
+        "id": "l19q5",
+        "type": "fill_in_blank",
+        "prompt": "摔了一跤磕到了___，疼得不行。",
+        "options": [
+          "波棱盖儿",
+          "装犊子",
+          "包圆儿",
+          "咋整"
+        ],
+        "correctAnswer": "波棱盖儿",
+        "explanation": "膝盖就是\"波棱盖儿\"！"
+      }
+    ],
+    "province": "吉林",
+    "city": "延边"
+  },
+  {
+    "id": "level_20",
+    "levelNumber": 20,
+    "title": "延边关(4)",
+    "subtitle": "吉林·延边 - 把东北话翻译成普通话",
+    "passingScore": 65,
+    "rewardXP": 550,
+    "questions": [
+      {
+        "id": "l20q1",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你别老得瑟了行不？」",
+        "options": [
+          "你别老是炫耀了行不行？",
+          "主动凑上去的不叫好生意！",
+          "这件事怎么办啊？",
+          "你别胡说了！"
+        ],
+        "correctAnswer": "你别老是炫耀了行不行？",
+        "explanation": "「你别老得瑟了行不？」的意思是「你别老是炫耀了行不行？」"
+      },
+      {
+        "id": "l20q2",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「今天贼冷！」",
+        "options": [
+          "这件事怎么办啊？",
+          "今天非常冷！",
+          "你要去干什么？",
+          "这黄瓜特别脆！"
+        ],
+        "correctAnswer": "今天非常冷！",
+        "explanation": "「今天贼冷！」的意思是「今天非常冷！」"
+      },
+      {
+        "id": "l20q3",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「这事儿咋整啊？」",
+        "options": [
+          "好兄弟，没问题！",
+          "你小子还挺有骨气！",
+          "来两瓶雪花啤酒！",
+          "这件事怎么办啊？"
+        ],
+        "correctAnswer": "这件事怎么办啊？",
+        "explanation": "「这事儿咋整啊？」的意思是「这件事怎么办啊？」"
+      },
+      {
+        "id": "l20q4",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「上赶着不是买卖！」",
+        "options": [
+          "这黄瓜特别脆！",
+          "主动凑上去的不叫好生意！",
+          "好兄弟，没问题！",
+          "你别老是炫耀了行不行？"
+        ],
+        "correctAnswer": "主动凑上去的不叫好生意！",
+        "explanation": "「上赶着不是买卖！」的意思是「主动凑上去的不叫好生意！」"
+      },
+      {
+        "id": "l20q5",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你别嘚嘚了行不？」",
+        "options": [
+          "这件事多丢人啊！",
+          "你别啰嗦了行不行？",
+          "你这人真让人讨厌！",
+          "你要去干什么？"
+        ],
+        "correctAnswer": "你别啰嗦了行不行？",
+        "explanation": "「你别嘚嘚了行不？」的意思是「你别啰嗦了行不行？」"
+      }
+    ],
+    "rewardTitle": "初级达人",
+    "province": "吉林",
+    "city": "延边"
+  },
+  {
+    "id": "level_21",
+    "levelNumber": 21,
+    "title": "沈阳关",
+    "subtitle": "辽宁·沈阳 - 区分相近的东北话词语",
+    "passingScore": 70,
+    "rewardXP": 600,
+    "questions": [
+      {
+        "id": "l21q1",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词可以用来形容\"一个人做事冲动不动脑子\"？",
+        "options": [
+          "彪",
+          "尿性",
+          "磕碜",
+          "得瑟"
+        ],
+        "correctAnswer": "彪",
+        "explanation": "彪=傻/愣，形容人做事不经大脑！"
+      },
+      {
+        "id": "l21q2",
+        "type": "multiple_choice",
+        "prompt": "\"削你\"和\"膈应\"，哪个表达更严重的威胁？",
+        "options": [
+          "削你",
+          "膈应",
+          "一样严重",
+          "都不严重"
+        ],
+        "correctAnswer": "削你",
+        "explanation": "削你=打你，是直接的威胁；膈应=讨厌，只是表达反感！"
+      },
+      {
+        "id": "l21q3",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词既可以指\"物理滑落\"也可以指\"搞砸事情\"？",
+        "options": [
+          "秃噜",
+          "溜达",
+          "得瑟",
+          "埋汰"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "秃噜既形容东西滑落，也比喻把事情搞砸！"
+      },
+      {
+        "id": "l21q4",
+        "type": "multiple_choice",
+        "prompt": "\"贼\"和\"杠杠的\"都表示程度大，区别是？",
+        "options": [
+          "贼是副词修饰形容词，杠杠的本身就是形容词",
+          "完全一样用法",
+          "贼只能形容坏事",
+          "杠杠的只能形容人"
+        ],
+        "correctAnswer": "贼是副词修饰形容词，杠杠的本身就是形容词",
+        "explanation": "贼冷、贼好（修饰其他词），杠杠的（独立使用表示非常好）！"
+      },
+      {
+        "id": "l21q5",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词形容\"食物口感好\"？",
+        "options": [
+          "嘎嘣脆",
+          "磕碜",
+          "膈应",
+          "秃噜"
+        ],
+        "correctAnswer": "嘎嘣脆",
+        "explanation": "嘎嘣脆形容食物特别脆，口感好！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "沈阳"
+  },
+  {
+    "id": "level_22",
+    "levelNumber": 22,
+    "title": "沈阳关(2)",
+    "subtitle": "辽宁·沈阳 - 补全东北话对话",
+    "passingScore": 70,
+    "rewardXP": 650,
+    "questions": [
+      {
+        "id": "l22q1",
+        "type": "fill_in_blank",
+        "prompt": "看到好看的小狗，你会说\"我可___这狗了！\"",
+        "options": [
+          "溜达",
+          "咯应",
+          "稀罕",
+          "装犊子"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "喜欢就是\"稀罕\"！"
+      },
+      {
+        "id": "l22q2",
+        "type": "fill_in_blank",
+        "prompt": "朋友提了一个不靠谱的建议，你会说\"___你吧！\"",
+        "options": [
+          "上赶着",
+          "嘎哈",
+          "扒瞎",
+          "拉倒吧"
+        ],
+        "correctAnswer": "拉倒吧",
+        "explanation": "觉得不靠谱就说\"拉倒吧\"！"
+      },
+      {
+        "id": "l22q3",
+        "type": "fill_in_blank",
+        "prompt": "朋友主动给领导端茶倒水，你说\"你可真___！\"",
+        "options": [
+          "上赶着",
+          "秃噜",
+          "溜达",
+          "稀罕"
+        ],
+        "correctAnswer": "上赶着",
+        "explanation": "主动巴结就是\"上赶着\"！"
+      },
+      {
+        "id": "l22q4",
+        "type": "fill_in_blank",
+        "prompt": "有人假装不认识你，你说\"你别跟我___！\"",
+        "options": [
+          "装犊子",
+          "铁子",
+          "咋整",
+          "咯应"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "装模作样就是\"装犊子\"！"
+      },
+      {
+        "id": "l22q5",
+        "type": "fill_in_blank",
+        "prompt": "做错事了被同事嘲笑，你觉得真___！",
+        "options": [
+          "磕碜",
+          "尿性",
+          "上赶着",
+          "稀罕"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "丢人就是\"磕碜\"！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "沈阳"
+  },
+  {
+    "id": "level_23",
+    "levelNumber": 23,
+    "title": "沈阳关(3)",
+    "subtitle": "辽宁·沈阳 - 根据场景选择合适的词",
+    "passingScore": 70,
+    "rewardXP": 700,
+    "questions": [
+      {
+        "id": "l23q1",
+        "type": "multiple_choice",
+        "prompt": "请客吃饭你说\"今天我___了，你们随便点！\"",
+        "options": [
+          "包圆儿",
+          "杠杠的",
+          "稀罕",
+          "得瑟"
+        ],
+        "correctAnswer": "包圆儿",
+        "explanation": "全包了就是\"包圆儿\"！"
+      },
+      {
+        "id": "l23q2",
+        "type": "multiple_choice",
+        "prompt": "喝酒时跟好兄弟碰杯说\"___，走一个！\"",
+        "options": [
+          "拉倒吧",
+          "削你",
+          "贼",
+          "铁子"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "好兄弟就是\"铁子\"！"
+      },
+      {
+        "id": "l23q3",
+        "type": "multiple_choice",
+        "prompt": "有人问你要不要一起吃饭，你说\"___，走！\"",
+        "options": [
+          "嘎哈",
+          "造",
+          "波棱盖儿",
+          "嗯哪"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "表示同意就说\"嗯哪\"！"
+      },
+      {
+        "id": "l23q4",
+        "type": "multiple_choice",
+        "prompt": "吃饭时劝朋友别客气，说\"可劲儿___！\"",
+        "options": [
+          "造",
+          "埋汰",
+          "稀罕",
+          "唠嗑"
+        ],
+        "correctAnswer": "造",
+        "explanation": "使劲吃就是\"造\"！"
+      },
+      {
+        "id": "l23q5",
+        "type": "multiple_choice",
+        "prompt": "朋友问你\"这事是不是真的？\"你肯定地说\"___！\"",
+        "options": [
+          "造",
+          "嗯哪",
+          "贼",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "表示肯定就说\"嗯哪\"！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "沈阳"
+  },
+  {
+    "id": "level_24",
+    "levelNumber": 24,
+    "title": "大连关",
+    "subtitle": "辽宁·大连 - 东北文化与语言",
+    "passingScore": 70,
+    "rewardXP": 750,
+    "questions": [
+      {
+        "id": "l24q1",
+        "type": "multiple_choice",
+        "prompt": "\"膈应\"和\"咯应\"发音相近，它们分别是什么意思？",
+        "options": [
+          "讨厌和痒",
+          "痒和讨厌",
+          "都是讨厌",
+          "都是痒"
+        ],
+        "correctAnswer": "讨厌和痒",
+        "explanation": "膈应=恶心/讨厌，咯应=痒，发音近但意思不同！"
+      },
+      {
+        "id": "l24q2",
+        "type": "multiple_choice",
+        "prompt": "东北人说\"嗯哪\"时通常会配合什么动作？",
+        "options": [
+          "摇头",
+          "微微点头",
+          "拍桌子",
+          "跺脚"
+        ],
+        "correctAnswer": "微微点头",
+        "explanation": "说嗯哪时微微点头，表示肯定、同意！"
+      },
+      {
+        "id": "l24q3",
+        "type": "multiple_choice",
+        "prompt": "\"波棱盖儿卡秃噜皮了\"中有几个东北话词？",
+        "options": [
+          "1个",
+          "2个",
+          "3个",
+          "4个"
+        ],
+        "correctAnswer": "2个",
+        "explanation": "波棱盖儿（膝盖）和秃噜（滑落/蹭破），共2个东北话词！"
+      },
+      {
+        "id": "l24q4",
+        "type": "multiple_choice",
+        "prompt": "\"铁子\"和\"老铁\"哪个更亲切随意？",
+        "options": [
+          "老铁",
+          "铁子",
+          "一样亲切",
+          "都不亲切"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "铁子比老铁更亲切随意一些，是更日常的叫法！"
+      },
+      {
+        "id": "l24q5",
+        "type": "multiple_choice",
+        "prompt": "以下哪个是东北人请客时说的？",
+        "options": [
+          "这顿我包圆儿了",
+          "拉倒吧你",
+          "你可真彪",
+          "别嘚嘚了"
+        ],
+        "correctAnswer": "这顿我包圆儿了",
+        "explanation": "包圆儿=全部包下，请客时说显得大方！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "大连"
+  },
+  {
+    "id": "level_25",
+    "levelNumber": 25,
+    "title": "大连关(2)",
+    "subtitle": "辽宁·大连 - 根据拼音选出正确的词",
+    "passingScore": 70,
+    "rewardXP": 800,
+    "questions": [
+      {
+        "id": "l25q1",
+        "type": "multiple_choice",
+        "prompt": "读音\"gā bēng cuì\"对应的东北话词是？",
+        "options": [
+          "铁子",
+          "溜达",
+          "贼",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "嘎嘣脆",
+        "explanation": "\"gā bēng cuì\"读的是\"嘎嘣脆\"，意思是\"特别脆\"！"
+      },
+      {
+        "id": "l25q2",
+        "type": "multiple_choice",
+        "prompt": "读音\"zéi\"对应的东北话词是？",
+        "options": [
+          "唠嗑",
+          "贼",
+          "埋汰",
+          "整"
+        ],
+        "correctAnswer": "贼",
+        "explanation": "\"zéi\"读的是\"贼\"，意思是\"非常/很\"！"
+      },
+      {
+        "id": "l25q3",
+        "type": "multiple_choice",
+        "prompt": "读音\"gé ying\"对应的东北话词是？",
+        "options": [
+          "铁子",
+          "老铁",
+          "膈应",
+          "整"
+        ],
+        "correctAnswer": "膈应",
+        "explanation": "\"gé ying\"读的是\"膈应\"，意思是\"恶心/讨厌\"！"
+      },
+      {
+        "id": "l25q4",
+        "type": "multiple_choice",
+        "prompt": "读音\"xǐ han\"对应的东北话词是？",
+        "options": [
+          "咋整",
+          "扒瞎",
+          "稀罕",
+          "老铁"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"xǐ han\"读的是\"稀罕\"，意思是\"喜欢/稀奇\"！"
+      },
+      {
+        "id": "l25q5",
+        "type": "multiple_choice",
+        "prompt": "读音\"bō leng gài er\"对应的东北话词是？",
+        "options": [
+          "咯应",
+          "波棱盖儿",
+          "彪",
+          "嘎哈"
+        ],
+        "correctAnswer": "波棱盖儿",
+        "explanation": "\"bō leng gài er\"读的是\"波棱盖儿\"，意思是\"膝盖\"！"
+      }
+    ],
+    "rewardTitle": "中级达人",
+    "province": "辽宁",
+    "city": "大连"
+  },
+  {
+    "id": "level_26",
+    "levelNumber": 26,
+    "title": "大连关(3)",
+    "subtitle": "辽宁·大连 - 各种题型混合出击",
+    "passingScore": 75,
+    "rewardXP": 850,
+    "questions": [
+      {
+        "id": "l26q1",
+        "type": "multiple_choice",
+        "prompt": "\"杠杠的\"是什么意思？",
+        "options": [
+          "装模作样",
+          "非常/很",
+          "聊天",
+          "非常好/特别棒"
+        ],
+        "correctAnswer": "非常好/特别棒",
+        "explanation": "\"杠杠的\"就是\"非常好/特别棒\"的意思。夸赞任何事物都可以用"
+      },
+      {
+        "id": "l26q2",
+        "type": "multiple_choice",
+        "prompt": "\"好兄弟\"用东北话怎么说？",
+        "options": [
+          "唠嗑",
+          "膈应",
+          "铁子",
+          "杠杠的"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "\"好兄弟\"的东北话说法是\"铁子\"！"
+      },
+      {
+        "id": "l26q3",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：来来来，咱俩唠___！",
+        "options": [
+          "唠嗑",
+          "削你",
+          "贼",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "唠嗑",
+        "explanation": "正确答案是\"唠嗑\"（聊天）。非常日常的表达"
+      },
+      {
+        "id": "l26q4",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v007",
+        "options": [
+          "丢人/难看",
+          "滑落/搞砸",
+          "傻/愣",
+          "有骨气/厉害"
+        ],
+        "correctAnswer": "丢人/难看",
+        "explanation": "你听到的是\"磕碜\"，意思是\"丢人/难看\"！"
+      },
+      {
+        "id": "l26q5",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「嗯哪，就是这么回事儿！」",
+        "options": [
+          "是的，就是这样！",
+          "你要去干什么？",
+          "这黄瓜特别脆！",
+          "咱们弄点什么吃的吧？"
+        ],
+        "correctAnswer": "是的，就是这样！",
+        "explanation": "「嗯哪，就是这么回事儿！」的意思是「是的，就是这样！」"
+      },
+      {
+        "id": "l26q6",
+        "type": "multiple_choice",
+        "prompt": "读音\"dē de\"对应的东北话词是？",
+        "options": [
+          "嘚嘚",
+          "扒瞎",
+          "唠嗑",
+          "咋整"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "\"dē de\"读的是\"嘚嘚\"，意思是\"啰嗦/话多\"！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "大连"
+  },
+  {
+    "id": "level_27",
+    "levelNumber": 27,
+    "title": "鞍山关",
+    "subtitle": "辽宁·鞍山 - 日常打招呼和寒暄用词",
+    "passingScore": 75,
+    "rewardXP": 900,
+    "questions": [
+      {
+        "id": "l27q1",
+        "type": "multiple_choice",
+        "prompt": "\"埋汰\"是什么意思？",
+        "options": [
+          "脏/不干净",
+          "好朋友/好兄弟",
+          "装模作样",
+          "恶心/讨厌"
+        ],
+        "correctAnswer": "脏/不干净",
+        "explanation": "\"埋汰\"就是\"脏/不干净\"的意思。妈妈训孩子时高频使用"
+      },
+      {
+        "id": "l27q2",
+        "type": "multiple_choice",
+        "prompt": "\"唠嗑\"是什么意思？",
+        "options": [
+          "脏/不干净",
+          "是的/对的",
+          "聊天",
+          "做/弄/搞"
+        ],
+        "correctAnswer": "聊天",
+        "explanation": "\"唠嗑\"就是\"聊天\"的意思。非常日常的表达"
+      },
+      {
+        "id": "l27q3",
+        "type": "multiple_choice",
+        "prompt": "\"咋整\"是什么意思？",
+        "options": [
+          "聊天",
+          "怎么办",
+          "有骨气/厉害",
+          "装模作样"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "\"咋整\"就是\"怎么办\"的意思。遇到困难或需要商量时使用"
+      },
+      {
+        "id": "l27q4",
+        "type": "multiple_choice",
+        "prompt": "\"咯应\"是什么意思？",
+        "options": [
+          "好朋友/好兄弟",
+          "非常/很",
+          "痒",
+          "特别脆"
+        ],
+        "correctAnswer": "痒",
+        "explanation": "\"咯应\"就是\"痒\"的意思。和膈应区分"
+      },
+      {
+        "id": "l27q5",
+        "type": "multiple_choice",
+        "prompt": "\"整\"是什么意思？",
+        "options": [
+          "装模作样",
+          "做/弄/搞",
+          "怎么办",
+          "雪花啤酒"
+        ],
+        "correctAnswer": "做/弄/搞",
+        "explanation": "\"整\"就是\"做/弄/搞\"的意思。东北话第一万能词，可搭配任何名词"
+      }
+    ],
+    "province": "辽宁",
+    "city": "鞍山"
+  },
+  {
+    "id": "level_28",
+    "levelNumber": 28,
+    "title": "鞍山关(2)",
+    "subtitle": "辽宁·鞍山 - 吃喝相关的东北话",
+    "passingScore": 75,
+    "rewardXP": 950,
+    "questions": [
+      {
+        "id": "l28q1",
+        "type": "multiple_choice",
+        "prompt": "\"包圆儿\"是什么意思？",
+        "options": [
+          "干什么",
+          "是的/对的",
+          "说谎/胡说",
+          "全部包下"
+        ],
+        "correctAnswer": "全部包下",
+        "explanation": "\"包圆儿\"就是\"全部包下\"的意思。请客时显得特别大方"
+      },
+      {
+        "id": "l28q2",
+        "type": "multiple_choice",
+        "prompt": "\"造\"是什么意思？",
+        "options": [
+          "喜欢/稀奇",
+          "吃",
+          "算了吧",
+          "非常/很"
+        ],
+        "correctAnswer": "吃",
+        "explanation": "\"造\"就是\"吃\"的意思。吃饭时东北人热情劝吃的用语"
+      },
+      {
+        "id": "l28q3",
+        "type": "multiple_choice",
+        "prompt": "\"杠杠的\"是什么意思？",
+        "options": [
+          "散步/闲逛",
+          "全部包下",
+          "非常好/特别棒",
+          "雪花啤酒"
+        ],
+        "correctAnswer": "非常好/特别棒",
+        "explanation": "\"杠杠的\"就是\"非常好/特别棒\"的意思。夸赞任何事物都可以用"
+      },
+      {
+        "id": "l28q4",
+        "type": "multiple_choice",
+        "prompt": "\"嘎嘣脆\"是什么意思？",
+        "options": [
+          "是的/对的",
+          "说谎/胡说",
+          "特别脆",
+          "脏/不干净"
+        ],
+        "correctAnswer": "特别脆",
+        "explanation": "\"嘎嘣脆\"就是\"特别脆\"的意思。形容食物时很生动"
+      },
+      {
+        "id": "l28q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：今天这顿我___了！",
+        "options": [
+          "秃噜",
+          "扒瞎",
+          "削你",
+          "包圆儿"
+        ],
+        "correctAnswer": "包圆儿",
+        "explanation": "正确答案是\"包圆儿\"（全部包下）。请客时显得特别大方"
+      }
+    ],
+    "province": "辽宁",
+    "city": "鞍山"
+  },
+  {
+    "id": "level_29",
+    "levelNumber": 29,
+    "title": "抚顺关",
+    "subtitle": "辽宁·抚顺 - 不带脏字但杀伤力十足",
+    "passingScore": 75,
+    "rewardXP": 1000,
+    "questions": [
+      {
+        "id": "l29q1",
+        "type": "multiple_choice",
+        "prompt": "\"嘚嘚\"是什么意思？",
+        "options": [
+          "啰嗦/话多",
+          "雪花啤酒",
+          "吃",
+          "怎么办"
+        ],
+        "correctAnswer": "啰嗦/话多",
+        "explanation": "\"嘚嘚\"就是\"啰嗦/话多\"的意思。带有不耐烦的语气"
+      },
+      {
+        "id": "l29q2",
+        "type": "multiple_choice",
+        "prompt": "\"膈应\"是什么意思？",
+        "options": [
+          "是的/对的",
+          "非常/很",
+          "非常好/特别棒",
+          "恶心/讨厌"
+        ],
+        "correctAnswer": "恶心/讨厌",
+        "explanation": "\"膈应\"就是\"恶心/讨厌\"的意思。表达反感时使用"
+      },
+      {
+        "id": "l29q3",
+        "type": "multiple_choice",
+        "prompt": "\"彪\"是什么意思？",
+        "options": [
+          "聊天",
+          "非常/很",
+          "傻/愣",
+          "膝盖"
+        ],
+        "correctAnswer": "傻/愣",
+        "explanation": "\"彪\"就是\"傻/愣\"的意思。好朋友之间常用"
+      },
+      {
+        "id": "l29q4",
+        "type": "multiple_choice",
+        "prompt": "\"装犊子\"是什么意思？",
+        "options": [
+          "特别脆",
+          "打你",
+          "装模作样",
+          "说谎/胡说"
+        ],
+        "correctAnswer": "装模作样",
+        "explanation": "\"装犊子\"就是\"装模作样\"的意思。比较直接的批评"
+      },
+      {
+        "id": "l29q5",
+        "type": "multiple_choice",
+        "prompt": "\"削你\"是什么意思？",
+        "options": [
+          "啰嗦/话多",
+          "有骨气/厉害",
+          "打你",
+          "怎么办"
+        ],
+        "correctAnswer": "打你",
+        "explanation": "\"削你\"就是\"打你\"的意思。朋友之间多是玩笑"
+      }
+    ],
+    "province": "辽宁",
+    "city": "抚顺"
+  },
+  {
+    "id": "level_30",
+    "levelNumber": 30,
+    "title": "水洞关",
+    "subtitle": "辽宁·本溪 - 人际关系中的东北表达",
+    "passingScore": 75,
+    "rewardXP": 1050,
+    "questions": [
+      {
+        "id": "l30q1",
+        "type": "multiple_choice",
+        "prompt": "\"好朋友/好兄弟\"用东北话怎么说？",
+        "options": [
+          "稀罕",
+          "削你",
+          "尿性",
+          "老铁"
+        ],
+        "correctAnswer": "老铁",
+        "explanation": "\"好朋友/好兄弟\"的东北话说法是\"老铁\"！"
+      },
+      {
+        "id": "l30q2",
+        "type": "multiple_choice",
+        "prompt": "\"喜欢/稀奇\"用东北话怎么说？",
+        "options": [
+          "稀罕",
+          "包圆儿",
+          "膈应",
+          "嗯哪"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"喜欢/稀奇\"的东北话说法是\"稀罕\"！"
+      },
+      {
+        "id": "l30q3",
+        "type": "multiple_choice",
+        "prompt": "\"丢人/难看\"用东北话怎么说？",
+        "options": [
+          "埋汰",
+          "波棱盖儿",
+          "磕碜",
+          "拉倒吧"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"丢人/难看\"的东北话说法是\"磕碜\"！"
+      },
+      {
+        "id": "l30q4",
+        "type": "multiple_choice",
+        "prompt": "\"主动凑上去\"用东北话怎么说？",
+        "options": [
+          "彪",
+          "装犊子",
+          "咯应",
+          "上赶着"
+        ],
+        "correctAnswer": "上赶着",
+        "explanation": "\"主动凑上去\"的东北话说法是\"上赶着\"！"
+      },
+      {
+        "id": "l30q5",
+        "type": "multiple_choice",
+        "prompt": "\"好兄弟\"用东北话怎么说？",
+        "options": [
+          "得瑟",
+          "上赶着",
+          "装犊子",
+          "铁子"
+        ],
+        "correctAnswer": "铁子",
+        "explanation": "\"好兄弟\"的东北话说法是\"铁子\"！"
+      }
+    ],
+    "rewardTitle": "高级达人",
+    "province": "辽宁",
+    "city": "本溪"
+  },
+  {
+    "id": "level_31",
+    "levelNumber": 31,
+    "title": "丹东关",
+    "subtitle": "辽宁·丹东 - 搞笑有趣的东北用语",
+    "passingScore": 80,
+    "rewardXP": 1100,
+    "questions": [
+      {
+        "id": "l31q1",
+        "type": "multiple_choice",
+        "prompt": "\"波棱盖儿\"是什么意思？",
+        "options": [
+          "膝盖",
+          "算了吧",
+          "好朋友/好兄弟",
+          "吃"
+        ],
+        "correctAnswer": "膝盖",
+        "explanation": "\"波棱盖儿\"就是\"膝盖\"的意思。东北经典搞笑句式"
+      },
+      {
+        "id": "l31q2",
+        "type": "multiple_choice",
+        "prompt": "\"拉倒吧\"是什么意思？",
+        "options": [
+          "算了吧",
+          "炫耀/显摆",
+          "雪花啤酒",
+          "做/弄/搞"
+        ],
+        "correctAnswer": "算了吧",
+        "explanation": "\"拉倒吧\"就是\"算了吧\"的意思。带有调侃和不信任的语气"
+      },
+      {
+        "id": "l31q3",
+        "type": "multiple_choice",
+        "prompt": "\"秃噜\"是什么意思？",
+        "options": [
+          "滑落/搞砸",
+          "全部包下",
+          "聊天",
+          "是的/对的"
+        ],
+        "correctAnswer": "滑落/搞砸",
+        "explanation": "\"秃噜\"就是\"滑落/搞砸\"的意思。形容物理上的滑落或事情出错"
+      },
+      {
+        "id": "l31q4",
+        "type": "multiple_choice",
+        "prompt": "\"尿性\"是什么意思？",
+        "options": [
+          "打你",
+          "滑落/搞砸",
+          "有骨气/厉害",
+          "特别脆"
+        ],
+        "correctAnswer": "有骨气/厉害",
+        "explanation": "\"尿性\"就是\"有骨气/厉害\"的意思。是夸人的意思"
+      },
+      {
+        "id": "l31q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：我___卡马路牙子上了！",
+        "options": [
+          "膈应",
+          "咋整",
+          "波棱盖儿",
+          "扒瞎"
+        ],
+        "correctAnswer": "波棱盖儿",
+        "explanation": "正确答案是\"波棱盖儿\"（膝盖）。东北经典搞笑句式"
+      }
+    ],
+    "province": "辽宁",
+    "city": "丹东"
+  },
+  {
+    "id": "level_32",
+    "levelNumber": 32,
+    "title": "丹东关(2)",
+    "subtitle": "辽宁·丹东 - 听音频猜意思",
+    "passingScore": 80,
+    "rewardXP": 1150,
+    "questions": [
+      {
+        "id": "l32q1",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v014",
+        "options": [
+          "雪花啤酒",
+          "脏/不干净",
+          "非常/很",
+          "啰嗦/话多"
+        ],
+        "correctAnswer": "雪花啤酒",
+        "explanation": "你听到的是\"大绿棒子\"，意思是\"雪花啤酒\"！"
+      },
+      {
+        "id": "l32q2",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v020",
+        "options": [
+          "雪花啤酒",
+          "痒",
+          "非常好/特别棒",
+          "好朋友/好兄弟"
+        ],
+        "correctAnswer": "痒",
+        "explanation": "你听到的是\"咯应\"，意思是\"痒\"！"
+      },
+      {
+        "id": "l32q3",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v005",
+        "options": [
+          "非常好/特别棒",
+          "炫耀/显摆",
+          "干什么",
+          "是的/对的"
+        ],
+        "correctAnswer": "炫耀/显摆",
+        "explanation": "你听到的是\"得瑟\"，意思是\"炫耀/显摆\"！"
+      },
+      {
+        "id": "l32q4",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v019",
+        "options": [
+          "主动凑上去",
+          "是的/对的",
+          "干什么",
+          "聊天"
+        ],
+        "correctAnswer": "是的/对的",
+        "explanation": "你听到的是\"嗯哪\"，意思是\"是的/对的\"！"
+      },
+      {
+        "id": "l32q5",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v013",
+        "options": [
+          "是的/对的",
+          "傻/愣",
+          "吃",
+          "炫耀/显摆"
+        ],
+        "correctAnswer": "傻/愣",
+        "explanation": "你听到的是\"彪\"，意思是\"傻/愣\"！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "丹东"
+  },
+  {
+    "id": "level_33",
+    "levelNumber": 33,
+    "title": "锦州关",
+    "subtitle": "辽宁·锦州 - 在语境中选择正确用词",
+    "passingScore": 80,
+    "rewardXP": 1200,
+    "questions": [
+      {
+        "id": "l33q1",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：___，就是这么回事儿！",
+        "options": [
+          "大绿棒子",
+          "嗯哪",
+          "杠杠的",
+          "造"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "正确答案是\"嗯哪\"（是的/对的）。日常对话中非常高频"
+      },
+      {
+        "id": "l33q2",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：可劲儿___！别客气！",
+        "options": [
+          "造",
+          "彪",
+          "杠杠的",
+          "膈应"
+        ],
+        "correctAnswer": "造",
+        "explanation": "正确答案是\"造\"（吃）。吃饭时东北人热情劝吃的用语"
+      },
+      {
+        "id": "l33q3",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：再嘚嘚信不信___？",
+        "options": [
+          "尿性",
+          "埋汰",
+          "大绿棒子",
+          "削你"
+        ],
+        "correctAnswer": "削你",
+        "explanation": "正确答案是\"削你\"（打你）。朋友之间多是玩笑"
+      },
+      {
+        "id": "l33q4",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你别跟我___！",
+        "options": [
+          "彪",
+          "咋整",
+          "装犊子",
+          "上赶着"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "正确答案是\"装犊子\"（装模作样）。比较直接的批评"
+      },
+      {
+        "id": "l33q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：手一___碗就掉了",
+        "options": [
+          "稀罕",
+          "秃噜",
+          "整",
+          "扒瞎"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "正确答案是\"秃噜\"（滑落/搞砸）。形容物理上的滑落或事情出错"
+      }
+    ],
+    "province": "辽宁",
+    "city": "锦州"
+  },
+  {
+    "id": "level_34",
+    "levelNumber": 34,
+    "title": "锦州关(2)",
+    "subtitle": "辽宁·锦州 - 从普通话找东北话",
+    "passingScore": 80,
+    "rewardXP": 1250,
+    "questions": [
+      {
+        "id": "l34q1",
+        "type": "multiple_choice",
+        "prompt": "\"非常好/特别棒\"用东北话怎么说？",
+        "options": [
+          "杠杠的",
+          "老铁",
+          "嘚嘚",
+          "尿性"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "\"非常好/特别棒\"的东北话说法是\"杠杠的\"！"
+      },
+      {
+        "id": "l34q2",
+        "type": "multiple_choice",
+        "prompt": "\"散步/闲逛\"用东北话怎么说？",
+        "options": [
+          "磕碜",
+          "溜达",
+          "膈应",
+          "上赶着"
+        ],
+        "correctAnswer": "溜达",
+        "explanation": "\"散步/闲逛\"的东北话说法是\"溜达\"！"
+      },
+      {
+        "id": "l34q3",
+        "type": "multiple_choice",
+        "prompt": "\"丢人/难看\"用东北话怎么说？",
+        "options": [
+          "磕碜",
+          "秃噜",
+          "尿性",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"丢人/难看\"的东北话说法是\"磕碜\"！"
+      },
+      {
+        "id": "l34q4",
+        "type": "multiple_choice",
+        "prompt": "\"装模作样\"用东北话怎么说？",
+        "options": [
+          "造",
+          "装犊子",
+          "磕碜",
+          "削你"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "\"装模作样\"的东北话说法是\"装犊子\"！"
+      },
+      {
+        "id": "l34q5",
+        "type": "multiple_choice",
+        "prompt": "\"炫耀/显摆\"用东北话怎么说？",
+        "options": [
+          "得瑟",
+          "稀罕",
+          "拉倒吧",
+          "磕碜"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"炫耀/显摆\"的东北话说法是\"得瑟\"！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "锦州"
+  },
+  {
+    "id": "level_35",
+    "levelNumber": 35,
+    "title": "营口关",
+    "subtitle": "辽宁·营口 - 通过上下文推断词义",
+    "passingScore": 80,
+    "rewardXP": 1300,
+    "questions": [
+      {
+        "id": "l35q1",
+        "type": "fill_in_blank",
+        "prompt": "朋友说明天请你吃大餐，你开玩笑威胁\"你要是骗我我就___！\"",
+        "options": [
+          "削你",
+          "铁子",
+          "磕碜",
+          "咋整"
+        ],
+        "correctAnswer": "削你",
+        "explanation": "打你就是\"削你\"！"
+      },
+      {
+        "id": "l35q2",
+        "type": "fill_in_blank",
+        "prompt": "东北妈妈看到孩子手脏了，会说\"你手真___！\"",
+        "options": [
+          "埋汰",
+          "膈应",
+          "铁子",
+          "唠嗑"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "脏了就是\"埋汰\"！"
+      },
+      {
+        "id": "l35q3",
+        "type": "fill_in_blank",
+        "prompt": "朋友信了一个明显的骗局，你说\"你___啊？\"",
+        "options": [
+          "嘎嘣脆",
+          "扒瞎",
+          "彪",
+          "嗯哪"
+        ],
+        "correctAnswer": "彪",
+        "explanation": "傻了才会信，就是\"彪\"！"
+      },
+      {
+        "id": "l35q4",
+        "type": "fill_in_blank",
+        "prompt": "想约老朋友见面叙旧，你说\"出来___啊！\"",
+        "options": [
+          "大绿棒子",
+          "上赶着",
+          "波棱盖儿",
+          "唠嗑"
+        ],
+        "correctAnswer": "唠嗑",
+        "explanation": "聊天叙旧就是\"唠嗑\"！"
+      },
+      {
+        "id": "l35q5",
+        "type": "fill_in_blank",
+        "prompt": "朋友喝多了吹牛，你嫌他话多会说\"你别___了！\"",
+        "options": [
+          "老铁",
+          "溜达",
+          "嘚嘚",
+          "贼"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "嫌人话多用\"嘚嘚\"！"
+      }
+    ],
+    "rewardTitle": "东北话专家",
+    "province": "辽宁",
+    "city": "营口"
+  },
+  {
+    "id": "level_36",
+    "levelNumber": 36,
+    "title": "红海关",
+    "subtitle": "辽宁·盘锦 - 把东北话翻译成普通话",
+    "passingScore": 80,
+    "rewardXP": 1350,
+    "questions": [
+      {
+        "id": "l36q1",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「嗯哪，就是这么回事儿！」",
+        "options": [
+          "今天这顿我全请了！",
+          "来两瓶雪花啤酒！",
+          "兄弟，干一杯！",
+          "是的，就是这样！"
+        ],
+        "correctAnswer": "是的，就是这样！",
+        "explanation": "「嗯哪，就是这么回事儿！」的意思是「是的，就是这样！」"
+      },
+      {
+        "id": "l36q2",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你嘎哈去啊？」",
+        "options": [
+          "你要去干什么？",
+          "你别挠我，痒死了！",
+          "这菜味道非常好！",
+          "你看你手多脏！"
+        ],
+        "correctAnswer": "你要去干什么？",
+        "explanation": "「你嘎哈去啊？」的意思是「你要去干什么？」"
+      },
+      {
+        "id": "l36q3",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「这事儿咋整啊？」",
+        "options": [
+          "我可喜欢你了！",
+          "好兄弟，没问题！",
+          "这件事怎么办啊？",
+          "这菜味道非常好！"
+        ],
+        "correctAnswer": "这件事怎么办啊？",
+        "explanation": "「这事儿咋整啊？」的意思是「这件事怎么办啊？」"
+      },
+      {
+        "id": "l36q4",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你小子还挺有尿性！」",
+        "options": [
+          "你小子还挺有骨气！",
+          "这黄瓜特别脆！",
+          "我膝盖磕到马路牙子上了！",
+          "你别挠我，痒死了！"
+        ],
+        "correctAnswer": "你小子还挺有骨气！",
+        "explanation": "「你小子还挺有尿性！」的意思是「你小子还挺有骨气！」"
+      },
+      {
+        "id": "l36q5",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「老铁，没毛病！」",
+        "options": [
+          "你小子还挺有骨气！",
+          "好兄弟，没问题！",
+          "你傻啊？这都能信？",
+          "是的，就是这样！"
+        ],
+        "correctAnswer": "好兄弟，没问题！",
+        "explanation": "「老铁，没毛病！」的意思是「好兄弟，没问题！」"
+      }
+    ],
+    "province": "辽宁",
+    "city": "盘锦"
+  },
+  {
+    "id": "level_37",
+    "levelNumber": 37,
+    "title": "铁岭关",
+    "subtitle": "辽宁·铁岭 - 区分相近的东北话词语",
+    "passingScore": 80,
+    "rewardXP": 1400,
+    "questions": [
+      {
+        "id": "l37q1",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词可以用来表示\"同意\"？",
+        "options": [
+          "嗯哪",
+          "拉倒吧",
+          "嘎哈",
+          "咋整"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "嗯哪=是的/对的，表示同意！"
+      },
+      {
+        "id": "l37q2",
+        "type": "multiple_choice",
+        "prompt": "\"整\"字最厉害的地方在于？",
+        "options": [
+          "可以替代几乎所有动词",
+          "只能用来说吃饭",
+          "是最新的网络用语",
+          "只在书面语中使用"
+        ],
+        "correctAnswer": "可以替代几乎所有动词",
+        "explanation": "整是东北话万能动词，整吃的=做吃的，整明白=弄明白，万物皆可整！"
+      },
+      {
+        "id": "l37q3",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词语气最重？",
+        "options": [
+          "装犊子",
+          "得瑟",
+          "嘚嘚",
+          "扒瞎"
+        ],
+        "correctAnswer": "装犊子",
+        "explanation": "装犊子是比较严厉的批评，说人故意装模作样！"
+      },
+      {
+        "id": "l37q4",
+        "type": "multiple_choice",
+        "prompt": "以下哪组词都跟\"吃喝\"相关？",
+        "options": [
+          "造、大绿棒子",
+          "彪、磕碜",
+          "嘎哈、咋整",
+          "削你、膈应"
+        ],
+        "correctAnswer": "造、大绿棒子",
+        "explanation": "造=吃，大绿棒子=雪花啤酒，都跟吃喝有关！"
+      },
+      {
+        "id": "l37q5",
+        "type": "multiple_choice",
+        "prompt": "以下哪个是贬义词？",
+        "options": [
+          "杠杠的",
+          "尿性",
+          "铁子",
+          "膈应"
+        ],
+        "correctAnswer": "膈应",
+        "explanation": "膈应=恶心/讨厌，是贬义词；其他三个都是中性或褒义！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "铁岭"
+  },
+  {
+    "id": "level_38",
+    "levelNumber": 38,
+    "title": "铁岭关(2)",
+    "subtitle": "辽宁·铁岭 - 补全东北话对话",
+    "passingScore": 80,
+    "rewardXP": 1450,
+    "questions": [
+      {
+        "id": "l38q1",
+        "type": "fill_in_blank",
+        "prompt": "端盘子时手没拿稳，盘子差点___下去。",
+        "options": [
+          "得瑟",
+          "秃噜",
+          "包圆儿",
+          "造"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "滑落就是\"秃噜\"！"
+      },
+      {
+        "id": "l38q2",
+        "type": "fill_in_blank",
+        "prompt": "天气特别冷，你感叹\"今天___冷！\"",
+        "options": [
+          "嘎嘣脆",
+          "嗯哪",
+          "贼",
+          "彪"
+        ],
+        "correctAnswer": "贼",
+        "explanation": "非常就是\"贼\"！"
+      },
+      {
+        "id": "l38q3",
+        "type": "fill_in_blank",
+        "prompt": "遇到难题不知道怎么解决，你会问\"这事儿___啊？\"",
+        "options": [
+          "磕碜",
+          "咋整",
+          "波棱盖儿",
+          "削你"
+        ],
+        "correctAnswer": "咋整",
+        "explanation": "不知道怎么办就说\"咋整\"！"
+      },
+      {
+        "id": "l38q4",
+        "type": "fill_in_blank",
+        "prompt": "朋友一直炫耀新买的包，你说\"别___了！\"",
+        "options": [
+          "得瑟",
+          "彪",
+          "扒瞎",
+          "磕碜"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "炫耀就是\"得瑟\"！"
+      },
+      {
+        "id": "l38q5",
+        "type": "fill_in_blank",
+        "prompt": "朋友夸你做的菜好吃，你谦虚地说\"那必须___啊！\"",
+        "options": [
+          "得瑟",
+          "老铁",
+          "杠杠的",
+          "唠嗑"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "好吃就是\"杠杠的\"！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "铁岭"
+  },
+  {
+    "id": "level_39",
+    "levelNumber": 39,
+    "title": "朝阳关",
+    "subtitle": "辽宁·朝阳 - 根据场景选择合适的词",
+    "passingScore": 80,
+    "rewardXP": 1500,
+    "questions": [
+      {
+        "id": "l39q1",
+        "type": "multiple_choice",
+        "prompt": "饭后想出去走走，你会说\"咱出去___呗！\"",
+        "options": [
+          "溜达",
+          "彪",
+          "杠杠的",
+          "嘎哈"
+        ],
+        "correctAnswer": "溜达",
+        "explanation": "出去散步就是\"溜达\"！"
+      },
+      {
+        "id": "l39q2",
+        "type": "multiple_choice",
+        "prompt": "形容这道菜又脆又好吃，说\"___！\"",
+        "options": [
+          "稀罕",
+          "彪",
+          "大绿棒子",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "嘎嘣脆",
+        "explanation": "特别脆就是\"嘎嘣脆\"！"
+      },
+      {
+        "id": "l39q3",
+        "type": "multiple_choice",
+        "prompt": "东北人见面打招呼常说\"你___去啊？\"，填什么？",
+        "options": [
+          "包圆儿",
+          "彪",
+          "上赶着",
+          "嘎哈"
+        ],
+        "correctAnswer": "嘎哈",
+        "explanation": "见面问别人干什么去，用\"嘎哈\"！"
+      },
+      {
+        "id": "l39q4",
+        "type": "multiple_choice",
+        "prompt": "被朋友挠痒痒，你会喊\"别挠我，___死了！\"",
+        "options": [
+          "膈应",
+          "咯应",
+          "尿性",
+          "扒瞎"
+        ],
+        "correctAnswer": "咯应",
+        "explanation": "痒就是\"咯应\"！"
+      },
+      {
+        "id": "l39q5",
+        "type": "multiple_choice",
+        "prompt": "夸朋友做事果断有能力，说\"你还挺有___！\"",
+        "options": [
+          "拉倒吧",
+          "尿性",
+          "贼",
+          "扒瞎"
+        ],
+        "correctAnswer": "尿性",
+        "explanation": "有骨气/厉害就是\"尿性\"！"
+      }
+    ],
+    "province": "辽宁",
+    "city": "朝阳"
+  },
+  {
+    "id": "level_40",
+    "levelNumber": 40,
+    "title": "葫芦关",
+    "subtitle": "辽宁·葫芦岛 - 东北文化与语言",
+    "passingScore": 80,
+    "rewardXP": 1550,
+    "questions": [
+      {
+        "id": "l40q1",
+        "type": "multiple_choice",
+        "prompt": "东北话\"得瑟\"和\"装犊子\"的主要区别是？",
+        "options": [
+          "得瑟是炫耀，装犊子是假装",
+          "完全一样",
+          "得瑟是褒义，装犊子是贬义",
+          "得瑟是假装，装犊子是炫耀"
+        ],
+        "correctAnswer": "得瑟是炫耀，装犊子是假装",
+        "explanation": "得瑟是真心显摆炫耀，装犊子是故意装模作样！"
+      },
+      {
+        "id": "l40q2",
+        "type": "multiple_choice",
+        "prompt": "\"大绿棒子\"在东北特指哪种饮品？",
+        "options": [
+          "绿茶",
+          "雪花啤酒",
+          "雪碧",
+          "青岛啤酒"
+        ],
+        "correctAnswer": "雪花啤酒",
+        "explanation": "大绿棒子特指绿色瓶装雪花啤酒，东北烧烤标配！"
+      },
+      {
+        "id": "l40q3",
+        "type": "multiple_choice",
+        "prompt": "以下哪句话在东北话中表示\"算了\"？",
+        "options": [
+          "嗯哪",
+          "咋整",
+          "拉倒吧",
+          "嘎哈"
+        ],
+        "correctAnswer": "拉倒吧",
+        "explanation": "拉倒吧=算了吧，表示放弃、不想继续！"
+      },
+      {
+        "id": "l40q4",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词听起来像骂人但其实是夸人？",
+        "options": [
+          "彪",
+          "尿性",
+          "膈应",
+          "磕碜"
+        ],
+        "correctAnswer": "尿性",
+        "explanation": "\"尿性\"虽然听起来不雅，但是夸人有骨气、厉害！"
+      },
+      {
+        "id": "l40q5",
+        "type": "multiple_choice",
+        "prompt": "\"上赶着不是买卖\"这句东北俗语告诉我们什么道理？",
+        "options": [
+          "做事要积极",
+          "太主动反而不好",
+          "做生意要趁早",
+          "要学会讨价还价"
+        ],
+        "correctAnswer": "太主动反而不好",
+        "explanation": "这是东北人做人做事的哲学——保持适当矜持！"
+      }
+    ],
+    "rewardTitle": "半程冠军",
+    "province": "辽宁",
+    "city": "葫芦岛"
+  },
+  {
+    "id": "level_41",
+    "levelNumber": 41,
+    "title": "冰城关",
+    "subtitle": "黑龙江·哈尔滨 - 根据拼音选出正确的词",
+    "passingScore": 80,
+    "rewardXP": 1600,
+    "questions": [
+      {
+        "id": "l41q1",
+        "type": "multiple_choice",
+        "prompt": "读音\"lǎo tiě\"对应的东北话词是？",
+        "options": [
+          "老铁",
+          "唠嗑",
+          "溜达",
+          "稀罕"
+        ],
+        "correctAnswer": "老铁",
+        "explanation": "\"lǎo tiě\"读的是\"老铁\"，意思是\"好朋友/好兄弟\"！"
+      },
+      {
+        "id": "l41q2",
+        "type": "multiple_choice",
+        "prompt": "读音\"xiāo nǐ\"对应的东北话词是？",
+        "options": [
+          "装犊子",
+          "埋汰",
+          "老铁",
+          "削你"
+        ],
+        "correctAnswer": "削你",
+        "explanation": "\"xiāo nǐ\"读的是\"削你\"，意思是\"打你\"！"
+      },
+      {
+        "id": "l41q3",
+        "type": "multiple_choice",
+        "prompt": "读音\"dè se\"对应的东北话词是？",
+        "options": [
+          "得瑟",
+          "尿性",
+          "埋汰",
+          "稀罕"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"dè se\"读的是\"得瑟\"，意思是\"炫耀/显摆\"！"
+      },
+      {
+        "id": "l41q4",
+        "type": "multiple_choice",
+        "prompt": "读音\"niào xìng\"对应的东北话词是？",
+        "options": [
+          "尿性",
+          "整",
+          "上赶着",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "尿性",
+        "explanation": "\"niào xìng\"读的是\"尿性\"，意思是\"有骨气/厉害\"！"
+      },
+      {
+        "id": "l41q5",
+        "type": "multiple_choice",
+        "prompt": "读音\"mái tai\"对应的东北话词是？",
+        "options": [
+          "埋汰",
+          "咯应",
+          "嘎嘣脆",
+          "装犊子"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "\"mái tai\"读的是\"埋汰\"，意思是\"脏/不干净\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "哈尔滨"
+  },
+  {
+    "id": "level_42",
+    "levelNumber": 42,
+    "title": "冰城关(2)",
+    "subtitle": "黑龙江·哈尔滨 - 各种题型混合出击",
+    "passingScore": 80,
+    "rewardXP": 1650,
+    "questions": [
+      {
+        "id": "l42q1",
+        "type": "multiple_choice",
+        "prompt": "\"削你\"是什么意思？",
+        "options": [
+          "打你",
+          "好兄弟",
+          "脏/不干净",
+          "装模作样"
+        ],
+        "correctAnswer": "打你",
+        "explanation": "\"削你\"就是\"打你\"的意思。朋友之间多是玩笑"
+      },
+      {
+        "id": "l42q2",
+        "type": "multiple_choice",
+        "prompt": "\"丢人/难看\"用东北话怎么说？",
+        "options": [
+          "磕碜",
+          "嗯哪",
+          "唠嗑",
+          "膈应"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"丢人/难看\"的东北话说法是\"磕碜\"！"
+      },
+      {
+        "id": "l42q3",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你别挠我，___死了！",
+        "options": [
+          "膈应",
+          "嗯哪",
+          "咯应",
+          "杠杠的"
+        ],
+        "correctAnswer": "咯应",
+        "explanation": "正确答案是\"咯应\"（痒）。和膈应区分"
+      },
+      {
+        "id": "l42q4",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v029",
+        "options": [
+          "雪花啤酒",
+          "膝盖",
+          "吃",
+          "傻/愣"
+        ],
+        "correctAnswer": "膝盖",
+        "explanation": "你听到的是\"波棱盖儿\"，意思是\"膝盖\"！"
+      },
+      {
+        "id": "l42q5",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你别扒瞎了！」",
+        "options": [
+          "这件事多丢人啊！",
+          "你别啰嗦了行不行？",
+          "你别胡说了！",
+          "你别老是炫耀了行不行？"
+        ],
+        "correctAnswer": "你别胡说了！",
+        "explanation": "「你别扒瞎了！」的意思是「你别胡说了！」"
+      },
+      {
+        "id": "l42q6",
+        "type": "multiple_choice",
+        "prompt": "读音\"mái tai\"对应的东北话词是？",
+        "options": [
+          "埋汰",
+          "杠杠的",
+          "装犊子",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "埋汰",
+        "explanation": "\"mái tai\"读的是\"埋汰\"，意思是\"脏/不干净\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "哈尔滨"
+  },
+  {
+    "id": "level_43",
+    "levelNumber": 43,
+    "title": "冰城关(3)",
+    "subtitle": "黑龙江·哈尔滨 - 日常打招呼和寒暄用词",
+    "passingScore": 80,
+    "rewardXP": 1700,
+    "questions": [
+      {
+        "id": "l43q1",
+        "type": "multiple_choice",
+        "prompt": "\"咋整\"是什么意思？",
+        "options": [
+          "非常/很",
+          "怎么办",
+          "滑落/搞砸",
+          "非常好/特别棒"
+        ],
+        "correctAnswer": "怎么办",
+        "explanation": "\"咋整\"就是\"怎么办\"的意思。遇到困难或需要商量时使用"
+      },
+      {
+        "id": "l43q2",
+        "type": "multiple_choice",
+        "prompt": "\"埋汰\"是什么意思？",
+        "options": [
+          "脏/不干净",
+          "干什么",
+          "吃",
+          "傻/愣"
+        ],
+        "correctAnswer": "脏/不干净",
+        "explanation": "\"埋汰\"就是\"脏/不干净\"的意思。妈妈训孩子时高频使用"
+      },
+      {
+        "id": "l43q3",
+        "type": "multiple_choice",
+        "prompt": "\"忽悠\"是什么意思？",
+        "options": [
+          "聊天",
+          "欺骗/忽弄",
+          "散步",
+          "大方"
+        ],
+        "correctAnswer": "欺骗/忽弄",
+        "explanation": "\"忽悠\"就是\"欺骗/忽弄\"的意思。赵本山小品让这个词火遍全国"
+      },
+      {
+        "id": "l43q4",
+        "type": "multiple_choice",
+        "prompt": "\"苞米\"是什么意思？",
+        "options": [
+          "大米",
+          "高粱",
+          "玉米",
+          "小麦"
+        ],
+        "correctAnswer": "玉米",
+        "explanation": "\"苞米\"就是\"玉米\"的意思。东北人从来不说玉米，只说苞米"
+      },
+      {
+        "id": "l43q5",
+        "type": "multiple_choice",
+        "prompt": "\"咯应\"是什么意思？",
+        "options": [
+          "痒",
+          "是的/对的",
+          "膝盖",
+          "打你"
+        ],
+        "correctAnswer": "痒",
+        "explanation": "\"咯应\"就是\"痒\"的意思。和膈应区分"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "哈尔滨"
+  },
+  {
+    "id": "level_44",
+    "levelNumber": 44,
+    "title": "冰城关(4)",
+    "subtitle": "黑龙江·哈尔滨 - 吃喝相关的东北话",
+    "passingScore": 80,
+    "rewardXP": 1750,
+    "questions": [
+      {
+        "id": "l44q1",
+        "type": "multiple_choice",
+        "prompt": "\"大绿棒子\"是什么意思？",
+        "options": [
+          "吃",
+          "痒",
+          "散步/闲逛",
+          "雪花啤酒"
+        ],
+        "correctAnswer": "雪花啤酒",
+        "explanation": "\"大绿棒子\"就是\"雪花啤酒\"的意思。撸串时必点"
+      },
+      {
+        "id": "l44q2",
+        "type": "multiple_choice",
+        "prompt": "\"冻梨\"是什么意思？",
+        "options": [
+          "冰淇淋",
+          "冷冻的梨子",
+          "冻柿子",
+          "冰糖葫芦"
+        ],
+        "correctAnswer": "冷冻的梨子",
+        "explanation": "\"冻梨\"是东北冬天放在室外自然冷冻的梨子，用凉水化开吃"
+      },
+      {
+        "id": "l44q3",
+        "type": "multiple_choice",
+        "prompt": "\"铁锅炖\"是什么意思？",
+        "options": [
+          "铁锅炒菜",
+          "大铁锅炖菜",
+          "火锅",
+          "铁板烧"
+        ],
+        "correctAnswer": "大铁锅炖菜",
+        "explanation": "\"铁锅炖\"就是用大铁锅连锅端上桌的炖菜，锅边贴玉米饼子"
+      },
+      {
+        "id": "l44q4",
+        "type": "multiple_choice",
+        "prompt": "\"造\"是什么意思？",
+        "options": [
+          "全部包下",
+          "是的/对的",
+          "喜欢/稀奇",
+          "吃"
+        ],
+        "correctAnswer": "吃",
+        "explanation": "\"造\"就是\"吃\"的意思。吃饭时东北人热情劝吃的用语"
+      },
+      {
+        "id": "l44q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：来两瓶___！",
+        "options": [
+          "大绿棒子",
+          "包圆儿",
+          "嗯哪",
+          "整"
+        ],
+        "correctAnswer": "大绿棒子",
+        "explanation": "正确答案是\"大绿棒子\"（雪花啤酒）。撸串时必点"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "哈尔滨"
+  },
+  {
+    "id": "level_45",
+    "levelNumber": 45,
+    "title": "鹤城关",
+    "subtitle": "黑龙江·齐齐哈尔 - 不带脏字但杀伤力十足",
+    "passingScore": 80,
+    "rewardXP": 1800,
+    "questions": [
+      {
+        "id": "l45q1",
+        "type": "multiple_choice",
+        "prompt": "\"削你\"是什么意思？",
+        "options": [
+          "打你",
+          "好朋友/好兄弟",
+          "主动凑上去",
+          "有骨气/厉害"
+        ],
+        "correctAnswer": "打你",
+        "explanation": "\"削你\"就是\"打你\"的意思。朋友之间多是玩笑"
+      },
+      {
+        "id": "l45q2",
+        "type": "multiple_choice",
+        "prompt": "\"膈应\"是什么意思？",
+        "options": [
+          "脏/不干净",
+          "恶心/讨厌",
+          "散步/闲逛",
+          "装模作样"
+        ],
+        "correctAnswer": "恶心/讨厌",
+        "explanation": "\"膈应\"就是\"恶心/讨厌\"的意思。表达反感时使用"
+      },
+      {
+        "id": "l45q3",
+        "type": "multiple_choice",
+        "prompt": "\"彪\"是什么意思？",
+        "options": [
+          "雪花啤酒",
+          "聊天",
+          "算了吧",
+          "傻/愣"
+        ],
+        "correctAnswer": "傻/愣",
+        "explanation": "\"彪\"就是\"傻/愣\"的意思。好朋友之间常用"
+      },
+      {
+        "id": "l45q4",
+        "type": "multiple_choice",
+        "prompt": "\"嘚嘚\"是什么意思？",
+        "options": [
+          "有骨气/厉害",
+          "主动凑上去",
+          "啰嗦/话多",
+          "恶心/讨厌"
+        ],
+        "correctAnswer": "啰嗦/话多",
+        "explanation": "\"嘚嘚\"就是\"啰嗦/话多\"的意思。带有不耐烦的语气"
+      },
+      {
+        "id": "l45q5",
+        "type": "multiple_choice",
+        "prompt": "\"装犊子\"是什么意思？",
+        "options": [
+          "恶心/讨厌",
+          "装模作样",
+          "好朋友/好兄弟",
+          "特别脆"
+        ],
+        "correctAnswer": "装模作样",
+        "explanation": "\"装犊子\"就是\"装模作样\"的意思。比较直接的批评"
+      }
+    ],
+    "rewardTitle": "东北话大师",
+    "province": "黑龙江",
+    "city": "齐齐哈尔"
+  },
+  {
+    "id": "level_46",
+    "levelNumber": 46,
+    "title": "鹤城关(2)",
+    "subtitle": "黑龙江·齐齐哈尔 - 人际关系中的东北表达",
+    "passingScore": 80,
+    "rewardXP": 1850,
+    "questions": [
+      {
+        "id": "l46q1",
+        "type": "multiple_choice",
+        "prompt": "\"主动凑上去\"用东北话怎么说？",
+        "options": [
+          "秃噜",
+          "上赶着",
+          "扒瞎",
+          "拉倒吧"
+        ],
+        "correctAnswer": "上赶着",
+        "explanation": "\"主动凑上去\"的东北话说法是\"上赶着\"！"
+      },
+      {
+        "id": "l46q2",
+        "type": "multiple_choice",
+        "prompt": "\"炫耀/显摆\"用东北话怎么说？",
+        "options": [
+          "铁子",
+          "杠杠的",
+          "得瑟",
+          "彪"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"炫耀/显摆\"的东北话说法是\"得瑟\"！"
+      },
+      {
+        "id": "l46q3",
+        "type": "multiple_choice",
+        "prompt": "\"好朋友/好兄弟\"用东北话怎么说？",
+        "options": [
+          "老铁",
+          "装犊子",
+          "尿性",
+          "铁子"
+        ],
+        "correctAnswer": "老铁",
+        "explanation": "\"好朋友/好兄弟\"的东北话说法是\"老铁\"！"
+      },
+      {
+        "id": "l46q4",
+        "type": "multiple_choice",
+        "prompt": "\"喜欢/稀奇\"用东北话怎么说？",
+        "options": [
+          "扒瞎",
+          "嘚嘚",
+          "稀罕",
+          "造"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "\"喜欢/稀奇\"的东北话说法是\"稀罕\"！"
+      },
+      {
+        "id": "l46q5",
+        "type": "multiple_choice",
+        "prompt": "\"丢人/难看\"用东北话怎么说？",
+        "options": [
+          "包圆儿",
+          "溜达",
+          "削你",
+          "磕碜"
+        ],
+        "correctAnswer": "磕碜",
+        "explanation": "\"丢人/难看\"的东北话说法是\"磕碜\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "齐齐哈尔"
+  },
+  {
+    "id": "level_47",
+    "levelNumber": 47,
+    "title": "油城关",
+    "subtitle": "黑龙江·大庆 - 搞笑有趣的东北用语",
+    "passingScore": 80,
+    "rewardXP": 1900,
+    "questions": [
+      {
+        "id": "l47q1",
+        "type": "multiple_choice",
+        "prompt": "\"秃噜\"是什么意思？",
+        "options": [
+          "算了吧",
+          "做/弄/搞",
+          "滑落/搞砸",
+          "好兄弟"
+        ],
+        "correctAnswer": "滑落/搞砸",
+        "explanation": "\"秃噜\"就是\"滑落/搞砸\"的意思。形容物理上的滑落或事情出错"
+      },
+      {
+        "id": "l47q2",
+        "type": "multiple_choice",
+        "prompt": "\"拉倒吧\"是什么意思？",
+        "options": [
+          "好兄弟",
+          "主动凑上去",
+          "吃",
+          "算了吧"
+        ],
+        "correctAnswer": "算了吧",
+        "explanation": "\"拉倒吧\"就是\"算了吧\"的意思。带有调侃和不信任的语气"
+      },
+      {
+        "id": "l47q3",
+        "type": "multiple_choice",
+        "prompt": "\"拾掇\"是什么意思？",
+        "options": [
+          "收拾/整理",
+          "打扫卫生",
+          "丢掉",
+          "打架"
+        ],
+        "correctAnswer": "收拾/整理",
+        "explanation": "\"拾掇\"就是\"收拾/整理\"的意思。也可以指打扮"
+      },
+      {
+        "id": "l47q4",
+        "type": "multiple_choice",
+        "prompt": "\"虎了吧唧\"是什么意思？",
+        "options": [
+          "特别勇敢",
+          "傻乎乎/二愣子",
+          "老虎一样凶",
+          "特别厉害"
+        ],
+        "correctAnswer": "傻乎乎/二愣子",
+        "explanation": "\"虎了吧唧\"形容人傻乎乎的、做事不靠谱，关系好的朋友之间调侃用"
+      },
+      {
+        "id": "l47q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：手一___碗就掉了",
+        "options": [
+          "溜达",
+          "秃噜",
+          "上赶着",
+          "扒瞎"
+        ],
+        "correctAnswer": "秃噜",
+        "explanation": "正确答案是\"秃噜\"（滑落/搞砸）。形容物理上的滑落或事情出错"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "大庆"
+  },
+  {
+    "id": "level_48",
+    "levelNumber": 48,
+    "title": "油城关(2)",
+    "subtitle": "黑龙江·大庆 - 听音频猜意思",
+    "passingScore": 80,
+    "rewardXP": 1950,
+    "questions": [
+      {
+        "id": "l48q1",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v005",
+        "options": [
+          "痒",
+          "炫耀/显摆",
+          "有骨气/厉害",
+          "好兄弟"
+        ],
+        "correctAnswer": "炫耀/显摆",
+        "explanation": "你听到的是\"得瑟\"，意思是\"炫耀/显摆\"！"
+      },
+      {
+        "id": "l48q2",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v025",
+        "options": [
+          "做/弄/搞",
+          "痒",
+          "说谎/胡说",
+          "算了吧"
+        ],
+        "correctAnswer": "说谎/胡说",
+        "explanation": "你听到的是\"扒瞎\"，意思是\"说谎/胡说\"！"
+      },
+      {
+        "id": "l48q3",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v078",
+        "options": [
+          "唠叨/反复说",
+          "收拾/整理",
+          "吹牛聊天",
+          "挠痒痒"
+        ],
+        "correctAnswer": "唠叨/反复说",
+        "explanation": "你听到的是\"念叨\"，意思是\"唠叨/反复说\"！东北妈妈和奶奶的日常"
+      },
+      {
+        "id": "l48q4",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v084",
+        "options": [
+          "讨价还价",
+          "胡扯/胡闹",
+          "打架",
+          "欺骗"
+        ],
+        "correctAnswer": "胡扯/胡闹",
+        "explanation": "你听到的是\"扯犊子\"，意思是\"胡扯/胡闹\"！不满对方说话不靠谱时使用"
+      },
+      {
+        "id": "l48q5",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v003",
+        "options": [
+          "非常/很",
+          "喜欢/稀奇",
+          "炫耀/显摆",
+          "吃"
+        ],
+        "correctAnswer": "非常/很",
+        "explanation": "你听到的是\"贼\"，意思是\"非常/很\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "大庆"
+  },
+  {
+    "id": "level_49",
+    "levelNumber": 49,
+    "title": "雪城关",
+    "subtitle": "黑龙江·牡丹江 - 在语境中选择正确用词",
+    "passingScore": 80,
+    "rewardXP": 2000,
+    "questions": [
+      {
+        "id": "l49q1",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你别挠我，___死了！",
+        "options": [
+          "咯应",
+          "膈应",
+          "稀罕",
+          "上赶着"
+        ],
+        "correctAnswer": "咯应",
+        "explanation": "正确答案是\"咯应\"（痒）。和膈应区分"
+      },
+      {
+        "id": "l49q2",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：你还想跑步？___你！",
+        "options": [
+          "溜达",
+          "嘚嘚",
+          "嘎嘣脆",
+          "拉倒吧"
+        ],
+        "correctAnswer": "拉倒吧",
+        "explanation": "正确答案是\"拉倒吧\"（算了吧）。带有调侃和不信任的语气"
+      },
+      {
+        "id": "l49q3",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：走，去___去，整个全套的！",
+        "options": [
+          "搓澡",
+          "溜达",
+          "蹦迪",
+          "浪"
+        ],
+        "correctAnswer": "搓澡",
+        "explanation": "正确答案是\"搓澡\"（洗澡搓背）。东北洗浴文化核心词汇"
+      },
+      {
+        "id": "l49q4",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：这事儿交给他，___！",
+        "options": [
+          "靠谱",
+          "不着调",
+          "抓瞎",
+          "扯犊子"
+        ],
+        "correctAnswer": "靠谱",
+        "explanation": "正确答案是\"靠谱\"（可靠/靠得住）。夸人做事让人放心"
+      },
+      {
+        "id": "l49q5",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：我___卡马路牙子上了！",
+        "options": [
+          "铁子",
+          "扒瞎",
+          "上赶着",
+          "波棱盖儿"
+        ],
+        "correctAnswer": "波棱盖儿",
+        "explanation": "正确答案是\"波棱盖儿\"（膝盖）。东北经典搞笑句式"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "牡丹江"
+  },
+  {
+    "id": "level_50",
+    "levelNumber": 50,
+    "title": "雪城关(2)",
+    "subtitle": "黑龙江·牡丹江 - 从普通话找东北话",
+    "passingScore": 80,
+    "rewardXP": 2050,
+    "questions": [
+      {
+        "id": "l50q1",
+        "type": "multiple_choice",
+        "prompt": "\"大方/豪爽\"用东北话怎么说？",
+        "options": [
+          "敞亮",
+          "仗义",
+          "靠谱",
+          "嗨皮"
+        ],
+        "correctAnswer": "敞亮",
+        "explanation": "\"大方/豪爽\"的东北话说法是\"敞亮\"！东北人最高的社交赞美之一"
+      },
+      {
+        "id": "l50q2",
+        "type": "multiple_choice",
+        "prompt": "\"快速/赶紧\"用东北话怎么说？",
+        "options": [
+          "磨叽",
+          "麻溜儿",
+          "撒楞",
+          "嘚嘚"
+        ],
+        "correctAnswer": "麻溜儿",
+        "explanation": "\"快速/赶紧\"的东北话说法是\"麻溜儿\"！东北领导催下属做事最爱说这个"
+      },
+      {
+        "id": "l50q3",
+        "type": "multiple_choice",
+        "prompt": "\"主动凑上去\"用东北话怎么说？",
+        "options": [
+          "磕碜",
+          "稀罕",
+          "杠杠的",
+          "上赶着"
+        ],
+        "correctAnswer": "上赶着",
+        "explanation": "\"主动凑上去\"的东北话说法是\"上赶着\"！"
+      },
+      {
+        "id": "l50q4",
+        "type": "multiple_choice",
+        "prompt": "\"说谎/胡说\"用东北话怎么说？",
+        "options": [
+          "扒瞎",
+          "上赶着",
+          "整",
+          "大绿棒子"
+        ],
+        "correctAnswer": "扒瞎",
+        "explanation": "\"说谎/胡说\"的东北话说法是\"扒瞎\"！"
+      },
+      {
+        "id": "l50q5",
+        "type": "multiple_choice",
+        "prompt": "\"炫耀/显摆\"用东北话怎么说？",
+        "options": [
+          "得瑟",
+          "咯应",
+          "埋汰",
+          "老铁"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"炫耀/显摆\"的东北话说法是\"得瑟\"！"
+      }
+    ],
+    "rewardTitle": "东北话教授",
+    "province": "黑龙江",
+    "city": "牡丹江"
+  },
+  {
+    "id": "level_51",
+    "levelNumber": 51,
+    "title": "佳城关",
+    "subtitle": "黑龙江·佳木斯 - 通过上下文推断词义",
+    "passingScore": 80,
+    "rewardXP": 2100,
+    "questions": [
+      {
+        "id": "l51q1",
+        "type": "fill_in_blank",
+        "prompt": "朋友夸你做的菜好吃，你谦虚地说\"那必须___啊！\"",
+        "options": [
+          "得瑟",
+          "拉倒吧",
+          "大绿棒子",
+          "杠杠的"
+        ],
+        "correctAnswer": "杠杠的",
+        "explanation": "好吃就是\"杠杠的\"！"
+      },
+      {
+        "id": "l51q2",
+        "type": "fill_in_blank",
+        "prompt": "嫌弟弟话多烦人，说\"再___信不信削你？\"",
+        "options": [
+          "整",
+          "老铁",
+          "嘚嘚",
+          "造"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "啰嗦就是\"嘚嘚\"！"
+      },
+      {
+        "id": "l51q3",
+        "type": "fill_in_blank",
+        "prompt": "搓完澡躺在炕上，你感叹\"贼___！\"",
+        "options": [
+          "得劲",
+          "膈应",
+          "磕碜",
+          "埋汰"
+        ],
+        "correctAnswer": "得劲",
+        "explanation": "舒服/过瘾就是\"得劲\"！东北人追求的最高境界"
+      },
+      {
+        "id": "l51q4",
+        "type": "fill_in_blank",
+        "prompt": "东北冬天家家都有火___，坐上面暖暖和和唠嗑。",
+        "options": [
+          "炕头",
+          "炉子",
+          "暖气",
+          "壁炉"
+        ],
+        "correctAnswer": "炕头",
+        "explanation": "东北特有的取暖床铺叫\"炕头\"！用灶火烟道加热"
+      },
+      {
+        "id": "l51q5",
+        "type": "fill_in_blank",
+        "prompt": "夸朋友做事果断有能力，说\"你还挺有___！\"",
+        "options": [
+          "削你",
+          "埋汰",
+          "稀罕",
+          "尿性"
+        ],
+        "correctAnswer": "尿性",
+        "explanation": "有骨气/厉害就是\"尿性\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "佳木斯"
+  },
+  {
+    "id": "level_52",
+    "levelNumber": 52,
+    "title": "佳城关(2)",
+    "subtitle": "黑龙江·佳木斯 - 把东北话翻译成普通话",
+    "passingScore": 80,
+    "rewardXP": 2150,
+    "questions": [
+      {
+        "id": "l52q1",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你别扒瞎了！」",
+        "options": [
+          "今天这顿我全请了！",
+          "你别胡说了！",
+          "兄弟，干一杯！",
+          "你要去干什么？"
+        ],
+        "correctAnswer": "你别胡说了！",
+        "explanation": "「你别扒瞎了！」的意思是「你别胡说了！」"
+      },
+      {
+        "id": "l52q2",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你能不能别磨叽了！」",
+        "options": [
+          "你能不能别磨蹭了！",
+          "你能不能别胡说了！",
+          "你能不能别吹牛了！",
+          "你能不能别炫耀了！"
+        ],
+        "correctAnswer": "你能不能别磨蹭了！",
+        "explanation": "「磨叽」的意思是「磨蹭/拖拉」，催人时高频使用"
+      },
+      {
+        "id": "l52q3",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「几个人坐一块儿侃大山呢！」",
+        "options": [
+          "几个人坐在一起吹牛聊天呢！",
+          "几个人坐在一起打架呢！",
+          "几个人坐在一起打牌呢！",
+          "几个人坐在一起吃饭呢！"
+        ],
+        "correctAnswer": "几个人坐在一起吹牛聊天呢！",
+        "explanation": "「侃大山」就是天南海北地吹牛聊天，东北社交的核心方式"
+      },
+      {
+        "id": "l52q4",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「我可稀罕你了！」",
+        "options": [
+          "我可喜欢你了！",
+          "手一滑碗就掉了",
+          "你还想跑步？算了吧你！",
+          "兄弟，干一杯！"
+        ],
+        "correctAnswer": "我可喜欢你了！",
+        "explanation": "「我可稀罕你了！」的意思是「我可喜欢你了！」"
+      },
+      {
+        "id": "l52q5",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「来来来，咱俩唠唠嗑！」",
+        "options": [
+          "这黄瓜特别脆！",
+          "来来来，咱俩聊聊天！",
+          "兄弟，干一杯！",
+          "这件事怎么办啊？"
+        ],
+        "correctAnswer": "来来来，咱俩聊聊天！",
+        "explanation": "「来来来，咱俩唠唠嗑！」的意思是「来来来，咱俩聊聊天！」"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "佳木斯"
+  },
+  {
+    "id": "level_53",
+    "levelNumber": 53,
+    "title": "鸡西关",
+    "subtitle": "黑龙江·鸡西 - 区分相近的东北话词语",
+    "passingScore": 80,
+    "rewardXP": 2200,
+    "questions": [
+      {
+        "id": "l53q1",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词形容\"食物口感好\"？",
+        "options": [
+          "嘎嘣脆",
+          "磕碜",
+          "膈应",
+          "秃噜"
+        ],
+        "correctAnswer": "嘎嘣脆",
+        "explanation": "嘎嘣脆形容食物特别脆，口感好！"
+      },
+      {
+        "id": "l53q2",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词形容\"冬天在家不出门\"？",
+        "options": [
+          "猫冬",
+          "浪",
+          "溜达",
+          "蹦迪"
+        ],
+        "correctAnswer": "猫冬",
+        "explanation": "猫冬=像猫一样窝在家里过冬，东北冬季特有词汇！"
+      },
+      {
+        "id": "l53q3",
+        "type": "multiple_choice",
+        "prompt": "\"棉袄棉裤\"在东北指的是什么？",
+        "options": [
+          "时尚潮流服饰",
+          "冬天的保暖棉质厚衣裤",
+          "运动装备",
+          "工作制服"
+        ],
+        "correctAnswer": "冬天的保暖棉质厚衣裤",
+        "explanation": "棉袄棉裤是东北冬天的保暖标配！穿上跑起来跟小企鹅似的"
+      },
+      {
+        "id": "l53q4",
+        "type": "multiple_choice",
+        "prompt": "以下哪个词可以用来表示\"同意\"？",
+        "options": [
+          "嗯哪",
+          "拉倒吧",
+          "嘎哈",
+          "咋整"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "嗯哪=是的/对的，表示同意！"
+      },
+      {
+        "id": "l53q5",
+        "type": "multiple_choice",
+        "prompt": "以下哪组词都跟\"吃喝\"相关？",
+        "options": [
+          "造、大绿棒子",
+          "彪、磕碜",
+          "嘎哈、咋整",
+          "削你、膈应"
+        ],
+        "correctAnswer": "造、大绿棒子",
+        "explanation": "造=吃，大绿棒子=雪花啤酒，都跟吃喝有关！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "鸡西"
+  },
+  {
+    "id": "level_54",
+    "levelNumber": 54,
+    "title": "鸡西关(2)",
+    "subtitle": "黑龙江·鸡西 - 补全东北话对话",
+    "passingScore": 80,
+    "rewardXP": 2250,
+    "questions": [
+      {
+        "id": "l54q1",
+        "type": "fill_in_blank",
+        "prompt": "摔了一跤磕到了___，疼得不行。",
+        "options": [
+          "彪",
+          "稀罕",
+          "波棱盖儿",
+          "埋汰"
+        ],
+        "correctAnswer": "波棱盖儿",
+        "explanation": "膝盖就是\"波棱盖儿\"！"
+      },
+      {
+        "id": "l54q2",
+        "type": "fill_in_blank",
+        "prompt": "今晚撸___去！配上大绿棒子，贼得劲！",
+        "options": [
+          "串",
+          "面",
+          "饼",
+          "鱼"
+        ],
+        "correctAnswer": "串",
+        "explanation": "撸串=吃烤肉串，东北夏天的经典活动！"
+      },
+      {
+        "id": "l54q3",
+        "type": "fill_in_blank",
+        "prompt": "在市场上买东西太贵了，东北人会___！",
+        "options": [
+          "砍价",
+          "划拉",
+          "倒腾",
+          "整景儿"
+        ],
+        "correctAnswer": "砍价",
+        "explanation": "砍价=讨价还价。东北大姨砍价能力全国领先！"
+      },
+      {
+        "id": "l54q4",
+        "type": "fill_in_blank",
+        "prompt": "朋友一直炫耀新买的包，你说\"别___了！\"",
+        "options": [
+          "嘎哈",
+          "嗯哪",
+          "得瑟",
+          "尿性"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "炫耀就是\"得瑟\"！"
+      },
+      {
+        "id": "l54q5",
+        "type": "fill_in_blank",
+        "prompt": "形容这道菜又脆又好吃，说\"___！\"",
+        "options": [
+          "咯应",
+          "得瑟",
+          "嘎嘣脆",
+          "唠嗑"
+        ],
+        "correctAnswer": "嘎嘣脆",
+        "explanation": "特别脆就是\"嘎嘣脆\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "鸡西"
+  },
+  {
+    "id": "level_55",
+    "levelNumber": 55,
+    "title": "林都关",
+    "subtitle": "黑龙江·伊春 - 根据场景选择合适的词",
+    "passingScore": 80,
+    "rewardXP": 2300,
+    "questions": [
+      {
+        "id": "l55q1",
+        "type": "multiple_choice",
+        "prompt": "饭后想出去走走，你会说\"咱出去___呗！\"",
+        "options": [
+          "溜达",
+          "贼",
+          "嗯哪",
+          "秃噜"
+        ],
+        "correctAnswer": "溜达",
+        "explanation": "出去散步就是\"溜达\"！"
+      },
+      {
+        "id": "l55q2",
+        "type": "multiple_choice",
+        "prompt": "看到好看的小狗，你会说\"我可___这狗了！\"",
+        "options": [
+          "贼",
+          "造",
+          "大绿棒子",
+          "稀罕"
+        ],
+        "correctAnswer": "稀罕",
+        "explanation": "喜欢就是\"稀罕\"！"
+      },
+      {
+        "id": "l55q3",
+        "type": "multiple_choice",
+        "prompt": "\"倒腾\"是什么意思？",
+        "options": [
+          "睡觉",
+          "折腾/倒卖",
+          "跑步",
+          "吃饭"
+        ],
+        "correctAnswer": "折腾/倒卖",
+        "explanation": "\"倒腾\"既可以指翻来覆去折腾，也可以指做小买卖倒卖东西"
+      },
+      {
+        "id": "l55q4",
+        "type": "multiple_choice",
+        "prompt": "\"仗义\"在东北话中是什么意思？",
+        "options": [
+          "讲义气",
+          "小气",
+          "大方",
+          "聪明"
+        ],
+        "correctAnswer": "讲义气",
+        "explanation": "\"仗义\"=讲义气，够朋友！东北人最看重的品质"
+      },
+      {
+        "id": "l55q5",
+        "type": "multiple_choice",
+        "prompt": "有人问你要不要一起吃饭，你说\"___，走！\"",
+        "options": [
+          "得瑟",
+          "嗯哪",
+          "老铁",
+          "唠嗑"
+        ],
+        "correctAnswer": "嗯哪",
+        "explanation": "表示同意就说\"嗯哪\"！"
+      }
+    ],
+    "rewardTitle": "东北话院士",
+    "province": "黑龙江",
+    "city": "伊春"
+  },
+  {
+    "id": "level_56",
+    "levelNumber": 56,
+    "title": "黑河关",
+    "subtitle": "黑龙江·黑河 - 东北文化与语言",
+    "passingScore": 80,
+    "rewardXP": 2350,
+    "questions": [
+      {
+        "id": "l56q1",
+        "type": "multiple_choice",
+        "prompt": "东北话中哪个字被称为\"万能动词\"？",
+        "options": [
+          "造",
+          "整",
+          "贼",
+          "削"
+        ],
+        "correctAnswer": "整",
+        "explanation": "\"整\"是万能动词，整吃的、整活、整明白，万物皆可整！"
+      },
+      {
+        "id": "l56q2",
+        "type": "multiple_choice",
+        "prompt": "东北三省不包括以下哪个省份？",
+        "options": [
+          "辽宁省",
+          "吉林省",
+          "河北省",
+          "黑龙江省"
+        ],
+        "correctAnswer": "河北省",
+        "explanation": "东北三省是辽宁、吉林、黑龙江！"
+      },
+      {
+        "id": "l56q3",
+        "type": "multiple_choice",
+        "prompt": "\"浪\"在东北话中是什么意思？",
+        "options": [
+          "游泳",
+          "出去玩/逛",
+          "冲浪",
+          "浪费"
+        ],
+        "correctAnswer": "出去玩/逛",
+        "explanation": "\"浪\"在东北话中是褒义词，就是出去嗨皮的意思！"
+      },
+      {
+        "id": "l56q4",
+        "type": "multiple_choice",
+        "prompt": "\"掰扯\"在东北话中是什么意思？",
+        "options": [
+          "掰手腕",
+          "争论/理论",
+          "分手",
+          "吃东西"
+        ],
+        "correctAnswer": "争论/理论",
+        "explanation": "\"掰扯\"就是讲道理、争辩！意见不合时使用"
+      },
+      {
+        "id": "l56q5",
+        "type": "multiple_choice",
+        "prompt": "\"老铁\"这个词最初源自哪个地区？",
+        "options": [
+          "广东",
+          "四川",
+          "东北",
+          "北京"
+        ],
+        "correctAnswer": "东北",
+        "explanation": "\"老铁\"源自东北，后来通过网络传播到全国！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "黑河"
+  },
+  {
+    "id": "level_57",
+    "levelNumber": 57,
+    "title": "绥化关",
+    "subtitle": "黑龙江·绥化 - 根据拼音选出正确的词",
+    "passingScore": 80,
+    "rewardXP": 2400,
+    "questions": [
+      {
+        "id": "l57q1",
+        "type": "multiple_choice",
+        "prompt": "读音\"dè se\"对应的东北话词是？",
+        "options": [
+          "埋汰",
+          "彪",
+          "得瑟",
+          "杠杠的"
+        ],
+        "correctAnswer": "得瑟",
+        "explanation": "\"dè se\"读的是\"得瑟\"，意思是\"炫耀/显摆\"！"
+      },
+      {
+        "id": "l57q2",
+        "type": "multiple_choice",
+        "prompt": "读音\"lǎ dǎo ba\"对应的东北话词是？",
+        "options": [
+          "咯应",
+          "彪",
+          "造",
+          "拉倒吧"
+        ],
+        "correctAnswer": "拉倒吧",
+        "explanation": "\"lǎ dǎo ba\"读的是\"拉倒吧\"，意思是\"算了吧\"！"
+      },
+      {
+        "id": "l57q3",
+        "type": "multiple_choice",
+        "prompt": "读音\"hā lā zi\"对应的东北话词是？",
+        "options": [
+          "哈拉子",
+          "噶嗤",
+          "嗖嗖的",
+          "扑棱"
+        ],
+        "correctAnswer": "哈拉子",
+        "explanation": "\"hā lā zi\"读的是\"哈拉子\"，意思是\"口水\"！看到好吃的流哈拉子"
+      },
+      {
+        "id": "l57q4",
+        "type": "multiple_choice",
+        "prompt": "读音\"lào bí zi le\"对应的东北话词是？",
+        "options": [
+          "老鼻子了",
+          "波棱盖儿",
+          "虎了吧唧",
+          "嘎嘣脆"
+        ],
+        "correctAnswer": "老鼻子了",
+        "explanation": "\"lào bí zi le\"读的是\"老鼻子了\"，意思是\"非常多\"！夸张表达数量多"
+      },
+      {
+        "id": "l57q5",
+        "type": "multiple_choice",
+        "prompt": "读音\"zào\"对应的东北话词是？",
+        "options": [
+          "嘚嘚",
+          "磕碜",
+          "咯应",
+          "造"
+        ],
+        "correctAnswer": "造",
+        "explanation": "\"zào\"读的是\"造\"，意思是\"吃\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "绥化"
+  },
+  {
+    "id": "level_58",
+    "levelNumber": 58,
+    "title": "绥化关(2)",
+    "subtitle": "黑龙江·绥化 - 各种题型混合出击",
+    "passingScore": 80,
+    "rewardXP": 2450,
+    "questions": [
+      {
+        "id": "l58q1",
+        "type": "multiple_choice",
+        "prompt": "\"嗨皮\"是什么意思？",
+        "options": [
+          "开心/高兴",
+          "生气",
+          "害怕",
+          "想睡觉"
+        ],
+        "correctAnswer": "开心/高兴",
+        "explanation": "\"嗨皮\"就是英文happy的东北版音译，意思就是开心快乐"
+      },
+      {
+        "id": "l58q2",
+        "type": "multiple_choice",
+        "prompt": "\"咋地\"是什么意思？",
+        "options": [
+          "怎么了/怎么着",
+          "在哪里",
+          "多少钱",
+          "什么时候"
+        ],
+        "correctAnswer": "怎么了/怎么着",
+        "explanation": "\"咋地\"=怎么了/怎么着，带有挑衅语气时表示不满"
+      },
+      {
+        "id": "l58q3",
+        "type": "fill_in_blank",
+        "prompt": "完成句子：这人办事不___，别信他。",
+        "options": [
+          "靠谱",
+          "敞亮",
+          "仗义",
+          "得劲"
+        ],
+        "correctAnswer": "靠谱",
+        "explanation": "正确答案是\"靠谱\"（可靠/靠得住）。反义词是\"不着调\""
+      },
+      {
+        "id": "l58q4",
+        "type": "listening",
+        "prompt": "听音频，选出你听到的东北话对应的普通话意思",
+        "audioFileName": "v020",
+        "options": [
+          "痒",
+          "好兄弟",
+          "说谎/胡说",
+          "聊天"
+        ],
+        "correctAnswer": "痒",
+        "explanation": "你听到的是\"咯应\"，意思是\"痒\"！"
+      },
+      {
+        "id": "l58q5",
+        "type": "multiple_choice",
+        "prompt": "这句东北话是什么意思？\n「你看你手埋汰的！」",
+        "options": [
+          "你看你手多脏！",
+          "你这人真让人讨厌！",
+          "你别跟我装模作样！",
+          "主动凑上去的不叫好生意！"
+        ],
+        "correctAnswer": "你看你手多脏！",
+        "explanation": "「你看你手埋汰的！」的意思是「你看你手多脏！」"
+      },
+      {
+        "id": "l58q6",
+        "type": "multiple_choice",
+        "prompt": "读音\"dē de\"对应的东北话词是？",
+        "options": [
+          "嘎嘣脆",
+          "整",
+          "嘚嘚",
+          "贼"
+        ],
+        "correctAnswer": "嘚嘚",
+        "explanation": "\"dē de\"读的是\"嘚嘚\"，意思是\"啰嗦/话多\"！"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "绥化"
+  },
+  {
+    "id": "level_59",
+    "levelNumber": 59,
+    "title": "兴安关",
+    "subtitle": "黑龙江·大兴安岭 - 日常打招呼和寒暄用词",
+    "passingScore": 80,
+    "rewardXP": 2500,
+    "questions": [
+      {
+        "id": "l59q1",
+        "type": "multiple_choice",
+        "prompt": "\"整\"是什么意思？",
+        "options": [
+          "聊天",
+          "做/弄/搞",
+          "吃",
+          "脏/不干净"
+        ],
+        "correctAnswer": "做/弄/搞",
+        "explanation": "\"整\"就是\"做/弄/搞\"的意思。东北话第一万能词，可搭配任何名词"
+      },
+      {
+        "id": "l59q2",
+        "type": "multiple_choice",
+        "prompt": "\"旮旯\"是什么意思？",
+        "options": [
+          "角落",
+          "胡同",
+          "广场",
+          "大路"
+        ],
+        "correctAnswer": "角落",
+        "explanation": "\"旮旯\"就是\"角落/偏僻地方\"的意思。东北人说犄角旮旯指各个角落"
+      },
+      {
+        "id": "l59q3",
+        "type": "multiple_choice",
+        "prompt": "\"干仗\"是什么意思？",
+        "options": [
+          "打架/吵架",
+          "干活",
+          "打扫",
+          "做饭"
+        ],
+        "correctAnswer": "打架/吵架",
+        "explanation": "\"干仗\"就是\"打架/吵架\"的意思。强调冲突激烈"
+      },
+      {
+        "id": "l59q4",
+        "type": "multiple_choice",
+        "prompt": "\"抓瞎\"是什么意思？",
+        "options": [
+          "抓东西",
+          "瞎了眼",
+          "手忙脚乱/没头绪",
+          "眼花缭乱"
+        ],
+        "correctAnswer": "手忙脚乱/没头绪",
+        "explanation": "\"抓瞎\"就是\"没辙/没头绪\"的意思，形容毫无方向感"
+      },
+      {
+        "id": "l59q5",
+        "type": "multiple_choice",
+        "prompt": "\"嘎哈\"是什么意思？",
+        "options": [
+          "非常/很",
+          "全部包下",
+          "喜欢/稀奇",
+          "干什么"
+        ],
+        "correctAnswer": "干什么",
+        "explanation": "\"嘎哈\"就是\"干什么\"的意思。朋友之间打招呼时非常常用"
+      }
+    ],
+    "province": "黑龙江",
+    "city": "大兴安岭"
+  },
+  {
+    "id": "level_60",
+    "levelNumber": 60,
+    "title": "兴安关(2)",
+    "subtitle": "黑龙江·大兴安岭 - 吃喝相关的东北话",
+    "passingScore": 80,
+    "rewardXP": 2550,
+    "questions": [
+      {
+        "id": "l60q1",
+        "type": "multiple_choice",
+        "prompt": "\"噶嗤\"在东北话中形容什么？",
+        "options": [
+          "咬一口的声音/口感酥脆",
+          "打喷嚏",
+          "说话声音大",
+          "走路的声音"
+        ],
+        "correctAnswer": "咬一口的声音/口感酥脆",
+        "explanation": "\"噶嗤\"形容食物酥脆，咬一口发出的声音！"
+      },
+      {
+        "id": "l60q2",
+        "type": "multiple_choice",
+        "prompt": "\"不着调\"是什么意思？",
+        "options": [
+          "不靠谱/不正经",
+          "跑调了",
+          "没有音乐天赋",
+          "不打招呼"
+        ],
+        "correctAnswer": "不靠谱/不正经",
+        "explanation": "\"不着调\"就是不靠谱、不正经！形容人做事不让人放心"
+      },
+      {
+        "id": "l60q3",
+        "type": "multiple_choice",
+        "prompt": "\"抠搜\"是什么意思？",
+        "options": [
+          "小气/吝啬",
+          "挠痒痒",
+          "搜索",
+          "抠鼻子"
+        ],
+        "correctAnswer": "小气/吝啬",
+        "explanation": "\"抠搜\"=小气/吝啬。花钱不大方就被说抠搜！"
+      },
+      {
+        "id": "l60q4",
+        "type": "multiple_choice",
+        "prompt": "以下哪组词都是\"生活起居\"类词汇？",
+        "options": [
+          "拾掇、炕头、念叨",
+          "老铁、唠嗑、贼",
+          "造、嘎嘣脆、大绿棒子",
+          "削你、彪、装犊子"
+        ],
+        "correctAnswer": "拾掇、炕头、念叨",
+        "explanation": "拾掇(收拾)、炕头(暖炕)、念叨(唠叨)都是日常居家用语"
+      },
+      {
+        "id": "l60q5",
+        "type": "multiple_choice",
+        "prompt": "以下哪组词都跟\"社交评价\"相关？",
+        "options": [
+          "敞亮、靠谱、仗义",
+          "造、苞米、冻梨",
+          "溜达、浪、嗨皮",
+          "嗖嗖的、猫冬、棉袄棉裤"
+        ],
+        "correctAnswer": "敞亮、靠谱、仗义",
+        "explanation": "敞亮(大方)、靠谱(可靠)、仗义(讲义气)都是评价人品的词！"
+      }
+    ],
+    "rewardTitle": "东北话之神",
+    "province": "黑龙江",
+    "city": "大兴安岭"
+  }
+]

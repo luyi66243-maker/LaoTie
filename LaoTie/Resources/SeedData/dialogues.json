@@ -1,0 +1,2311 @@
+[
+  {
+    "id": "d001",
+    "scenarioTitle": "烧烤摊点餐",
+    "scenarioDescription": "在东北的路边烧烤摊，学会怎么地道地点几串烤串、来瓶啤酒",
+    "backgroundImageName": "scenario_bbq",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "boss",
+        "name": "烧烤老板",
+        "avatarName": "avatar_boss",
+        "description": "热情豪爽的烧烤摊老板"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "初到东北的南方小土豆"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d001_l1",
+        "speakerRoleId": "boss",
+        "dongbeiText": "哎呀妈呀，来啦！想吃点啥？随便整！",
+        "standardText": "来了！想吃点什么？随便点！",
+        "isUserLine": false,
+        "audioFileName": "d001_l1",
+        "standardAudioFileName": "s_d001_l1"
+      },
+      {
+        "id": "d001_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "老板，整几串大腰子，再来十串肉串儿！",
+        "standardText": "老板，来几串烤腰子，再来十串肉串！",
+        "isUserLine": true,
+        "audioFileName": "d001_l2",
+        "standardAudioFileName": "s_d001_l2"
+      },
+      {
+        "id": "d001_l3",
+        "speakerRoleId": "boss",
+        "dongbeiText": "行嘞！再整点啥不？蒜蚕蛆味道杠杠的！",
+        "standardText": "好的！还要别的吗？蒜蓉茄子味道特别好！",
+        "isUserLine": false,
+        "audioFileName": "d001_l3",
+        "standardAudioFileName": "s_d001_l3"
+      },
+      {
+        "id": "d001_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "来一个！再整两瓶大绿棒子！",
+        "standardText": "来一个！再来两瓶雪花啤酒！",
+        "isUserLine": true,
+        "audioFileName": "d001_l4",
+        "standardAudioFileName": "s_d001_l4"
+      },
+      {
+        "id": "d001_l5",
+        "speakerRoleId": "boss",
+        "dongbeiText": "得嘞！稍等啊，马上给你整！",
+        "standardText": "好的！稍等，马上给你做！",
+        "isUserLine": false,
+        "audioFileName": "d001_l5",
+        "standardAudioFileName": "s_d001_l5"
+      },
+      {
+        "id": "d001_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "老板，多整点辣椒面儿！可劲儿造！",
+        "standardText": "老板，多放点辣椒面！使劲吃！",
+        "isUserLine": true,
+        "audioFileName": "d001_l6",
+        "standardAudioFileName": "s_d001_l6"
+      },
+      {
+        "id": "d001_l7",
+        "speakerRoleId": "boss",
+        "dongbeiText": "就是！撸串就得可劲儿造！看你这哈拉子都快流出来了！",
+        "standardText": "就是！吃烤串就得使劲吃！看你口水都快流出来了！",
+        "isUserLine": false,
+        "audioFileName": "d001_l7",
+        "standardAudioFileName": "s_d001_l7"
+      }
+    ]
+  },
+  {
+    "id": "d002",
+    "scenarioTitle": "澡堂子搓澡",
+    "scenarioDescription": "体验东北洗浴文化，学习在澡堂子里的地道东北话",
+    "backgroundImageName": "scenario_bathhouse",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "cuozao",
+        "name": "搓澡师傅",
+        "avatarName": "avatar_worker",
+        "description": "技术一流的搓澡大师"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "第一次来东北澡堂的南方人"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d002_l1",
+        "speakerRoleId": "cuozao",
+        "dongbeiText": "来了啊！搓澡不？给你搓得嘎嘎舒服！",
+        "standardText": "来了！要搓澡吗？保证让你特别舒服！",
+        "isUserLine": false,
+        "audioFileName": "d002_l1",
+        "standardAudioFileName": "s_d002_l1"
+      },
+      {
+        "id": "d002_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "来一个！咋整啊？我头回来！",
+        "standardText": "好的！怎么弄？我第一次来！",
+        "isUserLine": true,
+        "audioFileName": "d002_l2",
+        "standardAudioFileName": "s_d002_l2"
+      },
+      {
+        "id": "d002_l3",
+        "speakerRoleId": "cuozao",
+        "dongbeiText": "趴那儿就行！放心整，疼了吱声儿！",
+        "standardText": "趴下就行！放心弄，疼了说一声！",
+        "isUserLine": false,
+        "audioFileName": "d002_l3",
+        "standardAudioFileName": "s_d002_l3"
+      },
+      {
+        "id": "d002_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "哎呀妈呀！轻点儿！疼！",
+        "standardText": "哎呀！轻一点！疼！",
+        "isUserLine": true,
+        "audioFileName": "d002_l4",
+        "standardAudioFileName": "s_d002_l4"
+      },
+      {
+        "id": "d002_l5",
+        "speakerRoleId": "cuozao",
+        "dongbeiText": "忍着点！你看看这泥儿，可埋汰了！搓完贼得劲儿！",
+        "standardText": "忍一下！你看这脏东西，太脏了！搓完特别舒服！",
+        "isUserLine": false,
+        "audioFileName": "d002_l5",
+        "standardAudioFileName": "s_d002_l5"
+      },
+      {
+        "id": "d002_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "还别说，搓完确实贼舒坦！",
+        "standardText": "还别说，搓完确实特别舒服！",
+        "isUserLine": true,
+        "audioFileName": "d002_l6",
+        "standardAudioFileName": "s_d002_l6"
+      },
+      {
+        "id": "d002_l7",
+        "speakerRoleId": "cuozao",
+        "dongbeiText": "那可不！搓完澡再浪一圈儿，整个人贼嗨皮！得劲吧？",
+        "standardText": "那当然！搓完澡再出去逛逛，整个人特别开心！舒服吧？",
+        "isUserLine": false,
+        "audioFileName": "d002_l7",
+        "standardAudioFileName": "s_d002_l7"
+      }
+    ]
+  },
+  {
+    "id": "d003",
+    "scenarioTitle": "过年串门子",
+    "scenarioDescription": "过年去东北朋友家串门，学习东北人过年时的热情寒暄",
+    "backgroundImageName": "scenario_newyear",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "daye",
+        "name": "东北大爷",
+        "avatarName": "avatar_uncle",
+        "description": "热情好客的东北大爷"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "来东北过年的南方小土豆"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d003_l1",
+        "speakerRoleId": "daye",
+        "dongbeiText": "哎呀，来了来了！快进屋！外头贼冷！",
+        "standardText": "来了来了！快进屋！外面特别冷！",
+        "isUserLine": false,
+        "audioFileName": "d003_l1",
+        "standardAudioFileName": "s_d003_l1"
+      },
+      {
+        "id": "d003_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大爷过年好！给您拜年了！",
+        "standardText": "大爷过年好！给您拜年了！",
+        "isUserLine": true,
+        "audioFileName": "d003_l2",
+        "standardAudioFileName": "s_d003_l2"
+      },
+      {
+        "id": "d003_l3",
+        "speakerRoleId": "daye",
+        "dongbeiText": "好好好！快上炕！暖和暖和！吃饺子了没？",
+        "standardText": "好！快上来坐！暖和暖和！吃饺子了吗？",
+        "isUserLine": false,
+        "audioFileName": "d003_l3",
+        "standardAudioFileName": "s_d003_l3"
+      },
+      {
+        "id": "d003_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "还没呢！大爷家饺子肯定杠杠的！",
+        "standardText": "还没呢！大爷家饺子肯定特别好吃！",
+        "isUserLine": true,
+        "audioFileName": "d003_l4",
+        "standardAudioFileName": "s_d003_l4"
+      },
+      {
+        "id": "d003_l5",
+        "speakerRoleId": "daye",
+        "dongbeiText": "那必须的！酸菜馅儿的！可劲儿造！别整那客气的！",
+        "standardText": "那当然！酸菜馅的！使劲吃！别客气！",
+        "isUserLine": false,
+        "audioFileName": "d003_l5",
+        "standardAudioFileName": "s_d003_l5"
+      },
+      {
+        "id": "d003_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "谢谢大爷！我可得好好造两盘子！",
+        "standardText": "谢谢大爷！我得好好吃两盘！",
+        "isUserLine": true,
+        "audioFileName": "d003_l6",
+        "standardAudioFileName": "s_d003_l6"
+      },
+      {
+        "id": "d003_l7",
+        "speakerRoleId": "daye",
+        "dongbeiText": "你大妈念叨你好几天了！一早起来就拾掇屋子等你来！快上炕头暖和暖和！",
+        "standardText": "你大妈惦记你好几天了！一早起来就收拾屋子等你来！快上暖炕暖和暖和！",
+        "isUserLine": false,
+        "audioFileName": "d003_l7",
+        "standardAudioFileName": "s_d003_l7"
+      }
+    ]
+  },
+  {
+    "id": "d004",
+    "scenarioTitle": "打车拉呱",
+    "scenarioDescription": "在东北打出租车，和健谈的司机师傅唠嗑",
+    "backgroundImageName": "scenario_taxi",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "driver",
+        "name": "出租车司机",
+        "avatarName": "avatar_driver",
+        "description": "话唠的哈尔滨出租车司机"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "在东北旅游的南方游客"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d004_l1",
+        "speakerRoleId": "driver",
+        "dongbeiText": "走哪儿啊？",
+        "standardText": "去哪里？",
+        "isUserLine": false,
+        "audioFileName": "d004_l1",
+        "standardAudioFileName": "s_d004_l1"
+      },
+      {
+        "id": "d004_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "师傅，去中央大街！",
+        "standardText": "师傅，去中央大街！",
+        "isUserLine": true,
+        "audioFileName": "d004_l2",
+        "standardAudioFileName": "s_d004_l2"
+      },
+      {
+        "id": "d004_l3",
+        "speakerRoleId": "driver",
+        "dongbeiText": "外地的吧？听口音不像本地人。头回来哈尔滨？",
+        "standardText": "外地来的吧？听口音不像本地人。第一次来哈尔滨？",
+        "isUserLine": false,
+        "audioFileName": "d004_l3",
+        "standardAudioFileName": "s_d004_l3"
+      },
+      {
+        "id": "d004_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "嗯哪！我从南方来的，贼冷啊这嘎达！",
+        "standardText": "是的！我从南方来的，这里好冷啊！",
+        "isUserLine": true,
+        "audioFileName": "d004_l4",
+        "standardAudioFileName": "s_d004_l4"
+      },
+      {
+        "id": "d004_l5",
+        "speakerRoleId": "driver",
+        "dongbeiText": "这都不算啥！零下二十度那才叫冷呢！你多穿点，别冻感冒了！",
+        "standardText": "这都不算什么！零下二十度才叫冷！多穿点，别冻感冒了！",
+        "isUserLine": false,
+        "audioFileName": "d004_l5",
+        "standardAudioFileName": "s_d004_l5"
+      },
+      {
+        "id": "d004_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "谢谢师傅！你们东北人真敞亮！",
+        "standardText": "谢谢师傅！你们东北人真热情大方！",
+        "isUserLine": true,
+        "audioFileName": "d004_l6",
+        "standardAudioFileName": "s_d004_l6"
+      },
+      {
+        "id": "d004_l7",
+        "speakerRoleId": "driver",
+        "dongbeiText": "嗨！来了都是朋友！你别磨叽了赶紧下车溜达去！有啥不懂的就找人侃大山！",
+        "standardText": "来了都是朋友！你别磨蹭了赶紧下车逛逛去！有什么不懂的就找人聊天！",
+        "isUserLine": false,
+        "audioFileName": "d004_l7",
+        "standardAudioFileName": "s_d004_l7"
+      }
+    ]
+  },
+  {
+    "id": "d005",
+    "scenarioTitle": "早市买菜",
+    "scenarioDescription": "逛东北早市，体验热闹的讨价还价",
+    "backgroundImageName": "scenario_market",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "seller",
+        "name": "卖菜大姐",
+        "avatarName": "avatar_seller",
+        "description": "嗓门洪亮的东北卖菜大姐"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "想买点新鲜蔬菜的你"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d005_l1",
+        "speakerRoleId": "seller",
+        "dongbeiText": "来看看！黄瓜水灵灵的！贼新鲜！",
+        "standardText": "来看看！黄瓜水灵灵的！特别新鲜！",
+        "isUserLine": false,
+        "audioFileName": "d005_l1",
+        "standardAudioFileName": "s_d005_l1"
+      },
+      {
+        "id": "d005_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姐，黄瓜咋卖的？",
+        "standardText": "大姐，黄瓜怎么卖的？",
+        "isUserLine": true,
+        "audioFileName": "d005_l2",
+        "standardAudioFileName": "s_d005_l2"
+      },
+      {
+        "id": "d005_l3",
+        "speakerRoleId": "seller",
+        "dongbeiText": "三块钱一斤！自家园子种的！嘎嘣脆！",
+        "standardText": "三块钱一斤！自家菜园种的！特别脆！",
+        "isUserLine": false,
+        "audioFileName": "d005_l3",
+        "standardAudioFileName": "s_d005_l3"
+      },
+      {
+        "id": "d005_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "便宜点呗？整两斤！",
+        "standardText": "便宜点？买两斤！",
+        "isUserLine": true,
+        "audioFileName": "d005_l4",
+        "standardAudioFileName": "s_d005_l4"
+      },
+      {
+        "id": "d005_l5",
+        "speakerRoleId": "seller",
+        "dongbeiText": "行！两块五给你！再送你棵葱！",
+        "standardText": "行！两块五给你！再送你一棵葱！",
+        "isUserLine": false,
+        "audioFileName": "d005_l5",
+        "standardAudioFileName": "s_d005_l5"
+      },
+      {
+        "id": "d005_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姐你可真敞亮！谢了！",
+        "standardText": "大姐你真大方！谢谢！",
+        "isUserLine": true,
+        "audioFileName": "d005_l6",
+        "standardAudioFileName": "s_d005_l6"
+      },
+      {
+        "id": "d005_l7",
+        "speakerRoleId": "seller",
+        "dongbeiText": "记住啊，便宜没好货！我这可是自家园子的，贵有贵的道理！下回赶集还来找我！",
+        "standardText": "记住，贪便宜买不到好东西！我这是自家菜园的，贵有道理！下回来集市还找我！",
+        "isUserLine": false,
+        "audioFileName": "d005_l7",
+        "standardAudioFileName": "s_d005_l7"
+      }
+    ]
+  },
+  {
+    "id": "d006",
+    "scenarioTitle": "饭店点菜",
+    "scenarioDescription": "在东北小饭馆点菜，学习怎么和服务员用东北话沟通",
+    "backgroundImageName": "scenario_restaurant",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "waiter",
+        "name": "服务员",
+        "avatarName": "avatar_waiter",
+        "description": "麻利爽快的东北饭馆服务员"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "想尝尝东北菜的你"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d006_l1",
+        "speakerRoleId": "waiter",
+        "dongbeiText": "几位啊？里边坐！有啥想吃的不？",
+        "standardText": "几位？里面坐！有想吃的吗？",
+        "isUserLine": false,
+        "audioFileName": "d006_l1",
+        "standardAudioFileName": "s_d006_l1"
+      },
+      {
+        "id": "d006_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "俩人！有啥硬菜推荐不？",
+        "standardText": "两个人！有什么招牌菜推荐吗？",
+        "isUserLine": true,
+        "audioFileName": "d006_l2",
+        "standardAudioFileName": "s_d006_l2"
+      },
+      {
+        "id": "d006_l3",
+        "speakerRoleId": "waiter",
+        "dongbeiText": "锅包肉必须整一个！再来个地三鲜，小鸡炖蘑菇也杠杠的！",
+        "standardText": "锅包肉一定要来一个！再来个地三鲜，小鸡炖蘑菇也特别好！",
+        "isUserLine": false,
+        "audioFileName": "d006_l3",
+        "standardAudioFileName": "s_d006_l3"
+      },
+      {
+        "id": "d006_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "行！都整上！再来俩碗大碴子粥！",
+        "standardText": "好！都上！再来两碗玉米碴子粥！",
+        "isUserLine": true,
+        "audioFileName": "d006_l4",
+        "standardAudioFileName": "s_d006_l4"
+      },
+      {
+        "id": "d006_l5",
+        "speakerRoleId": "waiter",
+        "dongbeiText": "得嘞！量大管够，保证你吃美了！",
+        "standardText": "好的！量大管够，保证你吃好！",
+        "isUserLine": false,
+        "audioFileName": "d006_l5",
+        "standardAudioFileName": "s_d006_l5"
+      },
+      {
+        "id": "d006_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "哎呀妈呀这锅包肉也太好吃了！再加一盘！",
+        "standardText": "这锅包肉太好吃了！再加一盘！",
+        "isUserLine": true,
+        "audioFileName": "d006_l6",
+        "standardAudioFileName": "s_d006_l6"
+      },
+      {
+        "id": "d006_l7",
+        "speakerRoleId": "waiter",
+        "dongbeiText": "想不想试试铁锅炖？苞米饼子贴锅边儿，噶嗤一口嘎嘎香！",
+        "standardText": "想不想试试铁锅炖？玉米饼子贴在锅边，咬一口特别香！",
+        "isUserLine": false,
+        "audioFileName": "d006_l7",
+        "standardAudioFileName": "s_d006_l7"
+      }
+    ]
+  },
+  {
+    "id": "d007",
+    "scenarioTitle": "冰雪大世界",
+    "scenarioDescription": "冬天去哈尔滨冰雪大世界游玩，和当地人聊天取暖",
+    "backgroundImageName": "scenario_icesnow",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "local",
+        "name": "本地大哥",
+        "avatarName": "avatar_local",
+        "description": "热心肠的哈尔滨大哥"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "第一次看冰雕的南方小土豆"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d007_l1",
+        "speakerRoleId": "you",
+        "dongbeiText": "大哥，这冰雕也太好看了！咋整的呀？",
+        "standardText": "大哥，这冰雕太好看了！怎么做的呀？",
+        "isUserLine": true,
+        "audioFileName": "d007_l1",
+        "standardAudioFileName": "s_d007_l1"
+      },
+      {
+        "id": "d007_l2",
+        "speakerRoleId": "local",
+        "dongbeiText": "松花江上取的冰！工人一块一块搬上来整的！老费劲了！",
+        "standardText": "松花江上采的冰！工人一块一块搬上来做的！很辛苦！",
+        "isUserLine": false,
+        "audioFileName": "d007_l2",
+        "standardAudioFileName": "s_d007_l2"
+      },
+      {
+        "id": "d007_l3",
+        "speakerRoleId": "you",
+        "dongbeiText": "哎呀妈呀冻得我直哆嗦！外头风嗖嗖的！手都不好使了！",
+        "standardText": "冻得我直发抖！外面风真大！手都不灵活了！",
+        "isUserLine": true,
+        "audioFileName": "d007_l3",
+        "standardAudioFileName": "s_d007_l3"
+      },
+      {
+        "id": "d007_l4",
+        "speakerRoleId": "local",
+        "dongbeiText": "你这穿的也太单薄了！来东北得穿棉袄棉裤！走，进暖房子整杯热乎的！",
+        "standardText": "你穿的太少了！来东北得穿棉衣棉裤！走，进暖房喝杯热的！",
+        "isUserLine": false,
+        "audioFileName": "d007_l4",
+        "standardAudioFileName": "s_d007_l4"
+      },
+      {
+        "id": "d007_l5",
+        "speakerRoleId": "you",
+        "dongbeiText": "太感谢了大哥！你们东北人真敞亮！",
+        "standardText": "太感谢了大哥！你们东北人真热心！",
+        "isUserLine": true,
+        "audioFileName": "d007_l5",
+        "standardAudioFileName": "s_d007_l5"
+      },
+      {
+        "id": "d007_l6",
+        "speakerRoleId": "local",
+        "dongbeiText": "嗨，这有啥的！来哈尔滨就是到家了！等会儿再领你去打出溜滑！完了整个冻梨缓缓！",
+        "standardText": "这算什么！来哈尔滨就是到家了！一会儿再带你去冰上滑行！完了吃个冻梨解解渴！",
+        "isUserLine": false,
+        "audioFileName": "d007_l6",
+        "standardAudioFileName": "s_d007_l6"
+      }
+    ]
+  },
+  {
+    "id": "d008",
+    "scenarioTitle": "包饺子唠嗑",
+    "scenarioDescription": "在东北朋友家一起包饺子，边干活边唠家常",
+    "backgroundImageName": "scenario_dumpling",
+    "difficulty": "地道老铁",
+    "roles": [
+      {
+        "id": "auntie",
+        "name": "东北大妈",
+        "avatarName": "avatar_auntie",
+        "description": "包饺子一绝的东北大妈"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "跟着学包饺子的你"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d008_l1",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "来来来，过来帮忙擀皮儿！你会不会擀？",
+        "standardText": "来来来，过来帮忙擀饺子皮！你会不会擀？",
+        "isUserLine": false,
+        "audioFileName": "d008_l1",
+        "standardAudioFileName": "s_d008_l1"
+      },
+      {
+        "id": "d008_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大妈我试试！我头一回擀皮儿！",
+        "standardText": "大妈我试试！我第一次擀饺子皮！",
+        "isUserLine": true,
+        "audioFileName": "d008_l2",
+        "standardAudioFileName": "s_d008_l2"
+      },
+      {
+        "id": "d008_l3",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "你这擀的也太厚了！跟烙饼似的！得薄点儿！中间厚边儿薄！",
+        "standardText": "你擀的太厚了！像烙饼一样！得薄一点！中间厚边上薄！",
+        "isUserLine": false,
+        "audioFileName": "d008_l3",
+        "standardAudioFileName": "s_d008_l3"
+      },
+      {
+        "id": "d008_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "哈哈行行行！大妈你包得也太快了！我跟不上趟儿！",
+        "standardText": "哈哈好好好！大妈你包得太快了！我跟不上节奏！",
+        "isUserLine": true,
+        "audioFileName": "d008_l4",
+        "standardAudioFileName": "s_d008_l4"
+      },
+      {
+        "id": "d008_l5",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "包了几十年了能不快嘛！馅儿多搁点，皮儿捏紧了，别煮破喽！麻溜儿的！",
+        "standardText": "包了几十年了能不快吗！馅多放点，皮捏紧了，别煮破了！快点的！",
+        "isUserLine": false,
+        "audioFileName": "d008_l5",
+        "standardAudioFileName": "s_d008_l5"
+      },
+      {
+        "id": "d008_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "我这个歪歪扭扭的也能吃不？",
+        "standardText": "我这个歪歪扭扭的也能吃吗？",
+        "isUserLine": true,
+        "audioFileName": "d008_l6",
+        "standardAudioFileName": "s_d008_l6"
+      },
+      {
+        "id": "d008_l7",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "咋不能吃？好吃不过饺子！丑是丑了点，味道一样嘎嘎香！",
+        "standardText": "怎么不能吃？最好吃的就是饺子！丑是丑了点，味道一样特别香！",
+        "isUserLine": false,
+        "audioFileName": "d008_l7",
+        "standardAudioFileName": "s_d008_l7"
+      },
+      {
+        "id": "d008_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "大妈，吃完饺子再烀点苞米呗？我可稀罕吃苞米了！",
+        "standardText": "大妈，吃完饺子再煮点玉米呗？我可喜欢吃玉米了！",
+        "isUserLine": true,
+        "audioFileName": "d008_l8",
+        "standardAudioFileName": "s_d008_l8"
+      }
+    ]
+  },
+  {
+    "id": "d009",
+    "scenarioTitle": "广场舞大妈",
+    "scenarioDescription": "傍晚在广场上遇到跳广场舞的东北大妈们",
+    "backgroundImageName": "scenario_dance",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "dancer",
+        "name": "领舞大妈",
+        "avatarName": "avatar_dancer",
+        "description": "广场舞C位的东北大妈"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "被热情拉进队伍的路人"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d009_l1",
+        "speakerRoleId": "dancer",
+        "dongbeiText": "小伙子/姑娘！站那儿干啥呢？过来一起扭！",
+        "standardText": "小伙子/姑娘！站在那干什么呢？过来一起跳！",
+        "isUserLine": false,
+        "audioFileName": "d009_l1",
+        "standardAudioFileName": "s_d009_l1"
+      },
+      {
+        "id": "d009_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大妈我不会跳啊！",
+        "standardText": "大妈我不会跳啊！",
+        "isUserLine": true,
+        "audioFileName": "d009_l2",
+        "standardAudioFileName": "s_d009_l2"
+      },
+      {
+        "id": "d009_l3",
+        "speakerRoleId": "dancer",
+        "dongbeiText": "不会就学呗！多简单的事儿！跟着我比划就行！",
+        "standardText": "不会就学！多简单的事！跟着我做就行！",
+        "isUserLine": false,
+        "audioFileName": "d009_l3",
+        "standardAudioFileName": "s_d009_l3"
+      },
+      {
+        "id": "d009_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "哎呀我这胳膊腿儿不听使唤啊！",
+        "standardText": "我这手脚不协调啊！",
+        "isUserLine": true,
+        "audioFileName": "d009_l4",
+        "standardAudioFileName": "s_d009_l4"
+      },
+      {
+        "id": "d009_l5",
+        "speakerRoleId": "dancer",
+        "dongbeiText": "没事儿！放开了扭！别整那扭扭捏捏的！大大方方的！",
+        "standardText": "没事！放开了跳！别扭扭捏捏的！大大方方的！",
+        "isUserLine": false,
+        "audioFileName": "d009_l5",
+        "standardAudioFileName": "s_d009_l5"
+      },
+      {
+        "id": "d009_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "还别说，跳起来还挺得劲儿的！",
+        "standardText": "还别说，跳起来还挺带劲的！",
+        "isUserLine": true,
+        "audioFileName": "d009_l6",
+        "standardAudioFileName": "s_d009_l6"
+      },
+      {
+        "id": "d009_l7",
+        "speakerRoleId": "dancer",
+        "dongbeiText": "看看！多嗨皮！以后每天出来浪一圈，跳跳舞，比猫冬强多了！",
+        "standardText": "看看！多开心！以后每天出来逛逛，跳跳舞，比在家窝冬强多了！",
+        "isUserLine": false,
+        "audioFileName": "d009_l7",
+        "standardAudioFileName": "s_d009_l7"
+      }
+    ]
+  },
+  {
+    "id": "d010",
+    "scenarioTitle": "东北婚礼",
+    "scenarioDescription": "参加东北朋友的婚礼，体验热闹的东北婚宴",
+    "backgroundImageName": "scenario_wedding",
+    "difficulty": "地道老铁",
+    "roles": [
+      {
+        "id": "mc",
+        "name": "婚礼司仪",
+        "avatarName": "avatar_mc",
+        "description": "嘴皮子利索的东北婚礼司仪"
+      },
+      {
+        "id": "buddy",
+        "name": "东北哥们",
+        "avatarName": "avatar_buddy",
+        "description": "你在东北认识的好哥们"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "avatar_user",
+        "description": "第一次参加东北婚礼的你"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d010_l1",
+        "speakerRoleId": "mc",
+        "dongbeiText": "各位亲朋好友！今天是大喜的日子！咱们不整那虚头巴脑的，先干为敬！",
+        "standardText": "各位亲朋好友！今天是大喜的日子！咱们别客套了，先干一杯！",
+        "isUserLine": false,
+        "audioFileName": "d010_l1",
+        "standardAudioFileName": "s_d010_l1"
+      },
+      {
+        "id": "d010_l2",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "兄弟，来了啊！快坐！今天可得好好喝几杯！",
+        "standardText": "兄弟，来了！快坐！今天得好好喝几杯！",
+        "isUserLine": false,
+        "audioFileName": "d010_l2",
+        "standardAudioFileName": "s_d010_l2"
+      },
+      {
+        "id": "d010_l3",
+        "speakerRoleId": "you",
+        "dongbeiText": "新郎官在哪呢？我得去随个份子！",
+        "standardText": "新郎在哪？我得去送个红包！",
+        "isUserLine": true,
+        "audioFileName": "d010_l3",
+        "standardAudioFileName": "s_d010_l3"
+      },
+      {
+        "id": "d010_l4",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "份子钱搁前台就行！一会儿新郎敬酒的时候你再贺喜！",
+        "standardText": "红包放前台就行！一会儿新郎敬酒的时候你再恭喜！",
+        "isUserLine": false,
+        "audioFileName": "d010_l4",
+        "standardAudioFileName": "s_d010_l4"
+      },
+      {
+        "id": "d010_l5",
+        "speakerRoleId": "you",
+        "dongbeiText": "这菜也太硬了！鸡鱼肉蛋全齐活了！",
+        "standardText": "这菜太丰盛了！鸡鱼肉蛋全都有了！",
+        "isUserLine": true,
+        "audioFileName": "d010_l5",
+        "standardAudioFileName": "s_d010_l5"
+      },
+      {
+        "id": "d010_l6",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "那必须的！东北人办事儿讲究排面！新郎可仗义了，不整景儿，实实在在！来，走一个！",
+        "standardText": "那当然！东北人办事讲究排场！新郎很讲义气，不摆排场，实实在在！来，干一杯！",
+        "isUserLine": false,
+        "audioFileName": "d010_l6",
+        "standardAudioFileName": "s_d010_l6"
+      },
+      {
+        "id": "d010_l7",
+        "speakerRoleId": "you",
+        "dongbeiText": "走一个！祝新人百年好合！日子过得红红火火！",
+        "standardText": "干杯！祝新人百年好合！日子过得红红火火！",
+        "isUserLine": true,
+        "audioFileName": "d010_l7",
+        "standardAudioFileName": "s_d010_l7"
+      },
+      {
+        "id": "d010_l8",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "你这人真靠谱！下回有啥事儿别跟我掰扯，直接说！咱铁子之间不扯犊子！",
+        "standardText": "你这人真可靠！下回有什么事别跟我争论，直接说！咱好兄弟之间不胡扯！",
+        "isUserLine": false,
+        "audioFileName": "d010_l8",
+        "standardAudioFileName": "s_d010_l8"
+      }
+    ]
+  },
+  {
+    "id": "d011",
+    "scenarioTitle": "烧烤摊豪横点餐",
+    "scenarioDescription": "在东北烧烤摊上，和热情老板来一场豪横的点餐互动",
+    "backgroundImageName": "",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "boss",
+        "name": "烧烤老板",
+        "avatarName": "",
+        "description": "嗓门贼大的烧烤摊老板"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "饿坏了的食客"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d011_l1",
+        "speakerRoleId": "boss",
+        "dongbeiText": "哎呀大哥来啦！想整点啥？今天羊肉串贼新鲜！",
+        "standardText": "大哥来了！想吃点什么？今天羊肉串特别新鲜！",
+        "isUserLine": false,
+        "audioFileName": "d011_l1",
+        "standardAudioFileName": "s_d011_l1"
+      },
+      {
+        "id": "d011_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大哥，先来五十个串儿！牛的羊的各一半！",
+        "standardText": "老板，先来五十串！牛肉和羊肉各一半！",
+        "isUserLine": true,
+        "audioFileName": "d011_l2",
+        "standardAudioFileName": "s_d011_l2"
+      },
+      {
+        "id": "d011_l3",
+        "speakerRoleId": "boss",
+        "dongbeiText": "好嘞！够豪横啊！再整点啥？板筋、鸡翅都有！",
+        "standardText": "好的！真大方啊！再来点什么？板筋、鸡翅都有！",
+        "isUserLine": false,
+        "audioFileName": "d011_l3",
+        "standardAudioFileName": "s_d011_l3"
+      },
+      {
+        "id": "d011_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "板筋来二十个！鸡翅膀整十个！毛豆花生也来点！",
+        "standardText": "板筋来二十个！鸡翅来十个！毛豆花生也来点！",
+        "isUserLine": true,
+        "audioFileName": "d011_l4",
+        "standardAudioFileName": "s_d011_l4"
+      },
+      {
+        "id": "d011_l5",
+        "speakerRoleId": "boss",
+        "dongbeiText": "啤酒来不？大绿棒子还是哈啤？冰镇的贼得劲儿！",
+        "standardText": "啤酒要吗？雪花还是哈尔滨啤酒？冰镇的特别爽！",
+        "isUserLine": false,
+        "audioFileName": "d011_l5",
+        "standardAudioFileName": "s_d011_l5"
+      },
+      {
+        "id": "d011_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "哈啤来一箱！今天可劲儿造！",
+        "standardText": "哈尔滨啤酒来一箱！今天放开吃！",
+        "isUserLine": true,
+        "audioFileName": "d011_l6",
+        "standardAudioFileName": "s_d011_l6"
+      },
+      {
+        "id": "d011_l7",
+        "speakerRoleId": "boss",
+        "dongbeiText": "得嘞！敞亮！你这一桌子得小二百，不带犹豫的！",
+        "standardText": "好的！真爽快！你这一桌子得小两百，一点不犹豫！",
+        "isUserLine": false,
+        "audioFileName": "d011_l7",
+        "standardAudioFileName": "s_d011_l7"
+      },
+      {
+        "id": "d011_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "小意思！先吃着，不够再加！",
+        "standardText": "小意思！先吃着，不够再加！",
+        "isUserLine": true,
+        "audioFileName": "d011_l8",
+        "standardAudioFileName": "s_d011_l8"
+      }
+    ]
+  },
+  {
+    "id": "d012",
+    "scenarioTitle": "铁锅炖大鹅",
+    "scenarioDescription": "在东北农家院里吃铁锅炖，感受热气腾腾的东北美食文化",
+    "backgroundImageName": "",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "host",
+        "name": "农家院老板娘",
+        "avatarName": "",
+        "description": "实在热情的农家院老板娘"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "慕名而来的游客"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d012_l1",
+        "speakerRoleId": "host",
+        "dongbeiText": "欢迎来咱家！今天大鹅是现杀的，贼新鲜！",
+        "standardText": "欢迎来我们家！今天的大鹅是现杀的，特别新鲜！",
+        "isUserLine": false,
+        "audioFileName": "d012_l1",
+        "standardAudioFileName": "s_d012_l1"
+      },
+      {
+        "id": "d012_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姐，鹅整好了没？我们都饿坏了！",
+        "standardText": "大姐，鹅做好了没有？我们都饿坏了！",
+        "isUserLine": true,
+        "audioFileName": "d012_l2",
+        "standardAudioFileName": "s_d012_l2"
+      },
+      {
+        "id": "d012_l3",
+        "speakerRoleId": "host",
+        "dongbeiText": "马上就得！再焖会儿更入味！心急吃不了热豆腐！",
+        "standardText": "马上就好！再焖一会儿更入味！心急吃不了热豆腐！",
+        "isUserLine": false,
+        "audioFileName": "d012_l3",
+        "standardAudioFileName": "s_d012_l3"
+      },
+      {
+        "id": "d012_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "那先整点小菜垫吧垫吧呗！",
+        "standardText": "那先来点小菜垫垫肚子吧！",
+        "isUserLine": true,
+        "audioFileName": "d012_l4",
+        "standardAudioFileName": "s_d012_l4"
+      },
+      {
+        "id": "d012_l5",
+        "speakerRoleId": "host",
+        "dongbeiText": "行！给你整盘大拉皮，再来个拍黄瓜！都是自己家种的！",
+        "standardText": "好！给你来盘大拉皮，再来个拍黄瓜！都是自家种的！",
+        "isUserLine": false,
+        "audioFileName": "d012_l5",
+        "standardAudioFileName": "s_d012_l5"
+      },
+      {
+        "id": "d012_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "这铁锅炖也太香了！贴的饼子在哪呢？",
+        "standardText": "这铁锅炖太香了！贴的玉米饼在哪呢？",
+        "isUserLine": true,
+        "audioFileName": "d012_l6",
+        "standardAudioFileName": "s_d012_l6"
+      },
+      {
+        "id": "d012_l7",
+        "speakerRoleId": "host",
+        "dongbeiText": "饼子贴锅边上呢！蘸着汤汁吃，嘎嘎好吃！保你吃了还想来！",
+        "standardText": "饼子贴在锅边上呢！蘸着汤汁吃，特别好吃！保证你吃了还想来！",
+        "isUserLine": false,
+        "audioFileName": "d012_l7",
+        "standardAudioFileName": "s_d012_l7"
+      },
+      {
+        "id": "d012_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "真绝了！东北铁锅炖yyds！下回还来！",
+        "standardText": "真是绝了！东北铁锅炖永远的神！下次还来！",
+        "isUserLine": true,
+        "audioFileName": "d012_l8",
+        "standardAudioFileName": "s_d012_l8"
+      }
+    ]
+  },
+  {
+    "id": "d013",
+    "scenarioTitle": "早市砍价大战",
+    "scenarioDescription": "在东北早市上跟摊主斗智斗勇，体验经典砍价场面",
+    "backgroundImageName": "",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "vendor",
+        "name": "卖菜大姐",
+        "avatarName": "",
+        "description": "精打细算的早市摊主"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "会过日子的东北大妈"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d013_l1",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姐，这白菜咋卖的？",
+        "standardText": "大姐，这白菜怎么卖？",
+        "isUserLine": true,
+        "audioFileName": "d013_l1",
+        "standardAudioFileName": "s_d013_l1"
+      },
+      {
+        "id": "d013_l2",
+        "speakerRoleId": "vendor",
+        "dongbeiText": "两块一斤！今天的菜贼新鲜，早上刚拉来的！",
+        "standardText": "两块一斤！今天的菜特别新鲜，早上刚运来的！",
+        "isUserLine": false,
+        "audioFileName": "d013_l2",
+        "standardAudioFileName": "s_d013_l2"
+      },
+      {
+        "id": "d013_l3",
+        "speakerRoleId": "you",
+        "dongbeiText": "两块也太贵了！一块五行不？我多买点！",
+        "standardText": "两块也太贵了！一块五行不行？我多买点！",
+        "isUserLine": true,
+        "audioFileName": "d013_l3",
+        "standardAudioFileName": "s_d013_l3"
+      },
+      {
+        "id": "d013_l4",
+        "speakerRoleId": "vendor",
+        "dongbeiText": "大姐你可真会砍价！一块五我都不挣钱了！一块八吧！",
+        "standardText": "大姐你真会砍价！一块五我都不赚钱了！一块八吧！",
+        "isUserLine": false,
+        "audioFileName": "d013_l4",
+        "standardAudioFileName": "s_d013_l4"
+      },
+      {
+        "id": "d013_l5",
+        "speakerRoleId": "you",
+        "dongbeiText": "行吧行吧，一块八就一块八！给我来十斤！",
+        "standardText": "行吧行吧，一块八就一块八！给我来十斤！",
+        "isUserLine": true,
+        "audioFileName": "d013_l5",
+        "standardAudioFileName": "s_d013_l5"
+      },
+      {
+        "id": "d013_l6",
+        "speakerRoleId": "vendor",
+        "dongbeiText": "十斤？那我再给你饶两根葱！",
+        "standardText": "十斤？那我再送你两根葱！",
+        "isUserLine": false,
+        "audioFileName": "d013_l6",
+        "standardAudioFileName": "s_d013_l6"
+      },
+      {
+        "id": "d013_l7",
+        "speakerRoleId": "you",
+        "dongbeiText": "这还差不多！大姐你人真敞亮！",
+        "standardText": "这还差不多！大姐你人真大方！",
+        "isUserLine": true,
+        "audioFileName": "d013_l7",
+        "standardAudioFileName": "s_d013_l7"
+      },
+      {
+        "id": "d013_l8",
+        "speakerRoleId": "vendor",
+        "dongbeiText": "下回还来啊！我给你留好的！",
+        "standardText": "下次还来啊！我给你留好的！",
+        "isUserLine": false,
+        "audioFileName": "d013_l8",
+        "standardAudioFileName": "s_d013_l8"
+      }
+    ]
+  },
+  {
+    "id": "d014",
+    "scenarioTitle": "服装市场砍价",
+    "scenarioDescription": "在东北服装批发市场买衣服，学学怎么跟老板谈价钱",
+    "backgroundImageName": "",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "seller",
+        "name": "服装老板",
+        "avatarName": "",
+        "description": "能说会道的服装店老板"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "想淘件好衣服的顾客"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d014_l1",
+        "speakerRoleId": "seller",
+        "dongbeiText": "美女帅哥看看！新到的大衣，今年最流行的款！",
+        "standardText": "美女帅哥看看！新到的大衣，今年最流行的款式！",
+        "isUserLine": false,
+        "audioFileName": "d014_l1",
+        "standardAudioFileName": "s_d014_l1"
+      },
+      {
+        "id": "d014_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "这大衣多钱？看着还行！",
+        "standardText": "这大衣多少钱？看着还不错！",
+        "isUserLine": true,
+        "audioFileName": "d014_l2",
+        "standardAudioFileName": "s_d014_l2"
+      },
+      {
+        "id": "d014_l3",
+        "speakerRoleId": "seller",
+        "dongbeiText": "这个五百八！纯羊毛的，穿上贼有范儿！",
+        "standardText": "这个五百八！纯羊毛的，穿上特别有气质！",
+        "isUserLine": false,
+        "audioFileName": "d014_l3",
+        "standardAudioFileName": "s_d014_l3"
+      },
+      {
+        "id": "d014_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "五百八也太狠了！你给个痛快价！",
+        "standardText": "五百八也太贵了！你给个实在价！",
+        "isUserLine": true,
+        "audioFileName": "d014_l4",
+        "standardAudioFileName": "s_d014_l4"
+      },
+      {
+        "id": "d014_l5",
+        "speakerRoleId": "seller",
+        "dongbeiText": "看你诚心要，三百八拿走！赔本价了！",
+        "standardText": "看你诚心要，三百八拿走！赔本价了！",
+        "isUserLine": false,
+        "audioFileName": "d014_l5",
+        "standardAudioFileName": "s_d014_l5"
+      },
+      {
+        "id": "d014_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "二百五！多一分我都不要了！",
+        "standardText": "二百五！多一分钱我都不要了！",
+        "isUserLine": true,
+        "audioFileName": "d014_l6",
+        "standardAudioFileName": "s_d014_l6"
+      },
+      {
+        "id": "d014_l7",
+        "speakerRoleId": "seller",
+        "dongbeiText": "你可太狠了！行行行，三百块，交个朋友！",
+        "standardText": "你太狠了！行行行，三百块，交个朋友！",
+        "isUserLine": false,
+        "audioFileName": "d014_l7",
+        "standardAudioFileName": "s_d014_l7"
+      },
+      {
+        "id": "d014_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "成交！老板你真够意思！",
+        "standardText": "成交！老板你真够意思！",
+        "isUserLine": true,
+        "audioFileName": "d014_l8",
+        "standardAudioFileName": "s_d014_l8"
+      }
+    ]
+  },
+  {
+    "id": "d015",
+    "scenarioTitle": "酒桌劝酒",
+    "scenarioDescription": "体验经典东北酒局，学会劝酒和挡酒的地道说法",
+    "backgroundImageName": "",
+    "difficulty": "地道老铁",
+    "roles": [
+      {
+        "id": "brother",
+        "name": "张哥",
+        "avatarName": "",
+        "description": "酒量惊人的东北大哥"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "被拉来喝酒的朋友"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d015_l1",
+        "speakerRoleId": "brother",
+        "dongbeiText": "来来来！都坐好了！今天不喝趴下不算完！",
+        "standardText": "来来来！都坐好了！今天不喝醉不算完！",
+        "isUserLine": false,
+        "audioFileName": "d015_l1",
+        "standardAudioFileName": "s_d015_l1"
+      },
+      {
+        "id": "d015_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "张哥，我今天真不能多喝，一会儿还得开车呢！",
+        "standardText": "张哥，我今天真不能多喝，一会儿还得开车呢！",
+        "isUserLine": true,
+        "audioFileName": "d015_l2",
+        "standardAudioFileName": "s_d015_l2"
+      },
+      {
+        "id": "d015_l3",
+        "speakerRoleId": "brother",
+        "dongbeiText": "开啥车！打车回去！不喝不给面子啊！来，走一个！",
+        "standardText": "开什么车！打车回去！不喝不给面子啊！来，干一杯！",
+        "isUserLine": false,
+        "audioFileName": "d015_l3",
+        "standardAudioFileName": "s_d015_l3"
+      },
+      {
+        "id": "d015_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "行吧！走一个！但说好了就三杯啊！",
+        "standardText": "行吧！干一杯！但说好了就三杯啊！",
+        "isUserLine": true,
+        "audioFileName": "d015_l4",
+        "standardAudioFileName": "s_d015_l4"
+      },
+      {
+        "id": "d015_l5",
+        "speakerRoleId": "brother",
+        "dongbeiText": "三杯哪够啊！感情深一口闷！感情浅舔一舔！你说咱俩啥感情？",
+        "standardText": "三杯哪够啊！感情深一口喝完！感情浅舔一舔！你说咱俩什么感情？",
+        "isUserLine": false,
+        "audioFileName": "d015_l5",
+        "standardAudioFileName": "s_d015_l5"
+      },
+      {
+        "id": "d015_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "得得得！感情深！我干了你随意！",
+        "standardText": "行行行！感情深！我干了你随意！",
+        "isUserLine": true,
+        "audioFileName": "d015_l6",
+        "standardAudioFileName": "s_d015_l6"
+      },
+      {
+        "id": "d015_l7",
+        "speakerRoleId": "brother",
+        "dongbeiText": "这才对嘛！够爷们儿！再来再来！",
+        "standardText": "这才对嘛！够爷们！再来再来！",
+        "isUserLine": false,
+        "audioFileName": "d015_l7",
+        "standardAudioFileName": "s_d015_l7"
+      },
+      {
+        "id": "d015_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "我不行了，真不行了！你饶了我吧张哥！",
+        "standardText": "我不行了，真不行了！你放过我吧张哥！",
+        "isUserLine": true,
+        "audioFileName": "d015_l8",
+        "standardAudioFileName": "s_d015_l8"
+      }
+    ]
+  },
+  {
+    "id": "d016",
+    "scenarioTitle": "酒后掏心窝子",
+    "scenarioDescription": "喝多了跟铁哥们儿掏心窝子，感受东北人的真性情",
+    "backgroundImageName": "",
+    "difficulty": "地道老铁",
+    "roles": [
+      {
+        "id": "buddy",
+        "name": "老王",
+        "avatarName": "",
+        "description": "喝多了话特别多的铁哥们儿"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "陪喝的好兄弟"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d016_l1",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "哥们儿，我跟你说句掏心窝子的话……",
+        "standardText": "哥们儿，我跟你说句掏心窝子的话……",
+        "isUserLine": false,
+        "audioFileName": "d016_l1",
+        "standardAudioFileName": "s_d016_l1"
+      },
+      {
+        "id": "d016_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "你说！咱哥俩之间有啥不能说的！",
+        "standardText": "你说！咱哥俩之间有什么不能说的！",
+        "isUserLine": true,
+        "audioFileName": "d016_l2",
+        "standardAudioFileName": "s_d016_l2"
+      },
+      {
+        "id": "d016_l3",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "这些年就你对我最够意思！别人都是虚头巴脑的，就你实在！",
+        "standardText": "这些年就你对我最够意思！别人都是虚情假意的，就你实在！",
+        "isUserLine": false,
+        "audioFileName": "d016_l3",
+        "standardAudioFileName": "s_d016_l3"
+      },
+      {
+        "id": "d016_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "你喝多了净整这些没用的！咱俩谁跟谁啊！",
+        "standardText": "你喝多了净说这些虚的！咱俩谁跟谁啊！",
+        "isUserLine": true,
+        "audioFileName": "d016_l4",
+        "standardAudioFileName": "s_d016_l4"
+      },
+      {
+        "id": "d016_l5",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "我没喝多！我说的都是真心话！以后你有事儿就吱声，上刀山下火海我都去！",
+        "standardText": "我没喝多！我说的都是真心话！以后你有事就说，赴汤蹈火我都去！",
+        "isUserLine": false,
+        "audioFileName": "d016_l5",
+        "standardAudioFileName": "s_d016_l5"
+      },
+      {
+        "id": "d016_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "行了行了！你这一喝酒就上头，一上头就唠叨！来，再走一个！",
+        "standardText": "行了行了！你这一喝酒就上头，一上头就唠叨！来，再干一杯！",
+        "isUserLine": true,
+        "audioFileName": "d016_l6",
+        "standardAudioFileName": "s_d016_l6"
+      },
+      {
+        "id": "d016_l7",
+        "speakerRoleId": "buddy",
+        "dongbeiText": "走！咱不醉不归！你是我这辈子最铁的哥们儿！",
+        "standardText": "干！咱不醉不归！你是我这辈子最铁的哥们儿！",
+        "isUserLine": false,
+        "audioFileName": "d016_l7",
+        "standardAudioFileName": "s_d016_l7"
+      },
+      {
+        "id": "d016_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "你也是！行了别嚎了，一把鼻涕一把泪的！",
+        "standardText": "你也是！行了别哭了，一把鼻涕一把泪的！",
+        "isUserLine": true,
+        "audioFileName": "d016_l8",
+        "standardAudioFileName": "s_d016_l8"
+      }
+    ]
+  },
+  {
+    "id": "d017",
+    "scenarioTitle": "楼上楼下拌嘴",
+    "scenarioDescription": "楼上楼下邻居因为噪音问题拌嘴，东北人吵架也是一场好戏",
+    "backgroundImageName": "",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "neighbor",
+        "name": "楼下大姐",
+        "avatarName": "",
+        "description": "住楼下的火爆脾气大姐"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "住楼上的住户"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d017_l1",
+        "speakerRoleId": "neighbor",
+        "dongbeiText": "楼上的！你家孩子咋又蹦跶呢？大半夜的也不消停！",
+        "standardText": "楼上的！你家孩子怎么又蹦跳呢？大半夜的也不消停！",
+        "isUserLine": false,
+        "audioFileName": "d017_l1",
+        "standardAudioFileName": "s_d017_l1"
+      },
+      {
+        "id": "d017_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姐你消消气！孩子刚睡呢，那是我家猫！",
+        "standardText": "大姐你消消气！孩子刚睡呢，那是我家猫！",
+        "isUserLine": true,
+        "audioFileName": "d017_l2",
+        "standardAudioFileName": "s_d017_l2"
+      },
+      {
+        "id": "d017_l3",
+        "speakerRoleId": "neighbor",
+        "dongbeiText": "猫？你家养了个老虎吧！砸得我家吊灯直晃悠！",
+        "standardText": "猫？你家养了个老虎吧！砸得我家吊灯直晃！",
+        "isUserLine": false,
+        "audioFileName": "d017_l3",
+        "standardAudioFileName": "s_d017_l3"
+      },
+      {
+        "id": "d017_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姐我真没办法，猫这玩意儿管不住啊！要不我给它穿个袜子？",
+        "standardText": "大姐我真没办法，猫这东西管不住啊！要不我给它穿个袜子？",
+        "isUserLine": true,
+        "audioFileName": "d017_l4",
+        "standardAudioFileName": "s_d017_l4"
+      },
+      {
+        "id": "d017_l5",
+        "speakerRoleId": "neighbor",
+        "dongbeiText": "穿袜子？你可拉倒吧！你给它穿棉鞋都不好使！",
+        "standardText": "穿袜子？你别逗了！你给它穿棉鞋都没用！",
+        "isUserLine": false,
+        "audioFileName": "d017_l5",
+        "standardAudioFileName": "s_d017_l5"
+      },
+      {
+        "id": "d017_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "那大姐你说咋整？我也不能把猫扔了啊！",
+        "standardText": "那大姐你说怎么办？我也不能把猫扔了啊！",
+        "isUserLine": true,
+        "audioFileName": "d017_l6",
+        "standardAudioFileName": "s_d017_l6"
+      },
+      {
+        "id": "d017_l7",
+        "speakerRoleId": "neighbor",
+        "dongbeiText": "铺个地毯行不？我也不是不讲理的人，就是觉少！",
+        "standardText": "铺个地毯行不行？我也不是不讲理的人，就是睡眠浅！",
+        "isUserLine": false,
+        "audioFileName": "d017_l7",
+        "standardAudioFileName": "s_d017_l7"
+      },
+      {
+        "id": "d017_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "行！我明天就整！大姐对不住了哈！给你拿点水果赔不是！",
+        "standardText": "行！我明天就弄！大姐对不住了！给你拿点水果赔不是！",
+        "isUserLine": true,
+        "audioFileName": "d017_l8",
+        "standardAudioFileName": "s_d017_l8"
+      }
+    ]
+  },
+  {
+    "id": "d018",
+    "scenarioTitle": "小两口拌嘴",
+    "scenarioDescription": "东北小两口因为酱油引发的搞笑日常拌嘴",
+    "backgroundImageName": "",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "wife",
+        "name": "媳妇",
+        "avatarName": "",
+        "description": "嘴硬心软的东北媳妇"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "经常忘事的东北老公"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d018_l1",
+        "speakerRoleId": "wife",
+        "dongbeiText": "你咋又忘买酱油了？我昨天跟你说了八百遍！",
+        "standardText": "你怎么又忘买酱油了？我昨天跟你说了好多遍！",
+        "isUserLine": false,
+        "audioFileName": "d018_l1",
+        "standardAudioFileName": "s_d018_l1"
+      },
+      {
+        "id": "d018_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "我寻思你买了呢！你不是说你去超市吗？",
+        "standardText": "我以为你买了呢！你不是说你去超市吗？",
+        "isUserLine": true,
+        "audioFileName": "d018_l2",
+        "standardAudioFileName": "s_d018_l2"
+      },
+      {
+        "id": "d018_l3",
+        "speakerRoleId": "wife",
+        "dongbeiText": "我去超市买的是卫生纸！酱油是让你买的！你这脑子是不是有包啊？",
+        "standardText": "我去超市买的是卫生纸！酱油是让你买的！你这脑子是不是有问题啊？",
+        "isUserLine": false,
+        "audioFileName": "d018_l3",
+        "standardAudioFileName": "s_d018_l3"
+      },
+      {
+        "id": "d018_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "行了行了，我这就去买！还要啥不？",
+        "standardText": "行了行了，我这就去买！还要什么不？",
+        "isUserLine": true,
+        "audioFileName": "d018_l4",
+        "standardAudioFileName": "s_d018_l4"
+      },
+      {
+        "id": "d018_l5",
+        "speakerRoleId": "wife",
+        "dongbeiText": "醋也没了！盐也快没了！你上回买的那个啥玩意儿也不对！",
+        "standardText": "醋也没了！盐也快没了！你上次买的那个什么东西也不对！",
+        "isUserLine": false,
+        "audioFileName": "d018_l5",
+        "standardAudioFileName": "s_d018_l5"
+      },
+      {
+        "id": "d018_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "我记不住这老些！你给我列个单子呗！",
+        "standardText": "我记不住这么多！你给我列个清单吧！",
+        "isUserLine": true,
+        "audioFileName": "d018_l6",
+        "standardAudioFileName": "s_d018_l6"
+      },
+      {
+        "id": "d018_l7",
+        "speakerRoleId": "wife",
+        "dongbeiText": "给你列了你也能忘！上回那单子你搁裤兜里洗了！",
+        "standardText": "给你列了你也能忘！上次那清单你放裤兜里给洗了！",
+        "isUserLine": false,
+        "audioFileName": "d018_l7",
+        "standardAudioFileName": "s_d018_l7"
+      },
+      {
+        "id": "d018_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "那我拍照总行了吧！媳妇别生气了，回来给你买根糖葫芦！",
+        "standardText": "那我拍照总行了吧！老婆别生气了，回来给你买根糖葫芦！",
+        "isUserLine": true,
+        "audioFileName": "d018_l8",
+        "standardAudioFileName": "s_d018_l8"
+      }
+    ]
+  },
+  {
+    "id": "d019",
+    "scenarioTitle": "失恋安慰大法",
+    "scenarioDescription": "哥们儿失恋了，学学东北人是怎么安慰人的",
+    "backgroundImageName": "",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "friend",
+        "name": "小李",
+        "avatarName": "",
+        "description": "刚被甩的可怜哥们儿"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "负责安慰的好朋友"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d019_l1",
+        "speakerRoleId": "friend",
+        "dongbeiText": "完了，她跟我掰了……我可咋整啊……",
+        "standardText": "完了，她跟我分手了……我该怎么办啊……",
+        "isUserLine": false,
+        "audioFileName": "d019_l1",
+        "standardAudioFileName": "s_d019_l1"
+      },
+      {
+        "id": "d019_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "别难受了！那样的不值当！天涯何处无芳草！",
+        "standardText": "别难受了！那样的不值得！天涯何处无芳草！",
+        "isUserLine": true,
+        "audioFileName": "d019_l2",
+        "standardAudioFileName": "s_d019_l2"
+      },
+      {
+        "id": "d019_l3",
+        "speakerRoleId": "friend",
+        "dongbeiText": "可是我对她那老好了！掏心掏肺的！她咋就不领情呢？",
+        "standardText": "可是我对她那么好！掏心掏肺的！她怎么就不领情呢？",
+        "isUserLine": false,
+        "audioFileName": "d019_l3",
+        "standardAudioFileName": "s_d019_l3"
+      },
+      {
+        "id": "d019_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "你越这样人家越不稀罕你！你得硬气点！",
+        "standardText": "你越这样人家越不在乎你！你得硬气点！",
+        "isUserLine": true,
+        "audioFileName": "d019_l4",
+        "standardAudioFileName": "s_d019_l4"
+      },
+      {
+        "id": "d019_l5",
+        "speakerRoleId": "friend",
+        "dongbeiText": "你说得对……可我这心里头堵得慌啊！",
+        "standardText": "你说得对……可我心里难受啊！",
+        "isUserLine": false,
+        "audioFileName": "d019_l5",
+        "standardAudioFileName": "s_d019_l5"
+      },
+      {
+        "id": "d019_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "走！哥领你去撸串喝酒！啥事儿撸顿串就好了！",
+        "standardText": "走！哥带你去吃烤串喝酒！什么事吃顿烤串就好了！",
+        "isUserLine": true,
+        "audioFileName": "d019_l6",
+        "standardAudioFileName": "s_d019_l6"
+      },
+      {
+        "id": "d019_l7",
+        "speakerRoleId": "friend",
+        "dongbeiText": "你说得对！大不了重新找一个！比她好的有的是！",
+        "standardText": "你说得对！大不了重新找一个！比她好的有的是！",
+        "isUserLine": false,
+        "audioFileName": "d019_l7",
+        "standardAudioFileName": "s_d019_l7"
+      },
+      {
+        "id": "d019_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "这才对嘛！多大点事儿！咱东北爷们儿还怕找不着对象？",
+        "standardText": "这才对嘛！多大点事！咱东北男人还怕找不到对象？",
+        "isUserLine": true,
+        "audioFileName": "d019_l8",
+        "standardAudioFileName": "s_d019_l8"
+      }
+    ]
+  },
+  {
+    "id": "d020",
+    "scenarioTitle": "花式夸人",
+    "scenarioDescription": "学学东北人怎么夸人夸到位，让人心里美滋滋的",
+    "backgroundImageName": "",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "auntie",
+        "name": "热情大妈",
+        "avatarName": "",
+        "description": "小区里人见人爱的热情大妈"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "被夸得不好意思的年轻人"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d020_l1",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "哎呀妈呀！这谁家孩子，长得也太俊了！",
+        "standardText": "哎呀！这谁家孩子，长得太好看了！",
+        "isUserLine": false,
+        "audioFileName": "d020_l1",
+        "standardAudioFileName": "s_d020_l1"
+      },
+      {
+        "id": "d020_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "大妈你可别逗我了！哪有那么夸张！",
+        "standardText": "大妈你别逗我了！哪有那么夸张！",
+        "isUserLine": true,
+        "audioFileName": "d020_l2",
+        "standardAudioFileName": "s_d020_l2"
+      },
+      {
+        "id": "d020_l3",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "哎呀妈呀，老稀罕你了！这大眼睛，跟俩铃铛似的！",
+        "standardText": "哎呀，太喜欢你了！这大眼睛，跟两个铃铛似的！",
+        "isUserLine": false,
+        "audioFileName": "d020_l3",
+        "standardAudioFileName": "s_d020_l3"
+      },
+      {
+        "id": "d020_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "大妈你可太会说话了！嘴跟抹了蜜似的！",
+        "standardText": "大妈你太会说话了！嘴跟抹了蜜似的！",
+        "isUserLine": true,
+        "audioFileName": "d020_l4",
+        "standardAudioFileName": "s_d020_l4"
+      },
+      {
+        "id": "d020_l5",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "我说的都是实话！你看这身板儿，多精神！搁以前就是大家闺秀！",
+        "standardText": "我说的都是实话！你看这身材，多精神！放以前就是大家闺秀！",
+        "isUserLine": false,
+        "audioFileName": "d020_l5",
+        "standardAudioFileName": "s_d020_l5"
+      },
+      {
+        "id": "d020_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "大妈你也不赖！看着比实际年龄年轻多了！",
+        "standardText": "大妈你也不差！看着比实际年龄年轻多了！",
+        "isUserLine": true,
+        "audioFileName": "d020_l6",
+        "standardAudioFileName": "s_d020_l6"
+      },
+      {
+        "id": "d020_l7",
+        "speakerRoleId": "auntie",
+        "dongbeiText": "哎呀你这小嘴儿可太甜了！对象有了没？大妈给你介绍一个！",
+        "standardText": "哎呀你这嘴太甜了！有对象了没？大妈给你介绍一个！",
+        "isUserLine": false,
+        "audioFileName": "d020_l7",
+        "standardAudioFileName": "s_d020_l7"
+      },
+      {
+        "id": "d020_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "大妈你可饶了我吧！有了有了！下回带给你看！",
+        "standardText": "大妈你饶了我吧！有了有了！下次带给你看！",
+        "isUserLine": true,
+        "audioFileName": "d020_l8",
+        "standardAudioFileName": "s_d020_l8"
+      }
+    ]
+  },
+  {
+    "id": "d021",
+    "scenarioTitle": "出租车唠嗑",
+    "scenarioDescription": "坐上东北出租车，跟健谈的司机师傅一通唠",
+    "backgroundImageName": "",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "driver",
+        "name": "出租车司机",
+        "avatarName": "",
+        "description": "话匣子关不上的出租车师傅"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "打车去火车站的乘客"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d021_l1",
+        "speakerRoleId": "you",
+        "dongbeiText": "师傅！去火车站！赶时间！",
+        "standardText": "师傅！去火车站！赶时间！",
+        "isUserLine": true,
+        "audioFileName": "d021_l1",
+        "standardAudioFileName": "s_d021_l1"
+      },
+      {
+        "id": "d021_l2",
+        "speakerRoleId": "driver",
+        "dongbeiText": "得嘞！坐稳了啊！保准给你送到！几点的车？",
+        "standardText": "好的！坐稳了！保证给你送到！几点的车？",
+        "isUserLine": false,
+        "audioFileName": "d021_l2",
+        "standardAudioFileName": "s_d021_l2"
+      },
+      {
+        "id": "d021_l3",
+        "speakerRoleId": "you",
+        "dongbeiText": "三点半的！来得及不？",
+        "standardText": "三点半的！来得及吗？",
+        "isUserLine": true,
+        "audioFileName": "d021_l3",
+        "standardAudioFileName": "s_d021_l3"
+      },
+      {
+        "id": "d021_l4",
+        "speakerRoleId": "driver",
+        "dongbeiText": "富富有余！你是外地来的吧？来东北旅游的？",
+        "standardText": "绰绰有余！你是外地来的吧？来东北旅游的？",
+        "isUserLine": false,
+        "audioFileName": "d021_l4",
+        "standardAudioFileName": "s_d021_l4"
+      },
+      {
+        "id": "d021_l5",
+        "speakerRoleId": "you",
+        "dongbeiText": "对！头一回来！东北可太好玩了！",
+        "standardText": "对！第一次来！东北太好玩了！",
+        "isUserLine": true,
+        "audioFileName": "d021_l5",
+        "standardAudioFileName": "s_d021_l5"
+      },
+      {
+        "id": "d021_l6",
+        "speakerRoleId": "driver",
+        "dongbeiText": "那可不！咱东北好吃好玩的老多了！下回来我领你转转！",
+        "standardText": "那当然！咱东北好吃好玩的特别多！下次来我带你转转！",
+        "isUserLine": false,
+        "audioFileName": "d021_l6",
+        "standardAudioFileName": "s_d021_l6"
+      },
+      {
+        "id": "d021_l7",
+        "speakerRoleId": "you",
+        "dongbeiText": "师傅你人真好！东北人都这么热情吗？",
+        "standardText": "师傅你人真好！东北人都这么热情吗？",
+        "isUserLine": true,
+        "audioFileName": "d021_l7",
+        "standardAudioFileName": "s_d021_l7"
+      },
+      {
+        "id": "d021_l8",
+        "speakerRoleId": "driver",
+        "dongbeiText": "那必须的！咱东北人实在！到了啊，火车站！祝你一路顺风！",
+        "standardText": "那当然！咱东北人实在！到了，火车站！祝你一路顺风！",
+        "isUserLine": false,
+        "audioFileName": "d021_l8",
+        "standardAudioFileName": "s_d021_l8"
+      }
+    ]
+  },
+  {
+    "id": "d022",
+    "scenarioTitle": "澡堂搓澡初体验",
+    "scenarioDescription": "南方朋友第一次去东北大澡堂子，体验全套洗浴服务",
+    "backgroundImageName": "",
+    "difficulty": "略知一二",
+    "roles": [
+      {
+        "id": "staff",
+        "name": "洗浴前台",
+        "avatarName": "",
+        "description": "干脆利落的洗浴中心前台"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "第一次来东北洗浴的南方人"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d022_l1",
+        "speakerRoleId": "staff",
+        "dongbeiText": "欢迎光临！洗浴还是住宿？",
+        "standardText": "欢迎光临！洗浴还是住宿？",
+        "isUserLine": false,
+        "audioFileName": "d022_l1",
+        "standardAudioFileName": "s_d022_l1"
+      },
+      {
+        "id": "d022_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "搓澡！来个全套的！都有啥服务？",
+        "standardText": "搓澡！来个全套的！都有什么服务？",
+        "isUserLine": true,
+        "audioFileName": "d022_l2",
+        "standardAudioFileName": "s_d022_l2"
+      },
+      {
+        "id": "d022_l3",
+        "speakerRoleId": "staff",
+        "dongbeiText": "全套有搓澡、牛奶浴、盐浴、汗蒸，完事儿还能整个采耳！",
+        "standardText": "全套有搓澡、牛奶浴、盐浴、汗蒸，结束后还能做个采耳！",
+        "isUserLine": false,
+        "audioFileName": "d022_l3",
+        "standardAudioFileName": "s_d022_l3"
+      },
+      {
+        "id": "d022_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "全都要！多少钱？",
+        "standardText": "全都要！多少钱？",
+        "isUserLine": true,
+        "audioFileName": "d022_l4",
+        "standardAudioFileName": "s_d022_l4"
+      },
+      {
+        "id": "d022_l5",
+        "speakerRoleId": "staff",
+        "dongbeiText": "全套一百二！贼值！给你搓得干干净净跟新人似的！",
+        "standardText": "全套一百二！特别值！给你搓得干干净净像新人一样！",
+        "isUserLine": false,
+        "audioFileName": "d022_l5",
+        "standardAudioFileName": "s_d022_l5"
+      },
+      {
+        "id": "d022_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "行！来吧！我可从来没搓过澡！",
+        "standardText": "行！来吧！我从来没搓过澡！",
+        "isUserLine": true,
+        "audioFileName": "d022_l6",
+        "standardAudioFileName": "s_d022_l6"
+      },
+      {
+        "id": "d022_l7",
+        "speakerRoleId": "staff",
+        "dongbeiText": "一看你就是南方来的！放心，我们师傅手艺杠杠的！搓完保你脱胎换骨！",
+        "standardText": "一看你就是南方来的！放心，我们师傅手艺特别好！搓完保你脱胎换骨！",
+        "isUserLine": false,
+        "audioFileName": "d022_l7",
+        "standardAudioFileName": "s_d022_l7"
+      },
+      {
+        "id": "d022_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "那感情好！走着！入乡随俗嘛！",
+        "standardText": "那太好了！走吧！入乡随俗嘛！",
+        "isUserLine": true,
+        "audioFileName": "d022_l8",
+        "standardAudioFileName": "s_d022_l8"
+      }
+    ]
+  },
+  {
+    "id": "d023",
+    "scenarioTitle": "理发店整造型",
+    "scenarioDescription": "在东北理发店整个新发型，跟Tony老师交流你的想法",
+    "backgroundImageName": "",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "barber",
+        "name": "Tony老师",
+        "avatarName": "",
+        "description": "审美在线的东北理发师"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "想换个发型的顾客"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d023_l1",
+        "speakerRoleId": "barber",
+        "dongbeiText": "帅哥来啦！今天想整啥样的？",
+        "standardText": "帅哥来了！今天想剪什么样的？",
+        "isUserLine": false,
+        "audioFileName": "d023_l1",
+        "standardAudioFileName": "s_d023_l1"
+      },
+      {
+        "id": "d023_l2",
+        "speakerRoleId": "you",
+        "dongbeiText": "整帅点就行！别给我整太短了！",
+        "standardText": "剪帅点就行！别给我剪太短了！",
+        "isUserLine": true,
+        "audioFileName": "d023_l2",
+        "standardAudioFileName": "s_d023_l2"
+      },
+      {
+        "id": "d023_l3",
+        "speakerRoleId": "barber",
+        "dongbeiText": "放心！在我手里保证给你整得倍儿精神！要不要染个色？",
+        "standardText": "放心！在我手里保证让你特别精神！要不要染个颜色？",
+        "isUserLine": false,
+        "audioFileName": "d023_l3",
+        "standardAudioFileName": "s_d023_l3"
+      },
+      {
+        "id": "d023_l4",
+        "speakerRoleId": "you",
+        "dongbeiText": "不用染了！整个清爽的就行！",
+        "standardText": "不用染了！弄个清爽的就行！",
+        "isUserLine": true,
+        "audioFileName": "d023_l4",
+        "standardAudioFileName": "s_d023_l4"
+      },
+      {
+        "id": "d023_l5",
+        "speakerRoleId": "barber",
+        "dongbeiText": "行！给你整个两边铲，上面留长点，贼有型！",
+        "standardText": "行！给你来个两边剃短，上面留长点，特别有型！",
+        "isUserLine": false,
+        "audioFileName": "d023_l5",
+        "standardAudioFileName": "s_d023_l5"
+      },
+      {
+        "id": "d023_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "听你的！你是专业的！",
+        "standardText": "听你的！你是专业的！",
+        "isUserLine": true,
+        "audioFileName": "d023_l6",
+        "standardAudioFileName": "s_d023_l6"
+      },
+      {
+        "id": "d023_l7",
+        "speakerRoleId": "barber",
+        "dongbeiText": "好了！你看看咋样？帅不帅？",
+        "standardText": "好了！你看看怎么样？帅不帅？",
+        "isUserLine": false,
+        "audioFileName": "d023_l7",
+        "standardAudioFileName": "s_d023_l7"
+      },
+      {
+        "id": "d023_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "绝了！跟换了个人似的！大哥手艺可以啊！",
+        "standardText": "绝了！跟换了个人似的！大哥手艺真好！",
+        "isUserLine": true,
+        "audioFileName": "d023_l8",
+        "standardAudioFileName": "s_d023_l8"
+      }
+    ]
+  },
+  {
+    "id": "d024",
+    "scenarioTitle": "过年走亲戚",
+    "scenarioDescription": "大年初二走亲戚，感受东北过年的热闹氛围",
+    "backgroundImageName": "",
+    "difficulty": "初来乍到",
+    "roles": [
+      {
+        "id": "aunt",
+        "name": "大姨",
+        "avatarName": "",
+        "description": "热情得让人招架不住的大姨"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "回家过年的晚辈"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d024_l1",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姨过年好！给您拜年了！",
+        "standardText": "大姨过年好！给您拜年了！",
+        "isUserLine": true,
+        "audioFileName": "d024_l1",
+        "standardAudioFileName": "s_d024_l1"
+      },
+      {
+        "id": "d024_l2",
+        "speakerRoleId": "aunt",
+        "dongbeiText": "哎呀快进屋！外头冷！冻坏了吧？快上炕！",
+        "standardText": "哎呀快进屋！外面冷！冻坏了吧？快上炕！",
+        "isUserLine": false,
+        "audioFileName": "d024_l2",
+        "standardAudioFileName": "s_d024_l2"
+      },
+      {
+        "id": "d024_l3",
+        "speakerRoleId": "you",
+        "dongbeiText": "没事儿！这点冷不算啥！大姨你身体咋样？",
+        "standardText": "没事！这点冷不算什么！大姨你身体怎么样？",
+        "isUserLine": true,
+        "audioFileName": "d024_l3",
+        "standardAudioFileName": "s_d024_l3"
+      },
+      {
+        "id": "d024_l4",
+        "speakerRoleId": "aunt",
+        "dongbeiText": "好着呢！你看我这精气神儿！来来来，嗑瓜子吃糖！",
+        "standardText": "好着呢！你看我这精气神！来来来，磕瓜子吃糖！",
+        "isUserLine": false,
+        "audioFileName": "d024_l4",
+        "standardAudioFileName": "s_d024_l4"
+      },
+      {
+        "id": "d024_l5",
+        "speakerRoleId": "aunt",
+        "dongbeiText": "对了！你有对象了没？大姨给你介绍一个！条件老好了！",
+        "standardText": "对了！你有对象了没？大姨给你介绍一个！条件特别好！",
+        "isUserLine": false,
+        "audioFileName": "d024_l5",
+        "standardAudioFileName": "s_d024_l5"
+      },
+      {
+        "id": "d024_l6",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姨你可别操心了！我自己有数！",
+        "standardText": "大姨你别操心了！我自己心里有数！",
+        "isUserLine": true,
+        "audioFileName": "d024_l6",
+        "standardAudioFileName": "s_d024_l6"
+      },
+      {
+        "id": "d024_l7",
+        "speakerRoleId": "aunt",
+        "dongbeiText": "你有啥数！都多大了还不着急！来来来先吃饭！你看这一大桌子菜！",
+        "standardText": "你有什么数！都多大了还不着急！来来来先吃饭！你看这一大桌子菜！",
+        "isUserLine": false,
+        "audioFileName": "d024_l7",
+        "standardAudioFileName": "s_d024_l7"
+      },
+      {
+        "id": "d024_l8",
+        "speakerRoleId": "you",
+        "dongbeiText": "大姨你也太实在了！这菜也忒多了！吃不了兜着走啊！",
+        "standardText": "大姨你太实在了！这菜太多了！吃不了得打包带走！",
+        "isUserLine": true,
+        "audioFileName": "d024_l8",
+        "standardAudioFileName": "s_d024_l8"
+      }
+    ]
+  },
+  {
+    "id": "d025",
+    "scenarioTitle": "东北婚宴热闹",
+    "scenarioDescription": "参加东北婚宴，感受份子钱、硬菜、闹洞房的热闹场面",
+    "backgroundImageName": "",
+    "difficulty": "地道老铁",
+    "roles": [
+      {
+        "id": "pal",
+        "name": "发小",
+        "avatarName": "",
+        "description": "一起来参加婚礼的发小"
+      },
+      {
+        "id": "you",
+        "name": "你",
+        "avatarName": "",
+        "description": "参加婚礼的宾客"
+      }
+    ],
+    "lines": [
+      {
+        "id": "d025_l1",
+        "speakerRoleId": "you",
+        "dongbeiText": "哎，随多少份子合适啊？你随多少？",
+        "standardText": "哎，给多少份子钱合适？你给多少？",
+        "isUserLine": true,
+        "audioFileName": "d025_l1",
+        "standardAudioFileName": "s_d025_l1"
+      },
+      {
+        "id": "d025_l2",
+        "speakerRoleId": "pal",
+        "dongbeiText": "我随六百！咱俩关系铁，不能少了！你呢？",
+        "standardText": "我给六百！咱俩关系好，不能少了！你呢？",
+        "isUserLine": false,
+        "audioFileName": "d025_l2",
+        "standardAudioFileName": "s_d025_l2"
+      },
+      {
+        "id": "d025_l3",
+        "speakerRoleId": "you",
+        "dongbeiText": "那我也六百！上硬菜了没？我都饿坏了！",
+        "standardText": "那我也六百！上硬菜了没有？我都饿坏了！",
+        "isUserLine": true,
+        "audioFileName": "d025_l3",
+        "standardAudioFileName": "s_d025_l3"
+      },
+      {
+        "id": "d025_l4",
+        "speakerRoleId": "pal",
+        "dongbeiText": "来了来了！四个凉菜已经上了！锅包肉马上就到！",
+        "standardText": "来了来了！四个凉菜已经上了！锅包肉马上就到！",
+        "isUserLine": false,
+        "audioFileName": "d025_l4",
+        "standardAudioFileName": "s_d025_l4"
+      },
+      {
+        "id": "d025_l5",
+        "speakerRoleId": "you",
+        "dongbeiText": "东北婚宴没有锅包肉那不白瞎了嘛！",
+        "standardText": "东北婚宴没有锅包肉那不就白搭了嘛！",
+        "isUserLine": true,
+        "audioFileName": "d025_l5",
+        "standardAudioFileName": "s_d025_l5"
+      },
+      {
+        "id": "d025_l6",
+        "speakerRoleId": "pal",
+        "dongbeiText": "可不是嘛！听说今天得有二十多道菜！鸡鸭鱼肉全乎！",
+        "standardText": "可不是嘛！听说今天有二十多道菜！鸡鸭鱼肉齐全！",
+        "isUserLine": false,
+        "audioFileName": "d025_l6",
+        "standardAudioFileName": "s_d025_l6"
+      },
+      {
+        "id": "d025_l7",
+        "speakerRoleId": "you",
+        "dongbeiText": "新娘子可真漂亮！新郎有福了！",
+        "standardText": "新娘子真漂亮！新郎有福气了！",
+        "isUserLine": true,
+        "audioFileName": "d025_l7",
+        "standardAudioFileName": "s_d025_l7"
+      },
+      {
+        "id": "d025_l8",
+        "speakerRoleId": "pal",
+        "dongbeiText": "那必须的！来！举杯！祝他俩白头到老！一辈子幸福！",
+        "standardText": "那当然！来！举杯！祝他俩白头到老！一辈子幸福！",
+        "isUserLine": false,
+        "audioFileName": "d025_l8",
+        "standardAudioFileName": "s_d025_l8"
+      },
+      {
+        "id": "d025_l9",
+        "speakerRoleId": "you",
+        "dongbeiText": "干了！早生贵子！日子红红火火的！",
+        "standardText": "干杯！早生贵子！日子红红火火的！",
+        "isUserLine": true,
+        "audioFileName": "d025_l9",
+        "standardAudioFileName": "s_d025_l9"
+      }
+    ]
+  }
+]

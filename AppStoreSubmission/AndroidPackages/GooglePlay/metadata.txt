@@ -1,0 +1,23 @@
+App Name: LaoTie
+Subtitle: Northeastern Chinese Dialect Learning
+Primary Category: Education
+Secondary Category: Reference
+Copyright: © 2026 Lu Yi
+
+Description:
+LaoTie is a learning app for Northeastern Chinese dialects.
+It includes vocabulary, dialogues, speaking practice, and location check-ins.
+
+Key Features:
+1) Scenario-based dialogues
+2) Vocabulary lookup with examples
+3) Speaking practice with scoring
+4) Scenic check-in learning tasks
+5) Quiz levels for retention
+
+Keywords: chinese dialect, northeastern chinese, speaking practice, vocabulary, learning app
+
+What's New (1.0.0):
+- Initial release with core learning features
+- Added speech scoring and progress tracking
+- Improved audio playback reliability

@@ -1,0 +1,8 @@
+[Google Play 提审前检查]
+- app-release.aab 已放置
+- metadata.txt 已填写
+- privacy_policy_url.txt 已填写
+- terms_url.txt 已填写
+- screenshots/ 需补充（手机尺寸）
+- Data Safety 表单需填写
+- 内容分级与政策问卷需填写

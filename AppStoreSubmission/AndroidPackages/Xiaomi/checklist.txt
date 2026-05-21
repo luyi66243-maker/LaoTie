@@ -1,0 +1,8 @@
+[Xiaomi 提审前检查]
+- app-release.apk 已放置
+- metadata.txt 已填写
+- privacy_policy_url.txt 已填写
+- terms_url.txt 已填写
+- screenshots/ 需补充 5 张 1080x1920
+- software_copyright.pdf 需补充
+- app_filing_record.pdf 需补充

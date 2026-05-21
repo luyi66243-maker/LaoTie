@@ -1,0 +1,107 @@
+name: LaoTie
+options:
+  bundleIdPrefix: com.laoyi
+  deploymentTarget:
+    iOS: "16.0"
+  xcodeVersion: "16.0"
+  createIntermediateGroups: true
+  defaultConfig: Release
+  groupSortPosition: top
+
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    MARKETING_VERSION: "1.1.0"
+    CURRENT_PROJECT_VERSION: "3"
+    GENERATE_INFOPLIST_FILE: true
+    TARGETED_DEVICE_FAMILY: "1"
+    IPHONEOS_DEPLOYMENT_TARGET: "16.0"
+    ENABLE_BITCODE: "NO"
+
+targets:
+  LaoTie:
+    type: application
+    platform: iOS
+    deploymentTarget: "16.0"
+    sources:
+      - path: LaoTie
+        excludes:
+          - "Preview Content"
+    resources:
+      - path: LaoTie/Resources/Assets.xcassets
+      - path: LaoTie/Resources/SeedData
+      - path: LaoTie/Resources/Audio
+      - path: LaoTie/Resources/Fonts
+      - path: LaoTie/Preview Content
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.laoyi.laotieapp
+        PRODUCT_NAME: 唠嗑小馆
+        INFOPLIST_FILE: LaoTie/Configuration/Info.plist
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        DEVELOPMENT_TEAM: "26M652YW3Q"
+        CODE_SIGN_ENTITLEMENTS: LaoTie/LaoTie.entitlements
+        SWIFT_STRICT_CONCURRENCY: minimal
+        ENABLE_USER_SCRIPT_SANDBOXING: "NO"
+        ENABLE_ON_DEMAND_RESOURCES: "NO"
+    attributes:
+      configs:
+        Debug:
+          SWIFT_ACTIVE_COMPILATION_CONDITIONS: DEBUG
+          CODE_SIGN_STYLE: Automatic
+          TARGETED_DEVICE_FAMILY: "1,2"
+        Release:
+          SWIFT_ACTIVE_COMPILATION_CONDITIONS: ""
+          SWIFT_COMPILATION_MODE: wholemodule
+          DEBUG_INFORMATION_FORMAT: "dwarf-with-dsym"
+          CODE_SIGN_STYLE: Manual
+          CODE_SIGN_IDENTITY: "iPhone Distribution: Lu Yi (26M652YW3Q)"
+          PROVISIONING_PROFILE_SPECIFIER: "LaoTie App Store"
+
+  LaoTieTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: LaoTieTests
+    dependencies:
+      - target: LaoTie
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.laoyi.laotieapp.tests
+        CODE_SIGN_STYLE: Automatic
+        GENERATE_INFOPLIST_FILE: true
+
+  LaoTieUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - path: LaoTieUITests
+    dependencies:
+      - target: LaoTie
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.laoyi.laotieapp.uitests
+        CODE_SIGN_STYLE: Automatic
+        GENERATE_INFOPLIST_FILE: true
+
+schemes:
+  LaoTie:
+    build:
+      targets:
+        LaoTie: all
+        LaoTieTests: [test]
+        LaoTieUITests: [test]
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - LaoTieTests
+        - LaoTieUITests
+    profile:
+      config: Release
+    analyze:
+      config: Debug
+    archive:
+      config: Release

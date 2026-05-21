@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">唠嗑小馆</string>
+    <string name="privacy_title">隐私保护说明</string>
+    <string name="privacy_body">我们仅在需要时请求录音、定位、相机权限，用于口语练习与风景打卡。你可在设置中随时管理授权。</string>
+    <string name="privacy_agree">同意并继续</string>
+    <string name="privacy_decline">暂不同意</string>
+</resources>
