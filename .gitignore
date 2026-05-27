@@ -16,6 +16,9 @@ build_output/
 # Local workspace config
 .qoder/
 
+# Distribution artifacts
+AppStoreSubmission/*.ipa
+
 # Signing
 keystore.properties
 *.jks
